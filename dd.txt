@@ -10,6 +10,7 @@ action
 . g - go
 . l - log
 . m - meet
+. t - trash
 . w - walk
 
 calendar
@@ -25,8 +26,10 @@ alpha
 ...
 . at - att
 . be - bamboo
+. c$ - cash
 . cg - cgs
 . fi - FIOS
+. g$ - grow
 . gm - gm-fin
 . hu - hulu
 . hw - hillsb-water

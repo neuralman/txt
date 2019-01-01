@@ -8,4 +8,23 @@ cat
 
 jia
 ...
-. 
+. c$180
+. g$117
+
+bills
+...
+. teco
+. att
+. gm-fin
+. ins
+. hulu
+. spotify
+. water
+. fios
+
+links
+...
+. heatprodweb.ur.com/HEAT
+. https://pgp.ur.com:9000/omc/GetLoginScreen.uevent
+. eportal.ur.com
+. rm.ur.com/printers.html

@@ -1,19 +1,19 @@
 1-19
 ...
-. 01 t - trash
+. 01 t - t
 . 03 r @ 9a - court
-. 04 f - trash
-. 08 t - wells-fargo-date, trash
+. 04 f - t
+. 08 t - wells-fargo-date, t
 . 09 w - auto-ins.$
 . 11 f - cgs.$, trash
-. 15 t - trash
-. 18 f - trash
-. 22 t - mom.c, trash
-. 25 f - cgs.$, trash
-. 29 t - trash
+. 15 t - t
+. 18 f - t
+. 22 t - mom.c, t
+. 25 f - cgs.$, t
+. 29 t - t
 . 31 r - new-day-cal.d
 
 2-19
 ...
-. 01 f - trash
+. 01 f - t
 . 28 r - traffic-court-

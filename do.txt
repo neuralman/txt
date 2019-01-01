@@ -5,15 +5,18 @@ home
 . pets.bath
 . trash
 . clean
+. wells fargo 1/8/19
 
-bills
+work
 ...
-. teco
-. att
-. gm-fin
-. winhaven-ins
-. hulu
-. spotify
-. hillsb-water
-. fios
+. resume
+. project ref site
+. linked in update
+. job site updates
+. print bus cards
+
+cat
+...
+. name change
+
 

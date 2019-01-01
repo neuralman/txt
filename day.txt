@@ -1,36 +1,36 @@
 01/01 t
 ...
-. 12:00p - cat.c
-. 05:30p - cg.g
-. 07:00p - ue.g
+. 12p - cat.c
+. 12p - sally beauty - hair ties
+. 7p - ue.g
+. 9p - t
 . te.$
 
 01/02 w
 ...
-. 12:00p - cat.c
-. 5:30p - cg.g
-. 07:00p - ue.g
+. 12p - cat.c
+. 7p - ue.g
 
 01/03 r
 ...
-. 09:00a - court
-. 11:00a - be.g
-. 02:30p - be.g
-. 05:00p - be.g
+. 9a - court
+. 11a - be.g
+. 2p - be.g
+. 5p - be.g
 
 01/04 f
 ...
-. 11:00a - be.g
+. 11a - be.g
+. 9p  - t
 
 01/05 sa
 ...
-. 11:00a - be.g
+. 11a - be.g
 
 01/06 su
 ...
-. 07:00a - cg.g
-. 12:00p - cat.c
-. 05:30p - cg.g
-. 07:00p - ue.g
+. 12p - cat.c
+. 5:30p - cg.g
+. 7p - ue.g
 
 
