@@ -1,1 +1,6 @@
-Jia Huang = [ neuralman.io@gmail.com, (813)415-5571 ]
+Jia Huang
+-----------------------------
+email: neuralman.io@gmail.com
+cell : (813) 415-5571
+city : Tampa, FL
+-----------------------------
