@@ -8,10 +8,12 @@ home
 
 bills
 ...
-. te.$
-. at.$
-. gm.$
-. wh.$
-. hu.$
-. sp.$
-. hw.$
+. teco
+. att
+. gm-fin
+. winhaven-ins
+. hulu
+. spotify
+. hillsb-water
+. fios
+

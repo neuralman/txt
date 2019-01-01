@@ -1,4 +1,4 @@
-01/19
+1-19
 ...
 . 01 t - trash
 . 03 r @ 9a - court
@@ -13,7 +13,7 @@
 . 29 t - trash
 . 31 r - new-day-cal.d
 
-02/19
+2-19
 ...
 . 01 f - trash
 . 28 r - traffic-court-
