@@ -4,8 +4,52 @@ city : Tampa, FL
 cell : (813) 415-5571
 email: neuralman.io@gmail.com
 -----------------------------------------
-12345678901234567890123456789012345678901
 
 OBJECTIVE
------------------------------
-To leverage my 
+-----------------------------------------
+To leverage my 20+ years of client-server
+custom business solutions development
+experience, project management skills,  
+and expertise in the financial industry 
+into a software engineer role with
+MetLife.
+
+TECHNICAL SKILLS
+-----------------------------------------
+. Angular 2, 4, 7
+. Modern Javascript, React.js, Vue.js
+. Node.js, Firebase, ElasticSearch
+. Github, Gitbucket
+. Agile, SCRUM, RAD, JAD, Waterfall
+. Cloud9, Azure, AWS
+. UI/UX, Graphic Design, Video, Music
+. SharePoint 2010, 2013, 2016, 365
+. Notes/Domino R3-R8
+
+WORK EXPERIENCE
+-----------------------------------------
+
+CERTIFICATIONS
+-----------------------------------------
+. Principal Certified Lotus Professional
+. Certified Lotus Professional R4
+. Certified Lotus Specialist R3 
+
+EDUCATION
+-----------------------------------------
+. University of South Florida
+. BA Business Management - MIS
+
+PROJECTS
+-----------------------------------------
+. Neuralman Artist on Spotify and Youtube
+
+INTERESTS
+-----------------------------------------
+. Modern Javascript
+. Functional Programming
+. Minimal Interior Design
+. Modern Architecture
+. Win Chun Kung Fu
+. Salt Water Fishing
+

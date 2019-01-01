@@ -1,0 +1,17 @@
+home
+...
+. mow
+. bebe.w
+. pets.bath
+. trash
+. clean
+
+bills
+...
+. te.$
+. at.$
+. gm.$
+. wh.$
+. hu.$
+. sp.$
+. hw.$

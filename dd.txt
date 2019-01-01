@@ -3,28 +3,51 @@ data dictionary
 
 action
 ..
-. $  = pay
-. ac = call
-. ad = do
-. af = file
-. ag = go
-. al = log
-. am = meet
+. $ - pay
+. c - call
+. d - do
+. f - file
+. g - go
+. l - log
+. m - meet
+. w - walk
 
 calendar
 ..
-. c3 = 3 months
-. c6 = 6 months
-. cd = day
-. cm = 1 month
-. cw = week
-. cy = year
+. c3 - 3 months
+. c6 - 6 months
+. cd - day
+. cm - 1 month
+. cw - week
+. cy - year
 
 alpha
 ...
-. be - bamboo-express
+. at - att
+. be - bamboo
 . cg - cgs
+. gm - gm-fin
+. hu - hulu
+. hw - hillsb-water
+. pu - publix
+. sp - spotify
+. sw - speedway
+. te - teco
 . ue - uber-eats
+. wg - walgreens
+. wh - winhaven-ins
+. wm - walmart
+
+weekday
+...
+. m
+. t 
+. w 
+. r
+. f
+. sa
+. su
+
 
 
 

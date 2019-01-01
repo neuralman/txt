@@ -1,8 +1,19 @@
 01/19
 ...
-. 03: thr @ 9a - court
-. 08: wed - wells-fargo-date
-. 09: wed - auto-ins.$
-. 11: fri - cgs.$
-. 22: tue - mom.c
-. 25: fri - cgs.$
+. 01 t - trash
+. 03 r @ 9a - court
+. 04 f - trash
+. 08 t - wells-fargo-date, trash
+. 09 w - auto-ins.$
+. 11 f - cgs.$, trash
+. 15 t - trash
+. 18 f - trash
+. 22 t - mom.c, trash
+. 25 f - cgs.$, trash
+. 29 t - trash
+. 31 r - new-day-cal.d
+
+02/19
+...
+. 01 f - trash
+. 28 r - traffic-court-
