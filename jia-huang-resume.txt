@@ -19,6 +19,7 @@ TECHNICAL SKILLS
 . Angular 2, 4, 7
 . HTML5, CSS3, Modern Javascript
 . React.js, Vue.js, D3.js
+. Front-End, Soing
 . Web API, RESTful, JSON, GraphQL
 . Node.js, NPM, Firebase, ElasticSearch
 . Github, Gitbucket
@@ -35,6 +36,47 @@ TECHNICAL SKILLS
 
 WORK EXPERIENCE
 -----------------------------------------
+CGS, Tampa, FL
+Technical Analyst
+
+Bankers Insurance, St. Pete, FL
+Software Engineer
+
+Cardinal Solutions, Tampa, FL
+Senior Application Consultant
+
+MetLife, Tampa FL
+Technology Liaison II, Metrics Consultant II
+
+RELATED EXPERIENCE
+-----------------------------------------
+
+CGS, Detroit, MI
+Lotus Notes Consultant
+
+CGS, Tampa, FL
+Lotus Notes Consultant
+
+Equifax, Certegy, FIS, St. Pete, FL
+Webmaster, Lotus Notes/Domino Developer
+
+E-Solutions, Tampa, FL
+Webmaster, Lotus Notes Consultant
+
+IKON Office Solutions, Tampa, FL
+Senior Lotus Notes Consultant
+
+Network InfoServ, Tampa, FL
+Lotus Notes Consultant
+
+CGS, Tampa, FL
+Technical Analyst
+
+PaineWebber Inc., Tampa, FL
+Stockbroker
+
+Jim Walter International Sales, Tampa, FL
+Area Sales Manager Far East & Pacifi Rim
 
 CERTIFICATIONS
 -----------------------------------------
@@ -50,6 +92,8 @@ EDUCATION
 PROJECTS
 -----------------------------------------
 . Neuralman Artist on Spotify and Youtube
+. Neuralman on Ebay sold 2+ million tags
+. Lotus Notes/Domino User Group, Tampa
 
 INTERESTS
 -----------------------------------------
@@ -59,4 +103,8 @@ INTERESTS
 . Modern Architecture
 . Win Chun Kung Fu
 . Salt Water Fishing
+
+FAVORITE BUILDING
+-----------------------------------------
+. Bank of China by I.M. Pei, Hong Kong
 
