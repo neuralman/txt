@@ -1,0 +1,9 @@
+data dictionary
+...
+. c = call
+. d = do
+. f = file
+. g = go
+. l = log
+. m = meet
+
