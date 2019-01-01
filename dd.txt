@@ -3,6 +3,7 @@ data dictionary
 
 action
 ..
+. $  = pay
 . ac = call
 . ad = do
 . af = file
@@ -18,6 +19,13 @@ calendar
 . cm = 1 month
 . cw = week
 . cy = year
+
+alpha
+...
+. be - bamboo-express
+. cg - cgs
+. ue - uber-eats
+
 
 
 
