@@ -1,9 +1,25 @@
 data dictionary
 ...
-. c = call
-. d = do
-. f = file
-. g = go
-. l = log
-. m = meet
+
+action
+..
+. ac = call
+. ad = do
+. af = file
+. ag = go
+. al = log
+. am = meet
+
+calendar
+..
+. c3 = 3 months
+. c6 = 6 months
+. cd = day
+. cm = 1 month
+. cw = week
+. cy = year
+
+
+
+
 
