@@ -17,14 +17,21 @@ MetLife.
 TECHNICAL SKILLS
 -----------------------------------------
 . Angular 2, 4, 7
-. Modern Javascript, React.js, Vue.js
-. Node.js, Firebase, ElasticSearch
+. HTML5, CSS3, Modern Javascript
+. React.js, Vue.js, D3.js
+. Web API, RESTful, JSON, GraphQL
+. Node.js, NPM, Firebase, ElasticSearch
 . Github, Gitbucket
 . Agile, SCRUM, RAD, JAD, Waterfall
 . Cloud9, Azure, AWS
 . UI/UX, Graphic Design, Video, Music
+. Bootstrap, jQuery, CDN
+. PHP, Python, VBA, LotusScript
 . SharePoint 2010, 2013, 2016, 365
 . Notes/Domino R3-R8
+. IBM AS400, SQL, NoSQL database
+. IoT, IFTTT
+. Blockchain, Cryptocurrency
 
 WORK EXPERIENCE
 -----------------------------------------
