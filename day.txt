@@ -1,14 +1,5 @@
-01/01 t
-...
-. 12p - cat.c
-. 12p - sally beauty - hair ties
-. 7p - ue.g
-. 9p - t
-. te.$
-
 01/02 w
 ...
-. 12p - cat.c
 . 7p - ue.g
 
 01/03 r

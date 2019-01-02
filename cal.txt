@@ -1,6 +1,5 @@
 1-19
 ...
-. 01 t - t
 . 03 r @ 9a - court
 . 04 f - t
 . 08 t - wells-fargo-date, t
