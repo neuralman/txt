@@ -42,6 +42,21 @@ sites
 . keyboard macros -https://jiawp.neocities.org/keymacros.html
 . jia parallax - https://jiawp.neocities.org/pex333/index.html
 
+cloud9
+...
+. ng serve --host $IP --port $PORT --public-host $C9_HOSTNAME
+. nvm i v8
+. npm i -g npm@latest
+. npm i -g @angular/cli
+
+github
+...
+. git init
+. git add -A
+. git add filename.txt
+. git commit -m "add project"
+. git remote add origin https://github.com/neuralman/txt/
+. git push -u -f origin master
 
 
 
