@@ -29,4 +29,20 @@ links
 . eportal.ur.com
 . rm.ur.com/printers.html
 
-test
+sites
+...
+. poc - https://jiawp.neocities.org/jia-2019/color3.html
+. notes - https://jiawp.neocities.org/notes/
+. animation - https://jiawp.neocities.org/animation/
+. firebase - https://jiawp.neocities.org/jia-333/index.html
+. material - https://jiawp.neocities.org/material/
+. tour of hero - https://jiawp.neocities.org/ng6-tour/heroes
+. louie nyc - https://jiawp.neocities.org/louie/index.html
+. pogo - https://jiawp.neocities.org/pogo.html
+. keyboard macros -https://jiawp.neocities.org/keymacros.html
+. jia parallax - https://jiawp.neocities.org/pex333/index.html
+
+
+
+
+
