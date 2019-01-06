@@ -261,6 +261,152 @@ PS
 . functional-lite javascript
 . fundamentals of functional programming in javascript
 . hardcore functional programming in javascript
+. front end web development career kickstart
+. front end web development: get started
+. building strong front-end practices
+. front-end first: testing and prototyping with javascript apps
+. front-end web development quick start with html5, css, and javascript
+. tactics and tools for troubleshooting front-end web development
+. better code quality with eslint
+. prince2 - the quality theme
+. project management basics for non-project managers
+. project management for software engineers
+. agilepm project management
+. beginner's guide to project management
+. case studies in project management
+. creative project management in ftrack
+. introduction to project management & the pmp exam
+. organizational influences & project management lifecycle
+. pmi-acp: applied agile project management (10 of 11)
+. pitching the project: winning management by-;in on a project
+. prepare for the are vol.2: project managmenet
+. project communications management
+. javascript animations with gsap
+. javascript asynchronous module definition (amd) explained
+. javascript best practices
+. javascript build automation with gulp.js
+. javascript design patterns
+. javascript from scratch
+. javascript fundamentals
+. javascript fundamentals for es6
+. javascript module fundamentals
+. javascript objects and prototypes
+. javascript templating with handlebars
+. html document flow
+. html fundamentals
+. html for the xaml developer
+. html, css, and javascript: the big picture
+. html5 advanced topics
+. html5 animations made easy with animate.css
+. html5 audio, video, and webrtc
+. html5 browser caching
+. html 5 canvas fundamentals
+. css 3 from scratch
+. css animation with transition and transform
+. css flexbox fundamentals
+. css positioning
+. css3
+. css3 in-depth
+. creating elegant navigation using css3 transitions
+. introduction to html5 and css3
+. learn basic html5 and css4 by building your first web page
+. using html5 and css3
+. a better css: less and sass
+. code school: assembling sass
+. haml and sass
+. simplifying css in visual studio with sass
+. speeding up your css workflow with sass and compass
+. devops: the big picture
+. aws certified devops engineer: continous deliver and automation
+. aws certified devops engineer: high availability and elasticity
+. aws certifed devops engineer: monitoring, metrics, and logging
+. aws certified devops engineer: security, governance, and validation
+. implementing devops in the real world
+. integrating docker with devops automated workflows
+. introducing continous integration and delivery concepts for devops on oracle cloud
+. access control lists (acls) for cisco ccna 200-125/100-105
+. advanced routing for cisco ccna 200-125/200-105
+. advanced securing for ccna security (210-260) iins
+. application layer protocols for cisco ccna 200-125/100-105
+. building and troubleshooting a network with icndi skills for cisco ccna 200-125/100-105
+. sharepoint 2010 basics
+. sharepoint 2010 development
+. sharepoint 2010 list & libraries for end users
+. sharepoint 2010 managing sites & site collections
+. sharepoint 2010 no-code customization for power users
+. sharepoint 2010 for web designers - part 2, site design
+. sharepoint 2013 fundamentals
+. sharepoint 2013 development: client object model and rest api
+. sharepint 2013 developer ramp-up - part 1
+. sharepint 2013 developer ramp-up - part 2
+. sharepint 2013 developer ramp-up - part 3
+. sharepint 2013 developer ramp-up - part 4
+. sharepint 2013 developer ramp-up - part 5
+. sharepint 2013 developer ramp-up - part 6
+. sharepoint 2013 buisness connectivity services fundamentals
+. sharepoint 2013 fundamentals for business professionals
+. sharepoint 2013 performancepoint services
+. sharepoint 2013 search back to front
+. sharepoint 2013 search development
+. sharepoint 2013 workflow - advanced topics
+. sharepoint workflow - fundamentals
+. sharepoint 2016 backup and recovery
+. basic administration of sharepoint 2016
+. big picture: sharepoint 2016 on-prem, online, or hybrid?
+. configuring service application in sharepoint 2016
+. configuring the user profile service aplication in sharepoint 2016
+. implementing a hybrid sharepoint 2013/2016 infrastructure
+. managing sharepoing 2016 search
+. managing sharepoint 2016 for business intelligence
+. managing sharepoint 2016 with powershell
+. monitoring, troubleshooting, and optimizing sharepoint 2016
+. on-premises installation of sharepoing 2016
+. planning and managing sharepoing 2016 productivity solutions
+. planning for sharepoint server 2016: logical architecture and itegrations
+. planning for sharepoint server 2016: physical topology and services
+. office 365 apis: contacts
+. office 365 apis: overview, authentication & the discovery services
+. office 365 administration playbook
+. office 365 development: getting started
+. office 365 exchange online administration
+. office 365: deploying & updating microsoft office 365 proplus
+. office 365: introduction to onedrive for business
+. office 365: introduction to the outlook web app
+. administering office 365 quick start
+. configuring and managing office 365 security
+. a practical guide to vanilla web components
+. develop websites and components in adobe experience managers
+. develop websites and components in adobe experience manager advanced
+. html5 web components: moving from jquery to polymer.js
+. the role of shadow it and how to bring it out of the darkness
+. angular cli
+. angular forms
+. angular reactive forms
+. rxjs: getting started
+. getting started with reactive programming using rxjs
+. learning rxjs operators by example playbook
+. play by play: angular 2/rxjs/http and restful services with john papa and dan wahlin
+. rxjs: getting started
+. getting started with reactive programming using rxjs
+. learning rxjs oeprators by example playbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
