@@ -74,4 +74,21 @@ PS
 . play by play: angular with typescript with john papa and christopher martin
 . practical typescript migration
 . using es6 with typescript
-. 
+. bootstrap 3
+. bootstrap 4 for the developer
+. building a wordpress theme framework with bootstrap 3
+. code school: blasting off with bootstrap
+. extending bootstrap with css, javascript, and jquery
+. jquery advanced topics
+. jquery animation
+. jquery forms and bootstrap 3
+. jquery fundamentals
+. jquery in-depth
+. jquery plugins & jquery ui
+. jquery template fundamentals
+. jquery tips and tricks
+. jquery ui
+. jquery-free javascript
+. jquery: getting started
+. advanced techniques in javascript and jquery
+
