@@ -656,69 +656,702 @@ full-stack
 . Used AJAX, JSON with jQuery for request data and response processing.
 . Tracked and solved tickets for defects on bug reporting tool (JIRA).
 . Used PUTTY for debugging and connect to my remote files in server securely using SSH Encryption (public key and private key) and WinSCP to transfer files between local and remote folders and change file permissions
+. Developed JSON RESTfull API service for new mobile apps(IOs/Android) in two-month period, including OAuth, users profiles, messages, friendship and etc(Node.js, express, socket).
+. Design NoSQL documents, install and setup couchbasedb in cloud instances(Amazon).
+. Design and deploy API specification with testing case(Swagger).
+. Development of the product and the concept of the brand new idea of the application.
+. My responsibilities were to analyze, design and build new components. This was a multi-cultural project.
+. Languages used in the project: Java, CSS, Javascript
+. Tools used in the project: Oracle, Hibernate, RestFUL Web Services, Spring, Agile Methodology, Confluence, Jira.
+. Full Stack development for Medical Staffing company with tens of thousands of job postings.
+. Ruby on Rails setup with Unicorn on Nginx.
+. Integrated all jobs postings with Schema tags and Google map listings.
+. MYSQL Database Architecture and Administration.
+. Custom User authentication.
+. Technologies used: Ruby, Ruby on Rails, MYSQL, NGINX, AWS, Git.
 
+it business analyst
+...
+. Performed dual roles as business analyst and project manager for multiple IT projects within the scope of a program, and including individual based projects to deliver customer-facing IT solutions. Project business domains included R & D, Logistics and Site Operations under the umbrella of the global real estate and facilities business group responsible for managing activities such as space allocation, environmental work conditions and equipment asset management. Project budgets ranged from $270K to $3.4M with a scope spanning Enterprise Asset Management (EAM) COTS software enhancements, system integrations, new Radio Frequency Identification Device (RFID) solutions, Lotus Notes to MS SharePoint cloud replacements, and data migrations.
+. Gathered, analyzed and created all types of requirements documents for over 8 technical solution projects.
+. Estimated initial project costs and resource planning lending to sooner than later project funding approvals.
+. Managed User Acceptance Testing (UAT) planning, documentation, tester training including UAT completion sign-off; resulting in a 50% reduction in UAT test cycle time for an EAM system upgrade through use of risk-based testing approach, lending to on-time deployment across 44 global sites.
+. Procured vendor for RFID Proof of Concept (POC) shaving vendor costs by 70% due to detailed POC Plan.
+. Integrated Intuit CRM and EDI connectivity with internal databases and external applications such as ASI and ESP.
+. Increased leads by 50% through web site development and administration, utilizing Dreamweaver HTML/CSS.
+. Managed the product's entire lifecycle and developed online and offline marketing strategies and benchmarking.
+. Monitored and controlled job cost process and tracked expenses, increasing sales and profits by thirty percent.
+. Established quality control processes at foreign factories, resulting in substantial defect margins reduction.
+. Coordinated deliverables and shipping logistics by incorporating and controlling business processes and guidelines.
+. Established and supervised in-house fulfillment facility, reducing shipping expenses, and unaccounted inventory.
+. Developed new markets in South America by locating, training, and managing promotional distributors.
+. Gathered requirements from business users from [company name] and translated them to the technical team using UML diagrams and Functional design documents to support implementation of ETL based project in Informatica Power Center.
+. Created and delivered full sign-off project documentation starting from Development and ending at post-Production deliverables by working with Key Stakeholders to elicit information and gain agreement
+. Managed and mentored a team of 8 quality assurance associates to deliver 24/7 support to 21 run and change applications supporting 70% of the vertical clusters of Bank of America
+. Accurately estimated the efforts required for incoming work-orders and scoped projects to bill client
+. Top scorer in a two month training program on core technologies at CSC including .Net technologies (C#, SQL server, ADO.Net) and test automation
+. Identified and replicated intricate and inconsistent issues, analyzed them, prepared root cause analysis (RCA) reports, found the root cause and fixed them after proposing the solution to client
+. Developed a fully functional travel portal, using .Net, as part of the training plan
+. Gathered requirements from business users from [company name] and translated them to the technical team using UML diagrams and Functional design documents to support implementation of ETL based project in Informatica Power Center.
+. Created and delivered full sign-off project documentation starting from Development and ending at post-Production deliverables by working with Key Stakeholders to elicit information and gain agreement
+. Managed and mentored a team of 8 quality assurance associates to deliver 24/7 support to 21 run and change applications supporting 70% of the vertical clusters of Bank of America
+. Accurately estimated the efforts required for incoming work-orders and scoped projects to bill client
+. Top scorer in a two month training program on core technologies at CSC including .Net technologies (C#, SQL server, ADO.Net) and test automation
+. Identified and replicated intricate and inconsistent issues, analyzed them, prepared root cause analysis (RCA) reports, found the root cause and fixed them after proposing the solution to client
+. Developed a fully functional travel portal, using .Net, as part of the training plan
+. Serving as a liaison between Product Development groups, enterprise PLM teams and Global Information Services in identifying and redefining business processes, and testing, evaluating, and deploying SharePoint-based solutions. Manage the site collection map structures, security policies and training strategy for 37000 users globally.
+. Authored 300+ Help documents, forming the basis for enterprise-wide Productivity Hub help database.
+. Created and executed developmental plans to transition 18 SharePoint users across the U.S. and China to SME-capabilities to independently collaborative sites, web parts, document libraries, lists, and views
+. Resolve an average of 1300 second-tier user issues annually over a 6-year period.
+. Led Product Development teams through challenging SharePoint upgrade using structured Change Management tools and processes.
+. Identified and documented extensive use cases for proposed supplementary administrative software; conducted exhaustive UAT, reporting issues in QA defect tracking tool, specifying requirements changes, and provided high-level updates and recommendations at stakeholder reviews.
+. Lead enterprise-wide governance committee to define, communicate, and facilitate best practices in PLM collaboration and tool usage.
+. Created business specifications, using BRD, SRD for Carrier Access System across the Verizon Telecom East and West footprint. Worked as team lead across IT groups on monthly project change requests.
+. Designed, documented and implemented project to condense five separate long-distance extract systems into one called module. This reduced future maintenance and testing time by >50%. Completed project <3 months and ahead of schedule.
+. Led rotational on-call production support for full XEA system after reductions in personnel required analysts to take on this assignment.
+. Reduced the occurrences of nagging abends post-release to 1-2 per week by analyzing output and implementing coding changes. This reduction resulted in 50% less callout to production support.
+. Took on additional application production support rotational 24/7 and completed several releases involving Endevor central support modules: creating GDG new datasets; ensuring new FTP functionality worked correctly once implemented; followed-up release verification of all elements. Role included manually adding new carriers to XEA FTP process and worked with offsite carriers to test initial file transmissions before setting up live cuts.
+. Completed all aspects of lead analyst functions: design, create Unit Test cases, System Test, UAT, Code Walkthrough, coordinated software releases. Updated DB2 explain verification for any changes to database calls. Worked with DBA on design and column updates and additions.
+. Administrated the change management process for 200+ call center, nine divisions, and corporate management.
+. Worked closely with Knology corporate leadership to identify customer care business needs and the costs/benefits of implementing various company-wide computing solutions.
+. Provided software requirements to programmers and web developers to address major software needs for the Knology organization.
+. Performed user acceptance testing for software changes and enhancements.
+. Created and documented system processes for end-users.
+. Supported e-commerce projects for AA.com utilizing Agile methodology as they pertained to seat purchases and other merchandising products at [company name].
+. Shared the facilitation of daily stand-up, retrospective, backlog grooming and iteration planning meetings serving in a Scrum Master role.
+. Revised and wrote user stories based on missing or new requirements established by project stakeholders utilizing the Rally tool.
+. Assisted with testing and updating test cases in Quality Center 10 in correspondence with the applicable User Stories.
+. Created Feature Overview training documentation for each release for AA.com showing new project features that were implemented.
+. Contributed to the success of several projects including implementation of three separate releases for premium economy seat selection, introduction of International trip insurance functionality and integration of a new regional carrier on AA.com.
+. Created RFI's, RFP's and conducted asset analysis to develop IT service and parts support quotes for clients
+. Analyzed Client Asset lists to determine SLA coverage
+. Involved in all aspects of the Pre and Post-sales support process
+. Created, developed and managed the contract renewal process
+. Increased renewal revenue by 35% through asset migration from OEM support
+. Established and developed Partner relationships and policies
+. Assigned as lead coordinator for all Partner renewals
+. Aligned with Quality Assurance, Software Developers, Security, and Business Partners to follow standards and methodologies. Translated business requirements into solutions while considering people, data, process and technology. Subject matter expert in various areas associated with SAP.
+. Researched data dialysis errors and worked to rectify errors, allowing the business to make informed decisions and improve operational efficiency.
+. Created reports in partnership with IT Developers, empowering business partners to drive productivity improvements.
+. Developed test scripts, conducted unit tests, documented and resolved discrepancies resulting in zero defects in production.
+. Translated business requirements into IT solution design to drive a seamless future system.
 
+software developer
+...
+. Designed, coded, tested, and aggregated results from SQL queries to provide information to clients
+. Completed hands-on configuration and custom development of BI reports, using advanced queries to achieve reporting requirements, within performance constraints
+. Communicated technical information, both written and verbal, effectively to clients of varying technical experience
+. Investigated complex technical issues, regarding Clickbase applications
+. Tracked and retained records of client queries
+. Analyzed call logs and consolidated common trends and underlying problems
+. Reduced the number of technical support inquires by 20 percent, by creating documentation addressing common technical issues
+. Developed and maintained web sites and web services that supported the main software packages to provide 24/7 capabilities for facilitating movement of documents and data across the Internet.
+. Monitored and responded to potential breakdowns in 24/7/365 web services
+. Worked as a team to develop and maintain a highly sophisticated multi-state foreclosure processing application
+. Developed and maintained both web and desktop applications for facilitating transmittal of documents for recording at County entities
+. Provided technical support to law firms, trustee companies, and governmental clients using the foreclosure software systems
+. Led the JAVA team for development of SOAP web services using Apache CXF.
+. Worked on the generation of PAWS daily matrix and improved its performance dramatically, earlier it used to take 10 to 12 hours for daily matrix generation and now it hardly takes 20 to 25 minutes.
+. Performed unit testing for all the developed WSDL on Soap UI.
+. Helped QA and clarified their doubts while regression testing of the module.
+. Responsible for complete migration of CHSI Paws (SOAP based web services) from SAMP based implementation to SMP based implementation.
+. Responsibilities include Feasibility analysis, Estimation, Requirement Analysis, Requirements elicitation, Software Development, Code walkthrough and Integration Testing.
+. Worked with various Windows platforms and tools in support of LeaseNet, a proprietary software application to include Windows Server 2012, IIS 7.0, and SQL Server 2005, 2008 R2, and 2012
+. Learned and performed database operations by way of on the job training to include backups, restores, script creation, schema alterations and enhancements, and job creation for automating services
+. Assisted with application maintenance and development using .NET and classic ASP code writing in C# and JavaScript
+. Performed system testing and maintained and created documentation for the application
+. Acquired increasing levels of responsibility and expertise to include leading work on a project for an energy company to upgrade their system capabilities with our product
+. Leading software engineer of enterprise IT department, modified over two hundred forms and reports of enterprise ERP-system.
+. Optimized and simplified the processes by analyzing business requirements and rebuilding existing solutions.
+. Customized a number of reports to meet Customer’s needs.
+. Significantly improved performance by optimizing the processes and tuning the complex SQL.
+. Post-production troubleshooting and support.
+. Senior Developer on the [company name] Advance fund raising web product. Instrumental in releases 9.6 to present. Vast experience using Advance metadata. Software Development using C#, VB.NET, JQuery and JavaScript. Database experience using ORACLE and PL/SQL.
+. Designed and coded enhancements.
+. Resolved internal and external defects.
+. Participated in daily scrums. Provided technical advice on bugs and enhancements.
+. Assisted the Advance Support team when necessary.
+. Resolved customer issues working with the Support team. This included logging into their onsite Advance installation.
+. Developed computer interface using LabVIEW for wireless recharging of 'Fetal pacemaker'
+. Developed bench-top recharging system using dsPIC and PSoC microcontroller systems.
+. Processed electrophysiological signals acquired in real-time by BioRadio to measure implanted pacemaker's pacing rate and battery voltage
+. Wrote SOP of the computer interface, for clinicians to use during animal and human trails
+. Worked with a big research team, organized and took part in meetings with team members.
+. eveloped e-government web application for government to manage and prevent accidents in gas and oil mining industries and optimized process atomization. Involved in all aspects of web-based software development life cycle, primarily responsible for system analysis and coding. Created a java based testing application and eliminated repetitive tasks for the quality department.
+. Called vendors to determine purchase of database, middle ware and third party services.
+. Gathered requirements from cross-functional teams to set up statistical and analysis system.
+. Designed and developed web application using J2EE technology making it accessible for government to analyze
+. Designed and developed a browser based statistical system interface using Java and JavaScript, assembled third party
+. Developed data APIs for client to integrate with older system enabling them to reach historical data in new system.
+. Built the user friendly client side interface for several projects using JavaScript, CSS and HTML.
+. Responsible for black / white box test and integration test.
+. Supported clients in a cross-functional environment, performed analysis based on requirements analysis and technical
+. Optimized the system structure by distributing system deployment to reduce the response time by 30%.
+. Implemented ASW ROM component code according to design and automate component testing
+. Travelled to customer site to support satellite software integration with ground software
+. Developed TSW simulators and test drivers
+. Integrated and troubleshoot ASW software and contact corresponding team when bugs are identified
+. Verified test cases according to integration plan document
+. Updated existing Expect and Bash scripts to automate test case verification
+. Maintained requirements and DXL scripts in DOORS
+. Developed laboratory protocol for gathering material surface data; included methods for deconstructing mechanical test components and proper use of lab profilometry equipment
+. Designed and fabricated a custom specimen fixture for the lab's profilometer
+. Developed original code in Python and SQL, including a project to parse SCADA data and format it for use in diverse cloud computing applications
+. Modeled mechanical components in SolidWorks for use in applications ranging from interactive web
+. Created a dynamic, JavaScript-based program to generate power flow diagrams using scalable vector
+. Drafted detailed, technical documentation of proprietary software used for orienting new employees and presenting software to prospective clients, security administrators, etc.
+. Contributed to teams made up of web designers, programmers, and tribology research scientists
 
+javascript developer
+...
+. [company name] is a startup company providing on-demand food delivery service. I worked as a key member of its mobile website development team. My work involves using multiple programming languages such as JavaScript, HTML and CSS, and libraries like Backbone, i18n, Stripe and Parse.
+. Implemented UI design using HTML and CSS.
+. Provided multi-language support using i18n library.
+. Developed payment gateway using Backbone, Stripe and Parse.
+. Designed and built signup and login pages using HTML and JavaScript and used Parse to save user information on the cloud.
+. Collaborated with three people within 36 hours building a real time voice visualization website based on JavaScript.
+. Implemented voice-to-text function using Google Speech Recognition API.
+. Fulfilled the key words recognition with Open Calais API, and translated key words to pictures using Flickr API.
+. Combined the Three APIs on Aliyun cloud server and organized them in a fancy way by jQuery and HTML5.
+. Developed forms as well as a process to develop more forms.
+. Gathered specs from client to create a feasible workflow
+. Created a form and integrate it with the client's everyday life using AVOKA technologies
+. Solved problems using a combination of JavaScript, JSON, and JQUERY
+. Presented solutions to the client when they want out of scope issues to be solved
+. Acted as the Go-To guy for technical problems in the team of analysts.
+. Confirmed that the Data gets stored followed NIEM XML standards
+. Created, Upgrading, and Maintaining the JavaScript libraries and widgets so that the data is managed the same way regardless of when the form was developed
+. Fixed software bugs via Javascript and CSS
+. Created a web-based WYSIWYG editor for multiplatform app development using javascript
+. Utilized MVC principals to ensure a clean architecture and a lean code base for maximum
+. Maintained close communication with UI/UX team to enhance product quality
+. Followed Agile development and consistently delivered new features on time during sprints
+. Communicated updates in daily scrum meetings using JIRA software
+. Involved in integration projects for the recent merge and acquisition of Life Technologies, specifically dedicated to enhancing the organization website.
+. Help integrate functionality into new existing JAVA based applications running on a boostrap based library.
+. In addition, capture and implement designs created by the UI team, add new functionality, enhancements and improvements on the overall website aesthetic.
+. Rewrite existing code, and add new code on top of pre-existing code.
+. Developed script to capture all online website data for Adobe Insight implementation
+. Devised solutions to expedite the procurement of required data for unique website architectures comprised of X/HTML, JavaScript, jQuery, CSS, and AJAX
+. Proficient in manipulating properties and methods of document objects and modifying attributes and values via the DOM
+. Proficient in programming JavaScript data capture and event handling methods via the DOM event model
+. Debugged and troubleshooted JavaScript code using tools such as FireBug, Fiddler
+. Strong communication and business analyst skills – ability to work with a variety of stakeholders i.e. application owners, directors, architects, and DBAs across the enterprise and helped the project manager with sequencing the project activities by conducting feasibility analysis and requirements gathering from business owners
+. Translated business requirements into web analytical technical documentation
+. Contributed to a next generation web development environment at [company name] based on scalable vector graphics: Lively Kernel.
+. The Lively Kernel re-imagines how the all web content, source code, even artwork is developed: inside the browser, dynamically.
+. The environment is heavily based on direct manipulation of all
+. Using JavaScript, SVG and HTML5 canvas Philip developed novel and compelling widgets, tools, demos, and contributed to the advancement and promotion of this framework.
+. Environment E-commerce Application, Linux, J2EE 1.6, Cloud Computing (AWS), JBoss 5.0.0, Web Services, Apache Axis2 1.2, SOAP, Spring, Spring JDBC Template, Struts 2, JSP, JSTL, Servlet, JDBC, Ajax, HtmlUnit, Freemarker, Jasypt, Multithreading, Open Symphony Quartz, LDAP (OpenDS), MySQL, Hibernate, CSS, Object Oriented JavaScript, jQuery, jQuery UI, SVN, Hudson (For Continuous Integration), Bugzilla, SSH.
+. Lead a team of 6 developers to develop and launch the Job Board Marketing (JBM) Service. JBM is a Web application and was implemented using MVC architectural pattern. The application uses Spring, Struts2, and Hibernate through JPA running on EC2 servers.
+. Designed and implemented Best Resume's BI (Business Intelligence) dashboard which used Ajax, Spring, Hibernate, Struts2 deployed on Amazon EC2 servers. Amazon ESB, and S3 were utilized as the storage space.
+. Administered Oracle (9i) Server and Cluster.
+. Evaluated new technologies. Added jQuery, and jQuery UI as new technologies to be used in different projects.
+. Implemented the Bulk Email Marketing module utilizing JavaMail, and FreeMarker templates. The Bulk Email Marketing sends out millions of direct marketing emails per year.
+. Implemented a large part of the UI dynamic functionalities using CSS, jQuery, jQuery UI, Ajax, JSON, and XML.
+. Implemented the required Web crawlers to login into user accounts on job board sites such and Monster, Yahoo Hotjobs, and Dice, and perform the necessary tasks on the users' accounts automatically. The crawlers were implemented using HtmlUnit.
+. Developed back end and front end parts of JBM's Shopping Cart pages.
+. Automated the scheduling and triggering of crawlers actions by utilizing the Open Symphony Quartz.
+. Automated business procedures through server-side JavaScript.
+. Standardized software development best practices within the company.
+. Generated web service requests through SOAP and raw XML, and parsed the responses.
+. Implemented custom scripts using various APIs such as NetSuite, Magento, and eBay.
+. Created interactions from scratch using wireframes for the UI, and parameters from client for the functionality
+. Authored a jQuery plugin and multiple plugins for the CKEditor
+. Created JavaScript modules to be used with BootStrap to speed up development
 
+lotus notes developer
+...
+. Developed generate systems for inputting and outputting excel spreadsheets into Lotus Notes databases where the input and output requirements were defined in control documents outside the code. This was used to develop systems to track system IDs used throughout the organization and also used for complex project tracking reports.
+. Test Manager NetMart Systems-Created a high-level test strategy, Master Test Plan and test cases simultaneously for multiple long-term projects. Led the team in using the Test Process Methodology and Test Management Tools. Coordinated test activities between remote and local teams.
+. Project Manager-Plymouth Rock Account-Led the migration of 68 Insurance legacy systems, containing over 20,000 programs, using multiple technologies with both batch and on-line applications. Built a team of Insurance and Technical leaders to transfer systems from the developing vendor and provided internal production support to the client.
+. System Engineer/Senior IT Specialist-AT&T Account- Selected to lead the migration of the Tier II production support for Generic Contract Tariff systems (CSO, CMT Data, CMT Voice) utilized by 5000 employees to developers in India. Responsible for the design, development, implementation and training of offshore developers. Took lead role the communicating and analyzing the customers business needs to achieve a high level of customer satisfaction during this transition period.
+. Lead Programmer/Team Lead-Recognized as a Subject Matter Expert for Contracting Systems. Managed a staff of LOTUS NOTES Developers in the design of complex systems with efficient maintenance code using control documents with minimal editing and values. Designed a generic database to handle complex service for a 64 page dynamic contract which included rates displayed in either one column, split columns or the option of displaying only custom rates and all the information necessary to interface to a billing system.
+. Using Lotus Notes 6.5, developed databases supporting the Comptroller's office at the Naval Aircraft Repair Depot at North Island.
+. Streamlined the suite of Notes financial databases to provide more user efficiency - reduced monthly man-hours by 60.
+. Fully documented and thoroughly tested the procedures for using the Notes databases thereby reducing the annual budget cycle from 12 to 7 weeks.
+. Developed a task-tracking system to provide better visibility to management of how we were reaching their goals.
+. Rewrote the Workforce Planning database and streamlined the user interface.
+. Researched problems to resolve functional errors and performance issues.
+. For IT compliance, oversaw the research, review, and documentation of the design of all of the databases.
+. Managed the Help Desk functions.
+. For better security, managed the move of the Domino server administration to the government's IT department. Trained the new administrators on Domino server issues and requirements.
+. Learned the design of several contract applications, these applications were very complex and written in a manner that none of the developers were able to understand and modify without pulling their hairs.
+. Created a modified the reports for Contract and Fiscal application as a part of change management process. The modification was complex due to the architecture of the application.
+. Also analyzed at the design of several applications assigned to me to me by reading complex Lotus Notes code and different X-Pages version of certain applications.
+. Contributor in weekly development meetings and coming up with innovative ideas of supporting and improving the developmental process.
+. Tested newly created x-pages site and created a test report.
+. Developed and maintained complex Notes database used to track, prepare for, and execute the migration of hundreds of thousands of users for multiple customers migrating from Domino to Exchange.
+. Maintained multiple Domino environments used in the migration of very large [company name] customers moving from Domino to Exchange.
+. Used and supported CMT from Binary Tree to migrate hundreds of thousands of users from Notes to Office 365.
+. Designed, developed, implemented and maintained enterprise solutions for Sales Managers, Sellers, Operations Managers, and Executives using the Lotus Notes/Domino development platform and reporting technologies.
+. Developed and maintained a Lotus Notes sales forecasting and reporting tool for 2,000 users that managed millions of dollars in sales opportunities for the General Business division.
+. Successfully implemented several applications that effectively managed sales programs and initiatives. These applications also helped executives better identify and manage specific segments of their market.
+. Created reporting facilities that used Excel to generate flexible and customized reports that assisted executives and sales operations personnel to manage the business more efficiently.
+. Designed and developed tools that transformed several manual processes in sales operations to automated work flows resulting in significant productivity gains and consistency improvements.
+. Assisted with the redesign and optimization of a multi-version global application that resulted in architecture and code consolidation from 11 separate versions down to a single universal design.
+. Designed and deployed several versions of Survey tools with dynamically constructed questionnaires that collected and reported information from hundreds of employees for topics such as job tasks and appraisals.
+. Maintained, improved, and created reports for a time tracking application using Lotus Notes with a DB2 reporting database.
+. Configured and maintained Domino Servers using Domino Administrator for development and testing environments that allowed programmers and testers to evaluate and test applications.
+. Designed and implemented a hybrid Notes/Domino web application for sales personnel to track territory coverage using Notes Designer, LotusScript, JavaScript, HTML and CSS.
+. Maintained and enhanced several tools that assisted sales operations personnel to configure, track and generate critical coverage and personnel assignments for North America.
+. Designed the forms and developed views. Created the lotus script agents in Response Tracking System for the workflow.
+. Developed script library to import the business decisions in Lotus Notes form from multiple tabs Excel spreadsheet. Processed the decisions by moving the existing data to archive database and created new Task Action form and Replica Action form automatically.
+. Wrote lotus script agents to design several excel reports for the management purposes.
+. Web enabled Lotus Notes client applications.
+. Updated technical documentation
+. Set up connections between LEI/LSX and clients external databases to bring in data as an initial import
+. Created a requirements database to track enhancements/changes to existing applications with the ability to perform workflow approval using Lotus Script and Author and Reader fields for security
+. Assisted in the testing and rollout of the latest Lotus Notes solution called "iExtensions"
+. Configured clustered server group
+. Maintained R5 and R6 Notes/Domino in house Servers
+. Troubleshooting Client servers on a daily basis
+. Created database and workflow to determine the cost of an axle configuration. Previously a manual process, this database significantly reduced the number of days to approve a new feature.
+. Developed a database to track the inventory, authorization and ordering of computer equipment
+. Used ODBC with SQL to update a Lotus Notes database with data from a backend Oracle database
+. Supported the use and synchronization of Blackberries and PDAs with Lotus Notes
+. Conducted in-house training on MS Office applications
+. Server installation and configuration of a third party suite of Lotus Notes databases
+. Built sites using Microsoft SharePoint 2003/2007(WSS & MOSS) for access via the internet and intranet
+. Developed Web Parts for Microsoft SharePoint using C# & VB.Net
+. Created forms in Microsoft InfoPath for use in SharePoint workflow applications
+. Created custom SharePoint workflow applications
+. Installed Microsoft SharePoint server farms with SQL
+. Converted applications from Lotus Notes to Microsoft SharePoint
+. Migrated Lotus Notes Systems to Microsoft platforms
+. Having 2+ year of experience in Lotus Notes Client/Server management, developed applications through Lotus Notes. Managed, Developed applications in Lotus Notes and XPages that are handled at client and web environment.
+. Worked in Xencia Technology Solutions Pvt Ltd as Assistant Systems Analyst.
+. Working as Systems Engineer in [company name] through Collabera Technologies Pvt Ltd still now.
+. Has good knowledge in developing Notes client application.
+. Has good knowledge on XPages functionality
 
+software engineer
+...
+. Provided PL/SQL and Cold fusion development for [company name] (NCDC)'s Metadata Integration and Improvement Initiative (MI3). The MI3 application utilizes a 140 table normalized relational Oracle database to maintain historic as well as current weather station details.
+. Responsible for all enhancements and maintenance to NCDC's Subscription Services, a web based application utilizing Cold Fusion, PL/SQL, Oracle database, and Crystal Reports.
+. Created an invoicing system for Subscription Services that managed monthly invoices as well as printed invoices to be sent to NCDC customers.
+. Created a work order system for NOAA subscriptions services to determine how many publications need produced each month and which subscribers get which publications.
+. Installed and configured various server software including Apache, iPlanet, Cold Fusion, and Crystal Reports.
+. Redesigned and implemented a web based application, CATS, using Java servlets, JDBC, Javascript on an Iplanet web server.
+. Mainframe software development for First data (U.S.A) which is a leading company in POS and backend transactions management platform for major banks.
+. Contributed software development in mainframe applications to produce debit and credit plastic card encryptions and contributed for card formatting module for AMEX, Wells-Fargo and ICICI clients
+. Responsible for building batch applications in COBOL/JCL to process millions of credit transactions around the world for multiple bank clients of First data
+. Introduced automation tools that reduced redundancy and enhanced the work flow and saved nearly 70 work hours a week for the entire team
+. Received 'catalyst' award for best coding practices and for adding value at workplace
+. Led several concurrent software projects from design and prototyping through implementation and delivery, two of which won multi-million dollar SBIR Phase II contracts.
+. Developed a real-time motion capture system using Unity and Kinect v2 to provide dynamic performance
+. Developed virtual patient simulation to provide real-time feedback to combat lifesavers undergoing training to use a next-generation junctional tourniquet.
+. Introduced Unity to management as a rapid-prototyping tool to deploy across a wide array of platforms and trained engineers in how to use it.
+. Solicited requirements for, designed, developed, documented, and tested a wound simulation library which was
+. Authored company standards for C# and Unity programming practices, including a process for sharing and reusing components, plugins, and prefabs across multiple projects and divisions.
+. Wrote functional specifications for enhancements to a client/server medication/IV distribution and management software product used in hospital pharmacies.
+. Analyzed, designed, and coded these enhancements using VB 6.0 on a Windows 2000 client with an ISM Alpha server.
+. Wrote test plans for coded enhancements, and participated in the testing of other team members' enhancements.
+. Supported previous model releases by analyzing and coding fixes for software problems.
+. Converted character cell based functions in existing software to a graphical user interface in new software release.
+. Coordinated the release of the Pharmacy application, version 23.5.
+. Provided support to the Education Solutions and Marketing/Demo groups, which included applying fixes, upgrades, and answering questions.
+. Lead Software Engineer responsible for leading embedded development efforts of deployable flight recorder technologies for customers in the United States, Asia Pacific, Europe, Middle East, and Canada.
+. Updated legacy recorder systems to support new technologies including: Ethernet, ARINC 429, ARINC 717, MIL-STD-1553.
+. Developed fully-automated test software in C/LabVIEW for new product line of digital flight recorders.
+. Led a team of three developers to design and code a flight data analysis tool in C++ (MFC).
+. Developed simulation model for FPGA development using Verilog-XL.
+. Coordinated with hardware and system engineering leads to gather and develop system requirements in IBM Rational DOORS.
+. Managed and tracked software issues to completion using IBM Rational ClearQuest.
+. Duties included supporting the ISC2 program through the development and implementation of changes to the production environment at all program locations, as well as developing numerous tools to facilitate the automation of installation and maintenance tasks used throughout the product's lifecycle. Additional duties include the development of software products for the ISC2 11v1 release and the installation and configuration of ISC2 09v1 software at remote locations.
+. Developed a suite of tools to automate the process of installing and configuring servers and workstations from bare-metal to 95% completion, saving an estimated 80 work-hours per installation, per location.
+. the development of the GFI Tool, significantly advancing its capabilities from a single-function 3d globe to include the plotting of numerous types of missile warning data.
+. Continuously recognized as an exceptional performer, receiving a SPOT award in 2011 from the ISC2 program.
+. Skills: J2EE, JSP, Struts, Spring, Hibernate, Tomcat, UNIX/Linux system, Bash Script, MySQL, PostgreSQL, JavaScript, Ajax, XML, HTML, XLST
+. Analyzed user requirements; designed and developed the new functionality for the back end of Electronic Medical Record software in Java and J2EE, with databases of MySQL & PostgreSQL
+. Developed and modified the front end of the web application by JavaScript, jQuery, Ajax
+. Installed and configured the Linux (Ubuntu & CentOS) and Tomcat on bare machines then deployed the EMR software for clinics and hospitals
+. Debugged and troubleshot the EMR software for the clients; solved technical issues in 15 minutes deadline
+. Integrated DOM Parser to the AdventNet Management framework that could parse complex XML based VoIP Configuration profile from NEO Services Switch and populates the parsed information in the JAVA swing Interface (~250 user profiles).
+. The GUI interface provided functions to add, clone and remove profiles from the configuration file at runtime time.
+. Revamped AdventNet Web NMS 3.0 EMS Frame work, to fit [company name] switching solution access, switching, and service
+. Involved in full Project lifecycle to design, develop and deploy the Network management functionality, configured modules using AdventNet Management builder and WebNMS Management tools. Modules developed included ADSL, POTS, SIP, L2TP, and ATM Cross Connects.
+. Improved Performance on Configuration and Performance Management Screens by adding customized Java classes to generate GUI Interface rather than using AdventNet automated tool generated code.
+. Software developer for analysis of faults/errors on business critical computer systems.
+. Developed UNIX-based application to analyze computer faults for PA-based high-end systems customers, which resulted in achieving a 99.999 up time.
+. Developed Windows-based tool to analyze errors for Intel i64 and x86 high-end systems to achieve fast bring up in labs, better manufacturing and reducing system downtime.
+. Assisted worldwide field organization in ensuring uninterrupted business critical customers operations. On-time error analysis reduced downtime by 20% and warranty costs by 30%.
+. Developed and delivered training to worldwide support organization, which maximized error analysis tools effectiveness. The training reduced hardware escalations by 40%.
+. Played key role in designing error analysis architecture for high-availability and supportability.
+. Developed error analysis for Intel i32 servers in record time to fill supportability hole. Analysis algorithms developed in 3 weeks reduced systems downtime by 20%.
+. Volunteered to assist in maintenance of hardware in lab's computer rooms, which reduced expenditures by 25%.
+. Enhanced and expanded the case/practice management system for scanning documents and images to associate into litigation cases.
+. Created a sophisticated digital imaging system to associate both scanned images and scanned documents to litigation cases in order to eliminate paper records.
+. Designed and developed a solution to create and track To-Do lists for sales consultants.
+. Implemented and developed multiple integration of third party case management software into [company name] with a click of a button.
+. Developed a wide range of functional enhancements and performance improvements to dozens of existing modules.
+. Implemented multi-lingual web sites using site variation management system provided by Microsoft SharePoint Server 2010.
+. Developed workflows for approval of pages before being published to different languages.
+. Created custom menu items as C# features to move list and document library items to different folders according to their lifecycle state.
+. Customized and configured site pages to target content to specific users.
+. Created browser compatible forms using InfoPath 2010 and deployed to Form Library in SharePoint Sites.
+. Created various custom web parts using Visual Studio.NET that could be plugged in by users into their Personal Site.
+. Conducted development on multiple internal and external SharePoint sites across three networks running SharePoint 2007 and 2010
+. Created sites, built custom workflows, and managed permissions and content as requested from customers
+. Investigated and implemented useful SharePoint capabilities out-of-the-box
+. Utilized jQuery to create custom enhancements on current sites for customer satisfaction and efficiency
+. Conducted formal and informal meetings with multiple groups to gathered requirements and provide solutions to existing problems
+. Constructed multiple sub-sites, pages, and libraries with the deployment of the new SharePoint 2010 sites
+. Successfully led a team in the migration of SharePoint 2003 content to MOSS 2007 while retaining document version history, security settings, permissions and custom branding
+. Provided advanced-level SharePoint 2007 design work, custom development, product implementation, documentation and administration of the MOSS implementation
+. Configured SharePoint 2007 Business Data Catalog, SharePoint Single Sign-On and custom .NET web part development
+. Consulted with department managers to identify SharePoint 2007 requirements
+. Designed and developed multiple SQL database solutions
+. Responsible for the development of out of box and customized SharePoint 2007 and 2010 sites.
+. Overseen SharePoint Portal Server infrastructure, user access, and application deployment for domestic and international users.
+. Created, analyzed, and published global import and export shipments key performance indicators (KPI) for executive dashboard.
+. Queried data from SAP to SharePoint and Access for dashboard reporting.
+. Created and analyzed global key performance indicators (KPI) for executive dashboard.
+. Prepared written documents constructed data decompositions, data flow diagrams in Visio for internal applications.
+. Created training material for users to understand how to use SP2010 functionality and features.
+. managed SharePoint 2007 to 2010 migration and implementation
+. Provided end user support on every aspect of SharePoint implementation
+. Independently designed, developed and delivered SharePoint sites and Web Part Forms
+. Met 100% of milestones for SharePoint, Access and Excel deployments and data transfers
+. Planned, deployed and configured MOSS 2007
+. Expense Report Approval Automation
+. Analyzed project in every retrospective meeting and planned the goals for the next sprint of project using agile methodology
+. Created InfoPath Forms using InfoPath Designer 2010 for the creation of Travel Expense list library
+. Used Content types in MOSS 2010 as the basis for receipts creation and attached the receipts to the InfoPath form
+. Implemented approval and denial requirements using Application workflows - part of SharePoint Designer 2010
+. Developed task scheduler program to run every night to send email to internal departments based on the information pull from database using .net 3.5 and c#.
+. Created SharePoint sites, lists, libraries, imported several spreadsheets to SharePoint lists
+. Designed InfoPath forms; applied look-and-feel standards of the company; created data connections
+. Created and customized data view web parts and web part connections
+. Created SharePoint pages and page layouts
+. Administered user permissions and accounts
+. Deployed SharePoint packages to server farm
+. Assisted end-users as to how to use SharePoint 2010
+. Updates, Central Admin, Accts, Active Directory, MS SharePoint Designer, MOSS 2007, SP Master pages, CSS, Style Sheets, InfoPath Forms, Visual Studio
+. SharePoint Content Manager supporting over 50,000 users for the US Forces- Iraq, at Victory Base Baghdad, Iraq (1yr)
+. User & group management in Active Directory on SIPR & NIPR networks, backup with STS admin
+. Modified SharePoint portal & site collection including: managing libraries, lists, forms, SQL, images and pages.
+. Created workflows with SharePoint tools (admin & power user), provided user training classes
+. Created, Assisted, serviced, supported for one of the biggest SharePoint farms in the world
+. Admin BI (Chantilly), Share Point support, Sys Admin, Desktop, IT support of US Senate in DC for GDIT. (Chantilly, Virginia)
+. Acted as Technical Lead for delivering online insurance purchase sites.
+. Implemented TD Bank and PayPal Payment Methods in the application. Applications were PCI Compliant.
+. Implemented few single page applications for an Aon Subsidiary called Aon-Hewitt. Used Knockout.js for implementing these sites. These applications were used to provide online quotes for health insurance. Leslie was involved in the design phase where database modeling and application templates were readied for rapid development of single page applications. At the end of design we were able to develop one website every 3 days.
+. Gathered and analyzed requirement from business
+. Did feasibility analysis on the requirements and assisted with providing an effective system design intended to fully meet the overall business requirements and rules
+. Lead the development team in complex customized underwriting process. Used Inrule tool for this task.
+. Used C# Web Parts
+. Developed SharePoint-based IT Strategic Plan on SharePoint 2010 for Commodity Futures Trading Commission (CFTC)
+. Developed SharePoint-based IT Operating Plan (ITOP) on SharePoint 2010 for CFTC
+. Captured requirements and developed a SharePoint formatted version of the ITOP with different views for CFCT management and CFTC staff
+. Developed and maintained SharePoint based applications for the Department of Transportation (DOT)
+. Maintained web based solutions for DOT
+. Maintained, developed and administered SharePoint 2007 solution for Phase One Consulting Group
+. Conducted proof of concept on SharePoint Online using Office 365
 
+devop engineer
+...
+. Developed BASH code to automate server builds, OS patches, and deployment of applications to dev, test, and production environments.
+. Performed remote management using remoto-it, a Plain Old Bash (POB) script that executes recipes to perform deployments, change orders, and maintenance.
+. Maintained SVN repositories for DevOps environment: automation code and configuration
+. Researched and developed Apache 2.2 SSL proxy front end proof of concept that provides SSL encrypted communications between our Tomcat 7 servers and our Apache front-ends.
+. Developed BASH scripts to redact sensitive data from Apache access and error logs using a sed expression, deploy WAR files to environments in parallel.
+. Ensured idempotentcy of KRFS DevOps BASH scripts.
+. Ported Linux BASH scripts to work with Solaris 10 ultimately contributing ideas and code to make Remoto-It automation tool work more reliably with Solaris environments.
+. Design and develop continuous deployment pipeline, integrating Test-Kitchen, Vagrant, Git , Jenkins and Chef across geographically separated hosting zones in AWS, Azure and Google compute.
+. Developed automation and deployment utilities using Ruby, Bash, Powershell, Python and Rundeck.
+. Designed and developed automated deployment and scaling processes based on Vagrant and Chef for a wide range of server types and application tiers, including Elasticsearch, and Zend PHP and IIS Clusters.
+. Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
+. Created automation and deployment templates for relational and nosql databases (standalone and RDS), including MSSQL, Mysql, MongoDB, Redis and Neo4j.
+. The project is to setup a platform for migrating and analyzing clickstream data from Comcast devices to HDFS and downstream requirements.
+. Implement, installand deploy multi node MapR Hadoop Cluster, developed HA architecture for Hadoop Eco System components; developpuppet recipes for automation of Hadoop Installation and configuration of nodes.
+. Expertise with MapR M3 Edition, M5 and M7 enterprise editions and using Pig, Hive, HCatalog, Flume, Sqoop, HBase, and MapR Control System; monitored cluster using tools (Ganglia and Nagios)
+. Performed log management using Chukwa and benchmarking and fine tuning cluster for optimum performance
+. User management with LDAP and setting up Kerberos authentication for cluster and creation of volumes for users and allocating quotas; established NFS gateways on data nodes/NFS mount on edge nodes
+. Scheduling snapshots of volumes for backup and find root cause analysis of failures and documenting bugs and fixes; scheduled downtimes and maintenance of cluster.
+. Reduced deployment time for key Customer360 infrastructure by a factor of 15 (from three weeks to one day) with Ansible.
+. Automated deployment of all resources related to my work as the Lead Python Developer.
+. Created system services to run on Red Hat Enterprise Linux 7 servers to control execution of key portions of the Customer360 project.
+. Managed Amazon Web Services for the Customer360 project including configuration and deployment of all required infrastructure, administrative tasks, and budgeting.
+. By bring the newest technologies and management principles from Silicon Valley to the company, the product quantity and the work efficiency was improved.
+. Collect the new technologies and tools, and introduced them to the company; in which way it helped the company build up an agile development environment. It improved the product quantity and the work efficiency.
+. Brought cloud technology to share the documents with over hundred customers in a training session. It saved the budget for printing and brought the efficiency for cooperation work; they can share the documents with editor team instantly.
+. Trained new employees and worked with them, 2~3 new developers, on new web projects; we finished in a week, which was 4 times faster than the planed time.
+. Started a program on knowledge management for development, help new developer and current developer to improve their product knowledge and programming skill.
+. configured Puppet Enterprise and Puppet Open Source servers
+. Wrote Puppet Manifest files to deploy automated tasks to many servers at once
+. Set up and configured Graylog2 server
+. Wrote Ruby script to consume logs from RabbitMQ to display in Graylog2
+. Developed scripts in Ruby to package log files and send them to a remote server
+. Debugged, improved, and maintained C# applications
+. Designed and Wrote Parallel Desired State Configuration Framework. Geared for IIS and WCF Applications built on Windows Servers using PowerShell Dot Net. This method provides a compile free deployment framework leveraging XML to provide Desired State data. Additionally, this PowerShell Framework is capable of performing SSH based tasks such as disabling servers in load Balancers with open source DLL and custom dot net functions.
+. Managed server clusters ranging from SQL, IIS and WCF.
+. Created multiple automation tools geared for safe Cluster management, Service and IIS restarts, Parallel bit deployments, VM deployments, and general server management automation
+. Provide direct server support during deployment and general production operations.
+. As the Linux administrator, I manage system updates and environment changes in concert with our developers and oversaw the transition from a traditional hardware infrastructure setup to a hosted private cloud solution. Additionally, I use git to manage our custom Puppet modules.
+. Wrote custom puppet modules for managing the full application stack (Tomcat/httpd/MySQL/Java)
+. Streamlined email infrastructure
+. Set up centralized logging and log aggregation/searching (rsyslog/Graylog/Elasticsearch)
+. Worked with developers to ensure new environments both met their requirements and conformed to industry-standard best practices
+. Implemented GitLab for version control of puppet modules and process documentation
+. Manage, support, and/or provide guidance for systems running web applications in the SOM, Med-Ed, and admissions. Work with SOM & Med.Ed IT teams and vendors to manage implementation of enterprise applications, data security, provide stable platforms, and migrate systems/sites to centralized management. Be resident expert on linux stacks. Vendor management. Security policy review.
+. Managing implementation of vendor enterprise product providing faculty profiles. .Net App feeding to a Linux stack running an open source product. Working with vendor, created docs, ran testing, debugging, and got a beta product back on track. Resolved invoice/SOW conflicts saved 22k on vendor costs.
+. Developed a small 'team' with ITS, smoothing communication bumps, leading to better solutions. Using relationships for joint exploration on new image deployment, security, and storage pricing strategies.
+. Introduced CIS security benchmarks for server/workstations and building into images. Working with SOM Sec. Officer to create a scan strategy and use results for test of case for value of CIS membership for entire SOM, possibly entire University.
+. Set up and installed computer, network, and server systems. Provided maintenance and repair on these systems.
+. Designed and developed website.
+. Responsible for determining all necessary coding requirements and implementation of features.
+. Created development concepts, project flow, and project scope.
+. Ensured on-time delivery of content.
 
+agile project manager
+...
+. Managed the successful completion of over 10 software development projects over a range of software utilizing .NET, Java, HTML, CSS, Javascript, and SQL components, with budgets ranging from $10k-$150k+
+. Drafted company-wide SDLC policy which was incorporated in executive Project Management guidance
+. Worked to effectively combine the vision of clients with in-house wireframe designers to provide clear design specifications
+. Provided daily communications, scrum notes, sprint reviews reports, project retrospectives, and regular snapshots of project velocity and budget burnrate.
+. Established a new self-organizing scrum team by training on agile fundamentals and coaching team for sustaining changes introduced. Implemented agile process for re-platform, re-hosting data projects by training team to use Jira. Involved in database, networking projects modifying flow for MDM updates between data centers,
+. After the burn-in period, the team was able to execute 80% - 90 % of user stories over multiple sprints.
+. Rapid bootstrapping of distributed team and excellent cadence build-up with-in 2 iterations.
+. High-performing and motivated team created with record close to 95 % participation in agile meetings.
+. Team designed and trained to follow Kanban or Scrum based on project or user story.
+. Executive briefing and reporting on scrum metrics, burn-up and process improvements periodically.
+. Responsible for project coordination including planning and implementing content across all work flows while ensuring that security, risk and compliance requirements were met.
+. Delivered project needs on time and within the agreed acceptance criteria in a hybrid methodology environment as they attempted to transition to an Agile Methodology.
+. Reported progress to all stakeholders through Sprint Burn-Down Reports, Iteration Burn-Down Reports, and velocity target updates.
+. Wrote User Stories based on the requirements gathered from all the stake holders.
+. Organized and facilitated Agile and Scrum meetings, which included Sprint Planning, Daily Scrums or Standups, Sprint Check-In, Sprint Review & Retrospective.
+. Coordinated with systems partners to finalize designs and formalize requirements Utilized Story. Sizing and Planning Poker techniques as needed based on the length of the backlog and priorities.
+. Operated in 3 week sprints with flexibility on length based on immediate functionality concerns.
+. Ensured application availability and data integrity through preventative maintenance and upgrades.
+. Improved method for online credit card payments which minimized customer liability on declined charges and identified existing accounts that contained invalid information
+. Researched, identified and implemented enhancements to internal systems which eliminated unnecessary procedures and saved 5 hours per week per Auction Specialist
+. Educated 35 people on Agile Scrum fundamentals for e-commerce website which increased the number of existing bugs fixed per week by 70%
+. Automated content management system which allowed clients to submit online donations and saved Auction Specialists 4 hours per week of manual data entry
+. Documented workflow and led implementation of Customer Referral Program which leveraged the existing network of customers to increase sales and new registrations
+. Resolved conflict, improved morale and established clear goals by effectively managing timelines and shared resources with special emphasis on building relationships across departments
+. Introduced and implement Agile/Feature Drive Development - FDD software development management methodologies to design and develop ecommerce custom enterprise software application. Personally coached software team on software development Agile best practices.
+. Managed successful claim re-pricing Platform Conversion projects to an AS/400 for top five EDI clients with annual revenue in access of 6 million dollars.
+. Improved claim turn around processing service level goals by converting manual data entry into EDI claim data entry operation.
+. Designed and implemented Healthcare EDI solutions saving $100,000 in annual transaction cost for clients and company; increased effective claim per day production to 5,000.
+. Developed EDI claim interface for ASI Luminx and proprietary claim adjudication platforms.
+. Reduced accounting month-end closing cycle to 2 hours by designing and implementing general ledger interface.
+. Managed OCR vendor relationships and implemented performance standards for claim data entry quality.
+. Re-engineered PARIS, a claim re-pricing platform to handle multiple provider contracts and obtained increase of 50% provider success "hit rate" and thus generating 5,000,000 in additional annual revenue. Provided due diligence during three corporate acquisitions and systems integration subsequent to those acquisitions.
+. Agile PM/ScrumMaster to develop a $5M Web-Based Risk and Purchase Eligibility assessment tool for Freddie Mac, a Government-Sponsored Enterprise (GSE), in an Agile/Scrum Environment
+. Practiced backlog grooming, release and sprint planning, daily standups, impediment removal
+. Ensured the development teams are practicing the Agile principles. Completed product demonstrations, retrospectives, and resolve action items. Assisted Product Owner with Backlog maintenance
+. Delivered two successful releases within six months on Freddie Mac's $5M Web-Based Loan Quality Advisor, Credit Risk Assessment, and Purchase Eligibility assessment tool
+. Led development team implementing new Activity Calculator engine using Agile development methodology
+. Collaborated with the team, architect and product owner to ensure rightness of features and design
+. Developed, managed and tracked project plan to implement requested features
+. Facilitated grooming and planning sessions with team
+. Tracked and reported on project progress.
+. Work with team to adjust focus and approach as needed
+. Managed integration points with other product teams and the suite
+. Responsible for strategic and tactical initiatives within [company name]'s envelope-pushing Agile environment including scaling to the Enterprise.
+. Served as ScrumMaster for several teams including the Agile Program Office cohort.
+. Introduced Kanban Method for high priority customer issues which was copied across LOBs.
+. Presentations to teams in US, Germany and India on the integration of Agile practices.
+. Coached UX Design and UX Research teams
+. Co-lead ASC 350-40 financial reporting with aggressive capitalization of development activities.
+. Defined product roadmap and created backlog in conjunction with product owner and key business partners
+. Led infrastructure projects to augment server capabilities, and address database and networking needs
+. Managed the deployment of virtual storage, sites and servers infrastructure to augment clients’ datacenters
+. Managed the creation of ODS using Informatica and provided APIs for data ingestion via clients’ web portals
+. Performed weekly portfolio review with senior management and provided updates to stakeholders
 
+tech support analyst
+...
+. Worked as part of a team to maintain and support 800 digital video recorders, 250 network video recorders, and upwards of 7,000 cameras. Acted as the point of contact for digital evidence investigations in conjunction with the forensic lab. Provided new and efficient methods of utilizing software to allow for faster resolution of issues.
+. Created a policy regarding data retention for proper storage of hard drives from digital video recorders, ensuring there was a written court document to prove how digital evidence was stored for court investigations.
+. Guaranteed chain of custody was properly documented by serving as point of contact for investigations, providing safe removal, storage, and retrieval of hard drives.
+. Performed R&D for IndigoVision software, ensuring that all security measures remained intact regarding users access to the [company name] camera system network.
+. Reduced open service requests by 75% by creating new workflow procedures.
+. Oversaw and collaborated with other IT personnel on the conversion of 800 digital video recorders from the McAfee Antivirus software to Symantec Endpoint Protocol.
+. Utilized the Remedy ticket system to manage upwards of 100 service requests concurrently pertaining to issues involving: digital video recorder repairs, user access rights, security cameras, cabling, and connectivity issues.
+. Perform a business analyst role for a leader in tax/legal information services. Be proactive in finding new ways to address clients' needs. Identify business requirements for diverse projects, and transmit them to developers. Address software lifecycle issues related to new, mature, and legacy digital products. Conduct product tests and document results. Coordinate training activities, and provide follow up support as a subject matter expert. Write training materials and application process guides for new employees. Work across several internal departments and various departments of clients' organizations to understand and solve problems. Participate in new product development meetings. Manage time well and multitask to address several issues each day, meet strict deadlines, and solve escalated problems.
+. Identified and enhanced processes for responding to inquiries from internal and external clients. Reduced response times from 24-48 hours to minutes.
+. Selected as the primary tester and first customer support contact for an Apple-based mobile application.
+. Recognized by supervisors with an award for receiving unsolicited positive feedback from a client.
+. Persuaded department leaders to abandon a project that did not show a clear benefit to clients and hurt team productivity.
+. Provided first level problem resolution for all incoming calls. Perform all phases of troubleshooting including interpretation, analysis, research, and resolution of technical problems for several major product categories, operating systems or networking environments.
+. Resolved customer's issues related to usability for digital photo editor, connectivity issues for [company name], plotting of analytical information.
+. Diagnosed hardware and software issues in application and customer's PC's with a overall customer satisfaction of 85%.
+. Solved customer's issues with a 98 % quality assurance rating.
+. Answered inbound inquiries and analyze/ troubleshoot concerns for non-functioning Accu-chek blood glucose monitors
+. Educate consumers and healthcare professional's on Accu-chek products
+. Trained new employees on technical and operational functions of Accu-chek blood glucose monitors
+. Developed training aids including visual aids and demonstration models that met instructional goals and objectives that increased the performance of trainees
+. Averaged in the 99th percentile in providing customer service and 97th percentile for technical support to customers
+. Conducted training classes on SAP
+. Reduced technical escalations to management
+. Exceeded corporate target for customer satisfaction for 6 months in a row
+. Provided computer support for Faculty, Staff and Students to ensure productivity
+. Worked helpdesk for School of Medicine to provide phone and walk-in support
+. Conducted one-on-one or group training for technical computer classes
+. Technical Support for the Dean of SOM for all of his presentations and board meetings
+. Supported specialty equipment used by other departments and maintained their data
+. Consulted with users and researched and recommended needed hardware or software for the user
+. Provided Tier III IT support for Windows XP and Windows 7 desktops and laptops for over 350 users. Conducted troubleshooting of desktop, laptops, printers, iPhones, iPads and Blackberry, print server admin.
+. Received an "Excellence Award" for a retrieving a lost document within 15 minutes for a Senior Attorney's $10M project. The speed of resolution allowed the client to meet the project deadline on time.
+. Served as primary technical contact for an offsite Leadership Retreat for 300 partners within the firm. Quickly resolved malfunctioning wireless router to ensure the meeting started as scheduled.
+. Handled 80% of the high priority daily remedy tickets.
+. Supported 25 users as Technical Lead for the Firm Wide Docketing and International departments, a specialized department using Docket IP, Docket IPFax and Nikes Outlook profiles
+. Provided back-up Tier III support for 900 users in the Washington, DC Office
+. Provided Tier 1 technical support to External customers utilizing NCR computers, cash registers and other N.C.R equipment.
+. Preformed in-depth technical configuration and troubleshooting assistance
+. Issues not resolved over the phone in a timely manner resulted in dispatching and relating detailed information that would assist technicians in getting the issues resolved.
+. Documented problem and solution thoroughly; provided timely status of updates for resolved and newly assigned tickets.
+. Performed as liaison between QA, Development and support for business analysis activities.
+. Facilitated SMR (Software Maintenance Request) meetings and communicated ongoing status of all reported defects and enhancement requests; Maintain status of change requests in Clientele
+. Attended customer sites to observe operations, and understand workflow to ensure effective functional/ technical requirements
+. Performed data analysis and identified defects in software via cases escalated from support through testing and troubleshooting.
+. Performed functional and user interface testing to validate solutions provided by development.
+. Resolved or managed escalated support issues from TSS II professionals or management.
+. Identified training needs and provided training to the support team(s) as needed.
+. Delivered substantial front-end technical support to customers by answering complex questions on functionality and product usage. Also recreated and resolved customer problems to deliver quality support and customer satisfaction.
+. Inspected and passed over 250 Program Temporary Fix (PTF) documents resulting in improved product quality and fix availability for customers.
+. Resolved a DB2 Timestamp data error for the State of New Mexico that enabled them to move to a current release of the COOL:Gen (CA Gen) product.
+. Created MVS Date Exit documents to assist customers preparing for Y2K in understanding and installing the exit.
+. Manager and application administrator for all CBT core backup systems in Cincinnati and Hamilton data centers. Managed clerical staff responsible for all aspects of CBT backup including tape handling and disaster recovery readiness. Trained operations staff to monitor, troubleshoot, report and document system problems. Responsible for administration and scheduling over 600 system backups on equipment ranging from SUN SL500 tape changers, to EMC Data Domain and Avamar appliances using EMC Avamar and Networker software.
+. Team lead for evaluation, sizing, and pricing new backup appliances and peripherals.
+. Managed projects to upgrade backup software, move backup servers, media and equipment, phase out older systems, and expand current systems.
+. Responsible for DR compliance to KY Management Audit and Sarbanes-Oxley. Initiated and documented DR scenarios on several CBT systems and created a system recovery document to be used as a template for future audits.
+. Transitioned backups from tape based technologies to a disk based de-duplication platform, exponentially increasing data throughput and capacity while shrinking backup windows using the latest technology on the market.
+. Introduced proactive procedures for reporting and accounting for new servers, insuring another layer of data security and archival.
+. Revamped backup and retention strategy to more efficiently manage offsite and archived data. Organized and oversaw system hardware and software upgrades that led to reductions in manual intervention and allowed for attrition of operations staff, reducing the departmental budget.
+. Monitored and verified backup completion on all servers.
 
+qa tech
+...
+. Assist with facility startups and shutdowns for process capabilities; ensuring proper bill of materials (BOM) via SAP, verification of specifications per order, quality sampling and testing prior to startup, recommend mechanical and/or operational adjustments, verification of equipment installation step up with maintenance personnel.
+. Participated in 2 years of research studies in "Quality Control" towards continuous improvement through testing, analysis, data interpretation and reporting.
+. Assisted in projects focused on operations and change management, process improvement, performance measurement, team solutions, and leadership development in improving individuals and organizational performance.
+. Implemented and improved quality assurance on several projects utilizing "Six Sigma" - (DMAIC) model which emphasize; Define, Measure, Analyze, and Control the processes.
+. Provided leadership in "Quality Systems" integration; JIT manufacturing, equipment / process change qualifications.
+. Familiarization with MS Word, Excel, Power point.
+. Working in a laboratory environment, and in charge of monitoring and maintaining See's quality assurance programs by performing analyses and audits of materials and processes.
+. Initiated the development of a widely applicable technique to precisely estimate quantity using quick volume measurement, which increases labor efficiency and clarity of results.
+. Developed a calculation method for the production volume of each machine at the plant at any given time.
+. Performed an array of chemical and physical tests on raw materials that helped plant crew choose the correct temperatures for cooking the ingredients going into the products.
+. Assisted in optimizing processes, product quality, and reducing waste as part of the QA team.
+. Examined the quality of food products to ensure they meet regulatory requirements, company, and customer's quality standards.
+. Monitored the manufacturing processes to ensure adherence to procedures and requirements specified within recipes, SOPs, and the HACCP program resulting in quick, strong decisions during operations
+. Responsible for performing analytical tests such as solids, pH, and viscosity and adjusted formulas and process based on results.
+. Investigated, analyzed and solved quality assurance production concerns.
+. Aided in product development under the direction of Research and Development department.
+. Responsible for pre-operative facility inspection.
+. Inspected and calibrated laboratory instruments.
+. Inspected and evaluated raw materials, packaging materials according to specifications and standard.
+. Trained Production Technicians and other Quality Assurance Technicians on finished product testing procedures and quality evaluation
+. Managed SQL database of test results. Generated test result reports.
+. Wrote test procedures, equipment calibration procedures
+. Calibration, maintenance and routine repair of various production testing and laboratory equipment. Tested raw materials
+. Streamlined several testing procedures to improve accuracy of results and time spent testing. Troubleshooting manufacturing issues, product defects and impact to end users
+. Created inventory control database to streamline parts and supply order
+. investigated, documented, and generated reports for customer complaints and corrective actions
+. Maintained and performed various verifications of the calibration recall system
+. Reviewed customer purchase orders for Quality acceptance
+. Prepared customer test reports
+. Utilized and updated Visual Manufacturing and Visual Quality systems
+. Performed 5-S audits and preserved 5-S work area compliance
+. Performed internal audits and prepared report summaries
+. Worked collaboratively with manufacturing departments to enforce food safety and quality assurance protocols for Safe Food Manufacturing
+. Provided support to the Production Floor by enforcing and monitoring the GMP's to insure quality.
+. Conducted internal manufacturing audits to assure product conformance to desired specifications and were in accordance with operational limits.
+. Worked in collaboration with production and sanitation departments to conduct investigations pertaining to foreign material and pathogen exposure to reduce possible contamination.
+. Continuously monitored critical control points to maintain their effectiveness against potential hazards and created risk assessments.
+. Collected, reviewed, and evaluated production data associated with quality related obstructions in order to make recommendations to increase production.
+. Conceptualized, recommended, and implemented a Quality Huddle while simultaneously managing Quality Department; held Nominal Group Technique (NGT) brainstorming meetings, analyzed work lines, reworked processes, rewrote work instructions for best practices. Improved production by 100% and quality by 50%.
+. Recruited to single-handedly serve on 2.5 year Dover Strategic Sourcing Initiative (DSSI) project; analyzed 7,500 product parts, researched dimensions and compared to blueprint; produced both and analyzed best dimension, created accurate blueprints and compiled in 50 3-ring binders available to Engineering and Plant personnel.
+. Analyzed a break-away design to create end user repair functionality; identified cause, called Kaizen Blitz across department lines, created and implemented solution within 10 hours, and proved reliability.
+. Combined knowledge, experience, and ability to communicate highly technical data to earn Subject Matter Expert status across department lines, and with vendors and customers.
+. Worked closely with 30 machining, die-cast, foundry and plastic molding vendors on week-long on-site audits to analyze product quality, recommend changes, and ultimately improve incoming quality of parts.
+. Trained and certified 13 ISO:9000 Internal Auditors to perform quarterly internal audits; worked across production to write correction actions, ensuring ISO:9000 compliance. Earned high praise from outside auditor.
+. Used variety of hand metrology tools and processes to perform quality audits for ~300 unique inbound parts/assemblies, outbound finished goods
+. Accurately recorded data and attributes of findings from audits in spreadsheets and reported out findings in variety of formats
+. Instituted a process to quarantine, report, reworked, and provide internal logistics for non-conforming materials including programming a visual basic Excel entry form/database for tag and tracking
+. Provided guidance to all personnel on quality topics as they applied to the end user
+. Performed tech writing to develop over 150 work instructions with revision control while decreasing defects on rewritten instructions to zero for 30+ problematic builds.
+. Developed quality audits via 3D part drawings, DFMEA and engineering requirements, audit schedule, and audit level quality plans for over 150 inbound parts
+. Worked with several suppliers to significantly improve part quality, in particular 90% improvement in 4 months for the worst supplier
+. Acted as topical quality/productivity evangelist to operations - SPC (Shewhart), Kaizen (Imai), TQC (Edwards Deming), Theory of Constraints (Goldratt), Six Sigma DMAIC/DMADV (Pyzdek & Keeler)
+. Performed actions required to stay in compliance with quality standards pursued by the quality manager.
+. Implemented an ISO90001 certifiable quality management system.
+. Conducted internal QMS audits.
+. Ensured all work activities complied with the quality management system.
+. Coordinated monthly safety meetings
+. Conducted daily quality assurance checks at Keystone Foods to ensure conformance to specifications
+. Provided accurate and complete data entry records for inspections, and submitted required reports
+. Regulated oven and freezer temperatures to ensure that products remained at their required temperatures
+. Performed weekly equipment maintenance, packed and shipped products, and ensured proper mixing procedures
 
-
-
-
-
-
-
-
-
-
-
-
-
-. 
-
-
-
-
-. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+scrum master
+...
+. Managed five departments & seven contract manufacturers. Interviewed & hired personnel. No personnel turnover.
+. Responsible for product delivery management. Renegotiated chip pricing with vendors, reducing bill of materials costs.
+. Increased new product development from one to eight. Led repair of four legacy products.
+. Scrum Master & Project Manager for 12 products. Met goals for quality, schedule & cost.
+. With additional products, annual revenue increased from $15M in 2007 to $26M in 2008. Four of these products won six industry awards.
+. Initiated & managed PLM & Scrum enterprise software installations. Participated in ERP software installation.
+. Introduced & taught Scrum, functional testing, performance testing, test case management & product backlog management.
+. Started off as QA Lead then moved to QA lead / SM after getting CSM. Progressed towards full time Scrum Master / Agile Coach.
+. Enforced Kanban principles as a scrum master that resulted in reduction of Cycle time by 20% thus increasing team's throughput in less than 8 weeks.
+. Enabled improvement in team delivery commitments and capacity planning for sprints by identifying & tracking hidden tasks that increased customer satisfaction.
+. Facilitated Agile adoption Retrospective for the organization with the leadership and guided teams with outcome resulting in enhanced performance.
+. Removed obstacle for the team by escalating an issue to leadership resulting in early delivery of customer issue solution. Customer provided positive feedback.
+. Coached new SM and trained global teams, which resulted in early delivery of project and reduced process waste caused by lack of common understanding.
+. Served as Subject Matter Expert (SME) for a hybrid data product.
+. Saved average of $120,000 per account by quickly researching and fixing complex usage-based billing errors post-failure circuit usage.
+. Realized increased monthly invoices by synchronizing billing databases within 21 days of disharmony. Technique was first used on large variance accounts and later applied to all unsynchronized accounts.
+. Created cost-saving business relationships by being first Secondary Support to partner with Account Managers on large implementations.
+. Reduced inbound call resolution times for the tier 2 help desk by creating an easy to use troubleshooting and resolution guide for existing and new products.
+. Increased incentives paid to company by acting as primary technical on-call person during go-lives for large corporate accounts.
+. Promoted twice in two years: Database Analyst to Business Analyst to Project Manager.
+. Lead daily stand-ups and scrum ceremonies for two scrum teams. Work with product owners to groom the backlog and plan sprints. Track, escalate and remove impediments. Report at daily Scrum of Scrum meetings. Track burn down, issues and progress in Version One. Work with component teams to resolve issues.
+. Improved team velocity by incorporating capacity planning into sprint planning sessions.
+. Implemented Issues Tracking in Version One to effectively track impediments against user stories.
+. Quickly became the recognized Version One expert within [company name].
+. Resolved a complex infrastructure issue by creating and utilizing a professional network of Scrum Masters, Product Owners and Technical Leads within [company name].
+. Implemented Agile Scrum Methodology throughout the organization to improve communications between Engineering, Product Management, and Business; to provide more transparency across the 3 departments; and to obtain great business value with short turnarounds.
+. Coached/Mentored a cross functional team of 12 resources to deliver quality products which led to over $3.5M in revenue for the year of 2009/2010
+. Utilized Agile Scrum practices to help the team increase their velocity by 63% within the first year of Agile adoption
+. Facilitated Release Planning, Sprint Planning, Backlog Grooming, and Retrospective meetings
+. Removed team impediments on a daily basis to allow the team to deliver the sprint goals and deliverables.
+. Facilitated team and cross-team Retrospectives to build good working relationships among the 7 agile teams across 3 states.
+. Collaborated with members of the Product, Business and Engineering Teams to develop and maintain Product Backlogs
+. Documented and tracked requirements, completed use case documentation, documented and tracked risk and reported team work to upper management and customers. Consistently worked to improve the processes and quality of our team's work by: implementing test-driven development, ensuring that software conformed to architectural standards and participating in design and implementation reviews.
+. Worked with customers and product manager to prioritize and validate requirements.
+. Completed plans for long term goals using Microsoft Project.
+. Coordinated the work efforts of 8 person team for various projects. Helped team complete tasks successfully and on-time and resolved obstacles encountered by team members.
+. Coordinated and participated in weekly estimation meetings to provide high-level estimates (Story Points) for backlog items.
+. Identified product and functional requirements which helped build the product plan and project scope.
+. Developed innovative features (node graphs and timelines) based on current and future data elements to allow for a more gamification feel to the application.
+. Integrated D3 technology to allow for a more functional and robust dashboard.
+. Monitored the development progress throughout each sprint to ensure project was within scope and budget.
+. Conducted user interviews to help identify and understand different process for each user while simultaneously identifying their pain points.
+. Worked with Art Director to incorporate UX best practices / design to ensure a more comprehensive and innovative approach.
+. Identified potential project risks and helped developed a mitigation plan to resolve potential issues.
+. Managed the insight and opinions of multiple stakeholders and helped to ensure all stakeholders agreed with the current scope and roadmap of the product.
+. Collaborated closely with SMEs to identify and analyze core requirements and key features for call center operations projects. Facilitated user interviews and workshops to gather and analyze user stories.
+. Developed crucial functional requirement specifications, creating detailed use cases and process flow diagrams to support functional specifications.
+. Conducted meticulous GAP analysis while successfully reengineering key business processes to increase operational efficiency and alignment of business unit objectives
+. Facilitated Daily Scrum Meetings and Monthly Reviews meetings. Conducted sprint retrospective and followed up on action items for continuous improvement
+. Prepared extensive cost - benefit analysis to support system and process changes
+. Meticulously analyzed complex data, staffing plans and variances to recommend solutions to improve revenue per call and customer satisfaction/retention
+. responsible for two Agile Scrum teams and one Kanban team.
+. Successfully guided three development teams through transition from waterfall to Agile development.
+. Coached team members on Agile processes and facilitated planning meetings and retrospectives. Maintained task board and produced daily burndown charts.
+. Removed impediments and protected team members from interruptions and distractions to maximize productivity. Encouraged and implemented process improvements. Created team-building opportunities.
+. Worked closely with Product Owners, coordinating product backlog grooming and story estimation.
+. Planned and managed work activities of at least two software development/test teams (Web Portal, Dealer Onboarding) working closely in conjunction with business teams.
+. Developed and followed agile project management plan (Agile Ceremonies). Facilitated build requirements log (product backlog) with cost estimates and priority.
+. Conducted Scrum Daily standup, Product backlog, Sprint Planning, Sprint Review & Sprint Retrospective meetings.
+. Determined the team capacity (velocity) from historical data. Created Work Break down structure (user stories) and corresponding activities (tasks).
+. Monitored the project progress and radiated the information to stake holders. Identified and mitigated team risks and impediments (Blocking Issues, Critical Defects) on daily basis.
+. Worked with Senior Management, Business & Release Management to understand the vision of the product, prioritize and develop software release planning.
+. Communicated the progress to senior management thru 'Burndown Charts'. Monitored the Quality thru metrics and mentored team thru the project management processes.
 
 
 
