@@ -389,6 +389,184 @@ PS
 . rxjs: getting started
 . getting started with reactive programming using rxjs
 . learning rxjs oeprators by example playbook
+. deploying databases with octopus
+. getting started with octopus
+. play by play: modernizing your deployment strategy with octopus deploying
+. administering an elasticsearch cluster
+. designing schema for elasticsearch
+. indexing data in elasticsearch
+. searching and analyzing data with elasticsearch: getting started
+. good parts of javascript and the web
+. angular securigy using json web tokens
+. getting started with json in c# using json.net
+. hands-on javascript project: json
+. introduction to oauth2, openid connect and json web tokens (jwt)
+. moving beyond json and xml with protocol buffers
+. node application patterns
+. node.js testing strategies
+. node.js and the internet of things using intel edison
+. node.js getting started
+. api design in node.js featuring express & mongodb
+. acceptance testing in node.js
+. advanced noted.js
+. web development with expressjs
+. web development: executive briefing
+. full stack web development with python
+. introduction to web development
+. sharepoint web part development
+. angular 2 end-to-end
+. angular cli
+. angular component communications
+. angular forms
+. angular: first look
+. angular: getting started
+. python desktop application development
+. python desktop application development: part 2
+. python fundamentals
+. python quick start for linux system administrators
+. python - beyond the basics
+. python: getting started
+. python: the big picture
+. building more python design patterns
+. building sentiment analysis sytems in python
+. cloud business intelligence: the big picture
+. configuring sharepoing 2013 for business intelligence
+. introduction to data warehousing and business intelligence
+. introduction to microsoft business intelligence end-user tools
+. managing sharepoint 2016 for business intelligence
+. sql server business intelligence overview
+. sql server fundamentals
+. sql server: transactional replication fundamentals
+. javascript animation with gsap
+. building advanced javascript animations with  gsap
+. intro to bitcoin and decentralized technology
+. blockchain fundamentals
+. blockchain - principles and practices
+. building blockchains with hyperledger
+. building an enterprise private blockchain on salesforce
+. deploying ethereum with aws blockchain on templates
+. developing applications on ethereum blockchain
+. state of blockchain: executive briefing
+. surveying blockchain technologies for enterprise
+. databases: executive briefing
+. database delivery best practices
+. automated testing for fraidy cats like me
+. automated testing: end to end
+. automated web testing with selenium
+. creating an automated testing framework with selenium
+. code school: on track with golang
+. code school: assembling sass
+. code school: breaking the ice with regular expressions
+. code school: building blocks of express.js
+. code school: flying through python
+. code school: git real 2
+. code school: mastering github
+. code school: powering up with react
+. code school: try laravel
+. code school: try php
+. npm playbook
+. eliminating security vulnerablilties with npm audit
+. introduction to npm as a build toolmaking
+. play by play: sharing code wiht npm modules between angular web and ionic mobile apps
+. electron fundamentals
+. electron playbook
+. creating cross-platform apps with ionic and electron
+. cyber security awareness: electronic commerce security
+. cyber security awareness: digital data protection
+. cyber security awareness: identifying personally identifiable information (pii)
+. cyber security awareness: malware explained
+. cyber security awareness: mobile device security
+. cyber security awareness: pairing physical and digital security
+. cyber security awareness: phishing and whaling
+. cyber security awareness: safer digital communications
+. cyber security awareness: security overview
+. cyber security awareness: security by geolocation
+. cyber security awareness: security for cloud services
+. cyber security awareness: social engineering
+. cyber security awareness: social network at work
+. cyber security awareness: the importance of indentity protection
+. cyber security awareness: the protection and destruction of portable data
+. http fundamentals
+. http/2 fundamentals
+. angular http communications
+. benchmarking with httperf
+. play by play: what you need to know about https today
+. what every developer must know about https
+. cloud technology: executive briefing
+. culture of learning: executive briefing
+. cyber security: executive briefing
+. data science: executive briefing
+. databases: executive briefing
+. general data protection regulation (gdpr): executive briefing
+. global behaviors post-gdpr: executive briefing
+. iot device security: executive briefing
+. managing it services with itil: executive briefing
+. state of blockchain: executive briefing
+. web development: executive briefing
+. what is devops: executive briefing
+. implementing vector art in a pixel-based advertisement
+. best practices for responsive web-forms
+. building mobile web sites using web forms, bootstrap, and html5
+. building data-driven react applications with relay, graphql, and flux
+. building scalable apis with graphql
+. portfolios, programs, and projects: what's the difference?
+. user experience flow modeling for portfolio websites in photoshop
+. 'infiltrator' production pipeline volume 1: concept design & storyboarding
+. collaborative workflows in storyboard pro 
+. drawing storyboards for the entertainment industry in photoshop
+. working with 3d in storyboard pro
+. your first day with storyboard pro
+. asp.net core 1.0 fundamentals
+. asp.net core 2 authentication playbook
+. asp.net core fundamentals
+. asp.net core identity deep dive
+. asp.net core mvc testing fundamentals
+. asp.net core with new msbuild based tooling
+. asp.net core: the mvc request life cycle
+. architecting an asp.net core mvc application for unit testability
+. c# from scratch - part 2
+. c# fundamentals with visual studio 2015
+. becoming a sap business warehouse query expert 
+. sap business warehouse query fundamentals
+. sql server 2012 querying (70-461) part 1
+. sql server 2012 querying (70-461) part 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
