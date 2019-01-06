@@ -530,6 +530,174 @@ PS
 . sap business warehouse query fundamentals
 . sql server 2012 querying (70-461) part 1
 . sql server 2012 querying (70-461) part 2
+. designing and implementing solutions using google machine learning apis
+. the go programming language
+. xml fundamentals
+. xml syntax fundamentals
+. xml tools by examples
+. web app hacking: hacking xml processing
+. working with xml data in powershell
+. building server-side rendered react apps for beginners
+. developing faster with the vue cli
+. firebase functions: fundamentals
+. secure software development
+. secure network design
+. react native: the big picture
+. angular routing
+. c# interfaces
+. learning rxjs operators by example playbook
+. streamlining your incident response process with splunk
+. building a javascript development environment
+. advanced node.js
+. react.js getting started
+. angular: getting started
+. basic html for kids
+. clean architecture: patterns, practices, and principles
+. relational databae design
+. how to have a better career in software
+. career strategies and opportunities for salesforce platform developers
+. defeating cross-site scripting with content security policy
+. getting started with cloudflare security
+. web api design
+. web api v2 security
+. building asp.net web api odata services
+. building uis with the web animations api
+. creating web apis that developers will love
+. html5 line of business apps with bootstrap, mvc4 and web api
+. introduction to the web audio api
+
+front-end
+...
+. Designed and developed views and forms using Typescript and Angular Framework.
+. Created and implemented a custom CSS grid system, with CSS media queries for mobile responsiveness.
+. Increased front-end efficiency by transferring the blogs over to wordpress and brand-associated them with the main site.
+. Created and maintained the front-end standards document and oversaw production of Javascript, HTML, and CSS (and PHP for the wordpress blog).
+. Programmed HTML5 canvases to animate particles on web backgrounds for site-wide promotions.
+. Worked in both Agile and Waterfall settings.
+. Tested front-end code in multiple browsers to ensure cross-browser compatability.
+. Maintained brand standards under company guidelines.
+. Consulted and documented UI best practices and code standards.
+. Participated in projects in all stages of the product life cycle.
+. Leveraged responsive web frameworks to consistently complete product deliverables ahead of schedule.
+. Developed unique user experiences that drove interaction, using Javascript.
+. Developed fully functional responsive prototypes based on Business Requirements using HTML/HTML5, CSS3, JavaScript and JQuery.
+. Developed and designed UI for Medicare, Medicare Part D Form, Blue Access for Producers and Blue Access for Members.
+. Developed and designed UI for a database of customer's health and created secure login for Blue access for Members.
+. Developed and designed Special Beginnings Assessment Forms for mothers in different stages of expectancy.
+. Developed code for Shadowboxes, Slider Carousals, Tickers, Rotating Headers, Validation and JS animations.
+. Maintained, Developed and Designed the BlueCross BlueShield public site for all 4 states on a regular basis with TeamSite.
+. Used HTML, CSS, JavaScript, JQuery, Dojo, Parallels and 508 compliance.
+. Executed and contributed to full-stack web development projects, with an emphasis on front end features, browser manipulation, and cross-browser compatibility.
+. Wrote templates and front-end code for Django-based app to meet Section 508 compliance.
+. Assisted in development of back end features in Ruby on Rails.
+. Developed importing models and logic in Rails app to store spreadsheet data and deployed to Heroku.
+. Prepared and presented technical proposals for clients.
+. Assisted in the monitoring and reporting on website traffic and performance.
+. Created HTML email templates and newsletters for e-mail marketing campaigns.
+. Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase.
+. Executed and monitored standards for user interfaces, page design and graphics development.
+. Designed complex interfaces to support third party systems.
+. Web page development from design to test and up to production deployment.
+. Oversaw all web design, graphic design, and marketing campaigns for product development company.
+. Designed and managed e-commerce, Joomla websites, blogs, design logos, catalogs, packaging, and marketing collateral.
+. Integrated social media applications on web sites and blogs.
+. Created interface designs for integration into web applications.
+. Created highly effective marketing campaigns, product presentations, and trade show materials.
+. Contribute to productivity through effective supervision of printing functions.
+. Designed and developed entire business website for Scalici Farm & Greenhouses
+. Maintained active conversation with the client to ensure the site met his needs
+. Researched industry trends and websites to provide top quality design
+. Workflow tools included: HTML, CSS, Bootstrap, jQuery, Yeoman, Grunt and Git
+. Communicated directly with clients to establish project parameters, wrote proposals for design work, analyzed competitor web sites, determined web site content, produced site maps for client approval, and communicated progress with client throughout length of project.
+. Provided internet related services including web site design, front-end web development, domain name registration, web hosting, search engine optimization / submission.
+. Maintained client websites on an ongoing basis.
+. Trained end users on performing necessary updates.
+. Developed and managed websites for pharmaceutical companies using Wordpress (CMS) and responsive design.
+. Created custom plugins, templates, and functions for Wordpress based sites
+. Fixed front end bugs (HTML, CSS, Javascript errors (JQUERY), testing (A/B Split Testing), unit testing
+. UX tests to test the usability of mobile or websites
+. Optimized pages for page speed using Google Page Speed (API) for Apache to obtain higher rankings on Search Engines (SEM)
+. Did on site SEO implementations to increase traffic to client websites
+. Analyzed traffic and made necessary changes for a better user experience
+. Implemented the Business Logic and database design using Entity Framework.
+. Contributed innovative features to the system using ASP.NET, Silverlight and LINQ that were well received.
+. Developed reporting module for generating flexible MIS reports based on data from different modules.
+. OneC VMS: Made the SOR changes for the application using WCF, Web user controls, HTML and JavaScript.
+
+
+full-stack
+...
+. Conducted interviews for course applicants by working through a series of technical challenges
+. Trained and supported 13 new hires to conduct interviews, lead lectures, and debug code
+. Delivered lectures on React and React Router and built repos allowing students to get started fast
+. Developed a goal prioritization module for performance goals in Fusion ERP using Oracle ADF with Agile methodology.
+. Maintained sole-ownership of 3 modules - Security, Goal Measurements, Eligibility Profiles - using JAZN, J2EE, and ESS.
+. Resolved 250+ critical bugs in the product to improve performance and help customer's to Go Live.
+. Discussed, analyzed and strategized product design with Product Managers, UX team and Business Managers.
+. Interviewed prospective employees and mentored junior software developers on the team.
+. Mentored junior developers on Java, JavaScript, Web Application Development and OOA&D
+. Architect of the EasyLink project, performing requirements analysis, design, service and technology sourcing, and extensive front-end cross-site scripting in JavaScript with HTML5 LocalStorage, cookies, HTTP/HTTPS coordination, shopping cart and session migration; prototype on a mean.js stack, production with Java and Spring.
+. Coordinated core server product development in Spring MVC and Spring SOA service components for deployment to 200+ client sites, ensuring compatibility with all major browsers on mobile and desktop platforms
+. Created client documentation for IT group integration; authored PowerShell installation and deployment scripts to assist QA and DevOps teams
+. Independently authored a geolocation data source as a JAX-RS/JAXB web service for high scalability and always-on updating.
+. Created a RESTful API endpoints using Scala and Akka
+. Developer a mobile web client to consume the API using AngularJS/HTML5/CSS
+. Wrote many unit tests, e2e tests, api tests
+. Implemented payment system using Stripe
+. Added server push notifications using websockets protocol
+. Conducted product research projects
+. Served as backend lead developer on the Interactive Content team.
+. Implemented CMS functionality for Product Reviews, Listicles, Canned Filters, and Advanced Product Filters.
+. Worked on 3rd-party API integrations with Amazon, Rewardstyle, and ShopBazaar developed with TDD principles.
+. Troubleshooted issues affecting production, stage, and development environments as requested.
+. Solved tickets raised by AT&T business tool customers(User Agents) based on HTML5, CSS3, Bootstrap, JavaScript, JQuery and frameworks such as Ember JS and Handlebars JS
+. Extensively worked on subroutines for different APIs using Perl, modifying and creating new connections to Database. Worked on internal tool which is purely based on PHP.
+. Used Ajax calls through Handlebars JS and Ember JS to populate the data tables on the front-end.
+. Used AJAX, JSON with jQuery for request data and response processing.
+. Tracked and solved tickets for defects on bug reporting tool (JIRA).
+. Used PUTTY for debugging and connect to my remote files in server securely using SSH Encryption (public key and private key) and WinSCP to transfer files between local and remote folders and change file permissions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
