@@ -91,4 +91,203 @@ PS
 . jquery-free javascript
 . jquery: getting started
 . advanced techniques in javascript and jquery
+. building a web application with polymer.js and material design
+. getting started with polymer.js
+. html5 web components: moving from jquery to polymer.js
+. working with polymer.js elements
+. github fundamentals
+. code school: mastering github
+. integrating node applications with github
+. firebase firestore: getting started
+. firegase functions: fundamentals
+. firebase fundamentals
+. firebase hosting: fundamentals
+. authenticating users with frebase authentication service playbook
+. building applications with angular, firebase, and angularfire
+. building a real-time app with react, flux, webpack, and firebase
+. react fundamentals
+. react native fundamentals
+. react native: getting started
+. react native: the big picture
+. react and flux for angular developers
+. react.js: getting started
+. react: the big picture
+. vue.js fundamentals
+. vue.js: big picture
+. vue.js: getting started
+. advanced techniques and workflows in vue
+. beginner's guide to vue
+. building business applications with vue.js and mongodb
+. developing faster with the vue cli
+. introduction to vue
+. materials in vue
+. git fundamentals
+. github fundamentals
+. advanced git
+. advanced git tips and tricks
+. build or contribute to documentation with a gitt-based workflows
+. code school: git real
+. code school: git real 2
+. code school: mastering github
+. getting started with git
+. agile estimation
+. agile families: techniques for living with change
+. agile fundamentals
+. agile release management
+. agile reequirements process: from idea to minimum viable product
+. agile team practices with scrum
+. agile for one
+. agile in the real world
+. agilepm project management
+. achieving an agile mindset with icagile
+. bringing agile to it operations
+. embracing change: staying agile in the midst of change
+. kanban development with jira agile
+. scrum development with jira & jira agile
+. scrum essentials exam prep
+. scrum fundamentals
+. scrum master fundamentals - becoming a great scrum master
+. scrum master fundamentals - foundations
+. scrum master fundamentals - growing yourself and your team
+. scrum master skills
+. big scrum
+. customizing your team workflow with the best of kanban and scrum
+. play by play: becoming a more effective scrum master
+. real world scrum with team foundation server 2013
+. rapid angular training
+. rapid applicating prototyping with sharepoint and lightswitch
+. rapid concept illustrations for aaa productions in photoshop
+. rapid es6 training
+. rapid javascript training
+. ui architecture
+. ui prototyping with framer.js
+. building uis with the web animations api
+. d3.js data visualization fundamentals
+. d3: the big picture
+. force layout graphs in d3
+. geospatial mapping with d3
+. getting started with d3
+. svg animations with javascript
+. svg fundamentals
+. advanced svg animation
+. code school: you, me & svg
+. creating responsive svgs in illustrator and css
+. illustrator cc creating svgs
+. making a responsive and interactive animation with svgs in css
+. using svg filters for web design and animation
+. creating a chrome extension
+. debugging your website with fiddler and chrome devtools
+. using the chrome developer tools
+. visual studio code
+. hacking vs code: write your first extension for visual studio code
+. play by play: visual studio code can do that
+. docker deep dive
+. docker images and containers for asp.net core
+. docker networking
+. docker swarm: native docker clustering
+. docker and containers: the big picture
+. docker for web developers
+. docker in production using amazon web services
+. containerizing angular applications with docker
+. containerizing a software application with docker
+. continuous deliver using docker and ansible
+. getting started with docker
+. getting started with docker datacenter
+. cqrs in practices
+. modern software architecture: domain models, cqrs, and event sourcing
+. architecting event-driven serverless solutions using google cloud functions
+. meet eventmachine
+. modern software architecture: domain models, cqrs, and event sourcing
+. ibm websphere portal and wcm 8.5 fundamentals
+. introduction to developing applications with ibm bluemix
+. iota fundamentals
+. iot device security: executive briefing
+. cyber security awareness: the internet of things (iot)
+. ethical hacking: hacking the internet of things (iot)
+. internet of things (iot) security: the big picture
+. play by play: emerging threats in iot
+. modern, modular javascript with systemjs and jspm
+. powershell remoting fundamentals
+. powershell toolmaking fundamentals
+. powershell v4 new features
+. powershell and sql server
+. powershell for office 365
+. powershell on the network
+. powershell v3 new features deep dive part 1
+. powershell v2 essentials for it admins part 1
+. powershell v2 essentials for it admins part 2
+. powershell v2 essentials for it admins part 3
+. ux design creating wireframes
+. ux design for graphic designers
+. ux engineering process
+. ux fundamentals
+. ux role and impact on organizations
+. ux-driven software design
+. becoming a more valuable ux professional
+. getting started in ux design
+. hacking the user experience / ux for developers
+. illustrator cc for ux design
+. creating interactive, high-fidelity wireframes in indesign
+. wordpress custom theme development
+. wordpress fundamentals: wp_query and the loop
+. wordpress as a network: mastering wordpress multisite
+. adobe dps adding content from html and wordpress
+. building a wordpress theme framework with bootstrap 3
+. creating a blog on wordpress.com
+. custom content types and you: how to code like a wordpress ninja
+. designing custom sites using child themes in wordpress and css
+. getting your first wordpress website up in under 24 hours
+. internationalization in wordpress
+. introduction to wordpress
+. introduction to wordpress plugin development
+. master your domain: user roles and capabilities in wordpress
+. working with javascript and wordpress
+. php fundamentals
+. php predefined variables
+. php web application security
+. php: get started
+. phpmyadmin fundamentals
+. automated tests with phpunit
+. building dynamic websites with php and mysql
+. building a site with angular and php
+. code school: close encounters with php
+. code school: try php
+. getting started with laravel (php framework) - models and data
+. design patters library
+. design patterns on-ramp
+. functional javascript libraries playbook
+. functional programming with python
+. functional programming: the big picture
+. functional-lite javascript
+. fundamentals of functional programming in javascript
+. hardcore functional programming in javascript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
