@@ -3,15 +3,17 @@ data dictionary
 
 action
 ..
-. $ - pay
-. c - call
-. d - do
-. f - file
-. g - go
-. l - log
-. m - meet
-. t - trash
-. w - walk
+. $  - pay
+. c  - call
+. d  - do
+. dp - drop off
+. f  - file
+. g  - go
+. l  - log
+. m  - meet
+. pu - pick up
+. t  - trash
+. w  - walk
 
 calendar
 ..
@@ -24,23 +26,25 @@ calendar
 
 alpha
 ...
-. at - att
-. be - bamboo
-. c$ - cash
-. cg - cgs
-. fi - FIOS
-. g$ - grow
-. gm - gm-fin
-. hu - hulu
-. hw - hillsb-water
-. pu - publix
-. sp - spotify
-. sw - speedway
-. te - teco
-. ue - uber-eats
-. wg - walgreens
-. wh - winhaven-ins
-. wm - walmart
+. AT - att
+. BE - bamboo
+. C$ - cash
+. CG - cgs
+. FI - FIOS
+. G$ - grow
+. GM - gm-fin
+. HU - hulu
+. HW - hillsb-water
+. PS - pluralsight
+. PX - publix
+. SP - spotify
+. SW - speedway
+. TE - teco
+. TL - trulieve
+. UE - uber-eats
+. WG - walgreens
+. WI - winhaven-ins
+. WM - walmart
 
 weekday
 ...
@@ -51,6 +55,7 @@ weekday
 . f
 . sa
 . su
+
 
 
 

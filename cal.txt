@@ -1,18 +1,24 @@
-1-19
+2019
+
+jan
 ...
-. 03 r @ 9a - court
-. 04 f - t
+x 03 r @ 9a - court
+> 06 su 
 . 08 t - wells-fargo-date, t
 . 09 w - auto-ins.$
-. 11 f - cgs.$, trash
-. 15 t - t
-. 18 f - t
+. 11 f - cgs.$, t
 . 22 t - mom.c, t
+. 23 w - TE due
 . 25 f - cgs.$, t
-. 29 t - t
 . 31 r - new-day-cal.d
 
-2-19
+feb
 ...
-. 01 f - t
-. 28 r - traffic-court-
+. 08 f - cgs pay 
+. 22 f - cgs pay
+
+mar
+...
+. 08 f - cgs pay
+. 14 r @ 9a - dr singh 
+. 22 f - cgs pay

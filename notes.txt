@@ -22,12 +22,13 @@ bills
 . water
 . fios
 
-links
+links-cgs
 ...
 . heatprodweb.ur.com/HEAT
 . https://pgp.ur.com:9000/omc/GetLoginScreen.uevent
 . eportal.ur.com
 . rm.ur.com/printers.html
+. https://pgp.ur.com:9000/omc/GetLoginScreen.uevent
 
 sites
 ...
@@ -58,6 +59,19 @@ github
 . git remote add origin https://github.com/neuralman/txt/
 . git push -u -f origin master
 
+links-jia
+...
+. https://todoist.com/
 
-
-
+PS
+...
+. a practical start with typescript
+. typescript fundamentals
+. typescript in-depth
+. advanced typescript
+. getting started with typescript
+. getting the most from the typescript compiler
+. play by play: angular with typescript with john papa and christopher martin
+. practical typescript migration
+. using es6 with typescript
+. 

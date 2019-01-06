@@ -94,16 +94,6 @@ PROJECTS
 . Neuralman on Ebay sold 2+ million tags
 . Lotus Notes/Domino User Group, Tampa
 
-INTERESTS
------------------------------------------
-. Modern Javascript
-. Functional Programming
-. Minimal Interior Design
-. Modern Architecture
-. Win Chun Kung Fu
-. Salt Water Fishing
 
-FAVORITE BUILDING
------------------------------------------
-. Bank of China by I.M. Pei, Hong Kong
+
 
