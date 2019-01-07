@@ -1360,6 +1360,220 @@ scrum master
 . Worked with Senior Management, Business & Release Management to understand the vision of the product, prioritize and develop software release planning.
 . Communicated the progress to senior management thru 'Burndown Charts'. Monitored the Quality thru metrics and mentored team thru the project management processes.
 
+misc
+...
+. Highly successful IT Professional over 10 years of experience in Design, Development, Implementation and all aspects of the development life-cycle of Java & J2EE projects working as a System Analyst, Tech Lead, Onshore Coordinator and a Programmer.
+. Responsible for Project Planning, Estimation, Evaluation, Project Management and Coordination.
+. Focused, self-starter with strong technical & analytical skills with various domain knowledge in Marketing, Automotive, Retail, Health Care, Insurance, Auction Management System with proven ability to understand business problems and apply technology to formulate workable solutions.
+. 20 years of interactive business web applications programming.
+. Microsoft Visual Studio Programming with C#. ASP.NET, Entity Framework
+. TFS/VSTS Source Control with Continuous Integration and automatic Deployment Manifests.
+. Front End User Interface programming using HTML, CSS, JavaScript, JQuery, Flash. 
+. Angular 1 & 2 development.
+. Web Service Programming using REST, XML, JSON, oDATA.
+. Acceptance Testing with Selenium SpecFlow
+. SQL Server, Mongo DB, MySQL Databases
+. SharePoint (on-prem and O365) Web Part Development and Deployment packages
+. Unit Tests, Functional Tests, debugging and performance analyst tools. 
+. TDD - Test Driven Design
+. Visual communication specialist with user experience, interface design and front-end development skillsets. Motivated, dedicated and people-focused. Passion to excel, streamline, grow, train and lead. 
+. Specialties: UX, UI, Graphic Design, Web / Front-End Development, Consulting, Leadership, Training, Advertising, Marketing
+. A highly qualified Business Intelligence Consultant with a record of successful job performance in multiple client industries. A self-motivated, organized and collaborative developer with a strong proficiency working with Business Intelligence applications, reporting software, SQL and data concepts. Exceptional interpersonal skills with a customer oriented focus and a desire to continually add to my technical repertoire.
+Specialties: 
+- Unity 3D (C#)
+- Unity Engine Tool Design (C++)
+- Unity Editor Tool Design (C#)
+- Virtual Reality Applications (All Platforms)
+- Mixed Reality Applications (Hololens)
+- Augmented Reality Applications (Mobile, HMD)
+- Machine Learning (MLAgents + TensorFlow)
+- OSX Development with Objective C
+- OSX Development with Swift
+- iOS Development with Objective C
+- iOS Development with Swift
+- Android Development
+- Universal Windows Platform (C# / XAML)
+- User Interactivity for 3D Games
+- Intuitive UI Design
+- Mobile Application Development
+. Specialties: SharePoint 2007, 2010, 2013 - Administration and Development Office 365 Microsoft EMS AngularJS PowerShell Scrum Developer
+. Experienced Operations Director, with a track record of reducing costs, increasing efficiencies and increasing revenues through speeding up time to market delivery. Experienced Software Delivery Leader with a proven ability to deliver Operational Excellence, Continuous Improvement, Strategy creation & Deployment.
+. iverse industry experience leading multiple strategic initiatives and multiple programs. Strong record of successfully leading business unit transformations to Agile and Lean processes, delivering Higher Revenues, Lower Costs and faster time to market.
+. I am a user experience designer with over 16 years of design experience. I am a multi-faceted designer and am able to led UX initiatives on small to large scale projects, as well as execute beautiful and engaging interface designs. Throughout my career, I have successfully lead and participated in over 50+ projects involving a variety of industries including manufacturing, healthcare, retail, government, and entertainment. These projects ranged from mobile native applications to enterprise level portals and data management.
+. I developed a UX strategy for the interfaces of the National Newspapers of New York Times Regional Media Group, for both mobile and desktop. I also coordinated with product managers and developers execute projects and updates on all sites.
+. Experienced Principal Consultant with a demonstrated history of working in the information technology and services industry. Skilled in Databases, .NET Framework, HTML, Azure IoT, and Azure Service Fabric. Strong consulting professional with a Bachelors of Science focused in Computer Science.
+. As a Senior Project Manager, I am leading Marketing, Product, and Operational projects. Example: Launched marketing campaign to provide TV Stream and Choice packages in an effort to retain and acquire customers resulting in its first six months retaining/acquiring over 600,000 customers. 
+. Identify and lead process improvement opportunities to provide consistency in the execution of projects. Serve as the team’s project management trainer when new hires are brought onto the team. Extremely attentive to detail while keeping an eye on the overall strategy. Seen as a problem solver, excellent communicator, and collaborator amongst cross-functional teams.
+. As a Senior Project Manager, I offered broad IT (Information Technology) and Operations experience, including Project and Program Life-Cycle Management, Waterfall, SDLC (Software Development Life-Cycle), PMBOK, Agile Software Development, Scrum Software Development, Iterative, Quality Management, Human Resources Management, Plan-Do-Check-Act, Auditing (ISO9000:2008), Business Process Improvement, Document Management, Balanced Scorecard, Facilitation, Change Management, Management, Leadership, Cross-Functional Team Management, Training, Strategic Planning, Recruiting, Team Building, Performance Management, Operations Management, Forecasting, Root / Cause Analysis, and Business Reporting. See less
+. As an Information Technology Project Manager, I led multiple operational / IT projects using Waterfall and Agile/Scrum methodologies. Facilitated multiple work groups, worked on capacity planning, and managed budgets of cross functional teams. I partnered with the teams to narrow scope, create road maps and create executable project schedules. Served as an escalation point to project team members when challenges arise. See less
+. Over 15 years experience leading Operational / IT projects within the financial, insurance, managed healthcare, banking, and telecommunications industries. Led integration / change efforts such as a Quality Management System encompassing Document Management, Process Improvements, and ISO:9000 Auditing. Types of projects led include: application development, process improvement, and release management with budgets ranging from $100,000 to over $10,000,000.
+. Key strengths: communication skills, flexibility, and building relationships. Work to understand key issues and negotiate priorities while managing risks enabling success closure to an organization's top priority projects. 
+. Facilitator of project management training sessions for novices, new team members, and leaders. Delivered a presentation for the Society of Emotional Intelligence on Project Management and Emotional Intelligence.  
+. Seek challenging opportunities that require a person who has exceptional communication skills, is patient with a sense of urgency, and champions change.
+. Secialties: Project Management Life-Cycle (PMBOK, PDCA, Waterfall, and Agile / Scrum), Software / System Development Life-Cycle (SDLC), risk identification and mitigation, business change, budget development, and develop and implement program and project level processes, procedures, and performance metrics.
+-	Certified Scaled Agile (SAFe® 4) Scrum Master of a data and metrics team for a number of iterations.
+-	Owns and manages requirements gathering, documentation, analysis, and communication, as well as the change management process, documentation, and any updates for any and all assigned projects within the MetLife Direct Business.
+-	Have established strong working relationships across core functions and support areas including product, marketing, legal, and compliance to assist with the requirements gathering and documentation process.
+-	Owns and documents test planning and scripting, and manages test coordination and defect tracking for any and all assigned projects.
+-	Able to manage initiatives focused on system integration and platform implementation.
+-	In minimal time, works with key stakeholders to become the subject matter expert for the applicable product providers and TPAs.
+-	Has the ability to gather and communicate status and key metrics to the MetLife Direct audience with automated or manual reporting where applicable.
+-	Communicates with key vendors and internal partners to ensure adequate understanding of business needs and systems capabilities.
+-	Works with the leadership team to develop standard templates, reports and best practices.
+-	Assists in day to day process management activities within the MetLife Direct business and is a champion of SDLC best practices.
+-	Acts as a contact for product and process guidance for the business lines and vendors.
+-	Acts as a coordinator for product management initiatives such as audits, process enhancements, database builds and continuous improvement initiatives.
+-	Develops and delivers OMMs on a regular basis for senior management.
+-	Oversees other efforts needed for business enhancements (Speed, Quality, Cost, Risk).
+-	Has the ability to identify and address issues quickly either through proposed solutions or escalations.
+-	Is a key team member within business integration processes. See less
+. Specialties: Agile, Waterfall, Project and Process Management and Improvement, SDLC, Life Insurance, Individual Disability Insurance, Software Specification, Premium Calculation and GUI Design, Business Analysis, Product Development, QA, UAT, HP ALM, Blueprint, Workfront, Jira, MS Office (including Project, Visio, Access), Web Development, Actuarial Methodology, State Filings, Product Marketing, and Legal and Compliance Consultation.
+. Certifications: SAFe® 4 Scrum Master; Certified Associate in Project Management with PMI.
+. Analytical professional with a versatile skill set and a can-do attitude to achieve organization objectives. Vast experience in the insurance industry managing competitive intelligence and various projects.
+. As a Career Management professional, I serve as a career coach and mentor to those in career transition. I have the privilege of working with many talented and successful individuals, providing outplacement services to individual contributors, entry-level managers and senior executives.
+
+lee
+...
+. In my role as a Career Management Consultant, it is my responsibility to guide & inspire our candidates; teaching them the most up-to-date job search strategies while instilling in them the confidence to leverage these skills to land in their next career.
+. As a Certified Professional Resume Writer, published LinkedIn author and experienced trainer and public speaker, I facilitate career workshops, career webinars and executive career coaching.
+. My specialties include:
+
+√ Career Coaching
+√ Certified in Birkman Method
+√ Outplacement Services
+√ Talent Assessment
+√ Resume Writing
+√ Interview Training
+√ LinkedIn Training
+√ Social Media Training
+√ Job Search Strategies
+√ Networking
+√ Executive Coaching
+√ Leadership Training
+√ Talent Management
+√ Career Management
+
+. Learn more about me by visiting my website at Leedsilverstein.com
+. Contact me: Lee.Silverstein@rightflorida.com
+
+Vice President Consulting Services
+Dates EmployedJul 2017 – Present
+Employment Duration1 yr 7 mos
+Provide career coaching and training to candidates at all organizational levels; from entry level to C-Suite. Facilitate workshops and webinars. Specializing in: 
+
+► Executive coaching 
+► Resume writing 
+► LinkedIn and social media 
+► Interview preparation 
+► Career Assessments... See more
+
+TitleCareer Management Consultant
+Dates EmployedJun 2015 – Jul 2017
+Employment Duration2 yrs 2 mos
+LocationTampa/St. Petersburg, Florida Area
+Provide career coaching and training including Career Coaching | Outplacement Services | Talent Assessment | Resume Writing | Interview Training | LinkedIn Training | Social Media Training | Job Search Strategies | Networking | Executive Coaching | Leadership Training | Talent Management | Career Management
+
+Business Owner
+Company NameWE Have Cancer LLC
+Dates EmployedFeb 2015 – Present
+Employment Duration4 yrs
+WE Have Cancer is the longest running, regularly produced podcast exploring the "human side" of cancer.
+
+As the Campus Director of Career Services at Sanford-Brown College, I led a team of talented career service advisors that provided career services for students and alumni. These services included:
+
+• Career education
+• Career services
+• Job search strategies
+• Career placement assistance
+• Résumé writing
+• Interview preparation
+• LinkedIn and social media training See less
+
+As a Career Services Advisor, I worked with our talented students and alumni, providing them career placement assistance, career coaching, résumé writing, interview preparation, LinkedIn training and career search strategies.
+
+Teaching LinkedIn Strategies to Job Seekers | C.P.R.W. | Career Transition Services
+Dates Employed2011 – 2013
+Employment Duration2 yrs
+LocationTampa/St. Petersburg, Florida Area
+With over 15 years of experience in leadership and organizational development, training, interviewing and hiring, my goal as an executive job coach, is to give my clients the skills and confidence to succeed in their job search. I teach executives how to leverage the vast array of social media platforms - LinkedIn, Twitter, blogs, Facebook and Google+ – to help them be dis... See more
+
+TitleSpeaker | Teaching LinkedIn Strategies to Job Seekers | C.P.R.W. | Career Transition Services
+Dates EmployedSep 2011 – Oct 2011
+Employment Duration2 mos
+LocationTampa/St. Petersburg, Florida Area
+Taught local entrepreneurs how to use social media to listen and respond to the needs of their customers.
+
+Works as a liaison between the life and disability underwriting, other new business areas, and IT personnel to support area technology needs, both production fixes and business enhancements.
+Determines specific business application software requirements to address business needs and analyses and designs solutions.
+Performs User Acceptance Testing (UAT) of system enhancement and production fixes for underwriting and new business areas both pre and post implementation phases to ensure successful of chosen release items.
+Develops critical working relationships with IT partners, vendors, internal end users, and business leadership in order to achieve the common end result.
+Schedule and facilitate meetings related to scheduled projects. See less
+
+Tax Reporting & Strategy Manager	8/2013 to 3/2015
+
+- Managed multi-million dollar international client engagements to implement tax decision management systems (Tax Data Warehouse) using Microsoft SQL, SSIS, SSRS, ASP.NET and SharePoint.
+- Using the Agile methodology and Microsoft’s Team Foundation Server, acted as Scrum Master and led the offshore development and testing teams.
+- Mentored a team of Agile novices in capturing user stories, reconciling general ledger and ERP data and acceptance testing.
+- Designed the Tax Data Warehouse data model.
+
+Solution Manager & Scrum Master, Technology Solution Center	8/2012 to 8/2013
+- One of a few individuals selected to lead the creation of the Corporate Tax Reporting Portal, a multi-million dollar investment designed to revolutionize the way the firm’s tax practice interfaces with clients.
+- Led the Corporate Tax Reporting team’s adoption of the Agile methodology, acting as the Scrum Master, utilizing Microsoft’s Team Foundation Server.
+- Developed the Corporate Tax Reporting Portal dashboards and financial reports using SQL Server Management Studio and Microsoft SQL Reporting Services.
+- Managed the development activities of the external resources for the complex tax workpaper calculation engine of the Corporate Tax Reporting while becoming the in-house expert in that system. See less
+
+Process Automation Manager, Tax Technology	4/2011 to 8/2012
+- Enhanced the value of Tacoma, the tax practice’s BPM platform built on IBM’s Websphere Lombardi Edition, through discovery and implementation of technology integration. 
+- Specifically, led the development of the GoSystem integration for exporting and printing returns and checking e-file status via webservices and launching locators directly from the BPM system.
+- Envisioned and led the automation of the Tacoma Engagement Setup using the GoSystem data
+- Led the Corporate Compliance Information Architecture proof of concept project while providing subject matter expertise and managing project contractor resources. The outcome of this ground-breaking project was a foundation for integrating electronic, standard tax workpapers into the compliance process.
+- Using the Agile mythology, managed the development of the Tacoma Dashboard which exposed in a graphical format the rich engagement status data buried within the BPM system. I personally wrote all the underlying SQL queries for these dashboards.
+
+Relationship Manager II, Tax Demand 4/2009 to 4/2011
+- Managed $7M re-platform and subsequent v2 of Connected Workpapers, (a collection of technologies that makes relevant, standard workpapers templates available to a tax engagement team).
+- Supported the Firm's top priorities by partnering with project sponsors, practice leaders, portfolio teams and external vendors to provide sound, cost efficient long-term tax technology solutions/applications
+- Defined solution roadmap in collaboration with the business and developed business cases for technology investments.
+- Developed testing plans and conducted acceptance testing sessions with product sponsors.
+- Trained onshore and offshore support staff and served as an escalation point for production support matters. See less
+Development Manager, Information Technology	1/2007 to 4/2009 
+- Designed and developed numerous web based workflow applications used to drive the tax research tools and internal processes within the firm using IBM Lotus Domino, LotusScript, Lotus Formula Language, Java, JavaScript, HTML, XML, ODBC, SQL, SMTP, Oracle.
+
+Fidelity National Information Services
+Dates EmployedJan 2000 – Jan 2007
+Employment Duration7 yrs 1 mo
+- Designed and created numerous web based workflow applications for internal and external clients.
+- Acted as Global Messaging Architect during two lengthy vacancies in that position. 
+- Managed the local Domino development team, mentored junior developers and provided guidance across the global environment.
+- Set standards for the development environment and processes; developed software lifecycle processes for design documentation, user acceptance, test plans, problem reporting and version control.
+- Technologies used: IBM Lotus Domino, LotusScript, Lotus Formula Language, Java, JavaScript, HTML, XML, ODBC, SQL, SMTP, Tumbleweed Email Firewall, Tumbleweed Secure Messenger. See less
+
+- Collaborated with internal customers across multiple departments to design, develop, test and implement the web based, workflow applications for the retail pharmacy stores.
+- Technologies used: IBM Lotus Domino, Perl, CGI, JavaScript, Apache, Oracle, LotusScript, Tuxedo, Gupta SQL Windows, C Language, SQL Plus, Pro*C, HTML, Java Servlets on IBM's Websphere, VisualAge for Java, Apache web server on a Unix SCO server. See less
+
+An accomplished Information Services professional with extensive experience in bringing cutting-edge technology to corporate clients. Proven ability to conduct accurate needs analysis, solve problems, assess technical capabilities, conduct strategic planning, build and motivate teams, manage projects & technical staff and communicate clearly to all resources involved in the organization and or project.
+
+Specialties: Languages: C#, VB.NET, VB, VB Script, JAVA, JavaScript, Lotus Script, Lotus @Command Language, SQL, XML, HTML, DHTML
+Internet: ASP.NET, Classic ASP, Lotus Domino, JSP
+Database:	MS SQL Server 6.x thru 2012, Oracle, MS Access, Lotus Notes v3.x thru 6.x
+Platforms:	Visual Studio, Visual Interdev, Enterprise Manager, Windows 3x/9x/NT/2000/XP/2000 Server, IIS, Lotus Domino, IBM Websphere, JVM
+
+In charge of developing and maintaining the secure websites used by Students, Faculty and prospective students. The web sites were built with asp.net mvc, using web services as the communication link between the client browser and the internal SQL servers.
+
+- System Architect and developer of the SmartSHARE system. A Web Service based search engine that pulls real-time Law Enforcement data from different types of Records Management Systems. Currently being used by the Northwest Florida region in 20 different Law Enforcement agencies. These 20 agencies can query data on people, places and crimes and pull that information in one User Interface.
+- Developer of the SmartPTW application. The PTW is a handheld E-Citation application used by Law Enforcement agencies like Florida Highway Patrol to issue Vehicle Citations and DUI Citations. The handheld system uses SQLCE and Windows Mobile technology to run vehicle Tags and Driver License information.
+- Developer of the SmartWEB application. The SmartWEB application is a Law Enforcement portal for public consumption. The application displays CAD (Computer Aided Dispatch) i.e., Traffic Accidents and Police/Deputy locations on a map using Google Maps. SmartWEB also displays Jail Inmates and Active Warrant information for that agency.
+- Developer of the SmartIR application. The SmartIR (Incident Reporting) is a public website dedicated to allowing citizens to report various types of Incidents that may have occurred. This allows the agency to offset the amount of phone calls taken by the agency from citizens involved in an incident.
+- Developer of the Florida Highway Patrol traffic crash website. This public website is used by the FHP website to report incidents on the Florida roads (traffic accidents, delays, etc.)
+- Manager of three developers. Hand out tasks for each of the products that my group supports. Manage resource allocations based on customer needs. See less
+
+
+
+
+
+
+
+
+
 
 
 
