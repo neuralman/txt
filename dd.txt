@@ -39,6 +39,7 @@ alpha
 . PX - publix
 . SP - spotify
 . SW - speedway
+. TB - taco bus
 . TE - teco
 . TL - trulieve
 . UE - uber-eats
