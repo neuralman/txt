@@ -3,7 +3,8 @@
 jan
 ...
 x 03 r @ 9a - court
-> 06 su 
+x 06 su 
+> 07 m < today
 . 08 t - wells-fargo-date, t
 . 09 w - auto-ins.$
 . 11 f - cgs.$, t
