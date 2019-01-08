@@ -15,8 +15,7 @@ cat
 
 jia
 ...
-. c$180
-. g$117
+. cgs sd 4/23/18
 
 bills
 ...
@@ -1565,6 +1564,92 @@ In charge of developing and maintaining the secure websites used by Students, Fa
 - Developer of the SmartIR application. The SmartIR (Incident Reporting) is a public website dedicated to allowing citizens to report various types of Incidents that may have occurred. This allows the agency to offset the amount of phone calls taken by the agency from citizens involved in an incident.
 - Developer of the Florida Highway Patrol traffic crash website. This public website is used by the FHP website to report incidents on the Florida roads (traffic accidents, delays, etc.)
 - Manager of three developers. Hand out tasks for each of the products that my group supports. Manage resource allocations based on customer needs. See less
+
+Dynamic, goal-oriented business professional with excellent communication and leadership skills – proficient in reducing cost of operations through the development and implementation of standard processes, technology, and people. Also skilled in managing large budgets and improving team productivity - over seventeen years’ experience in Enterprise Architecture, Systems Management and Application Development, consulting in a variety of industries such as accounting, human resources, legal services, government, healthcare, production, construction, and transportation. 
+
+Areas of key strength...
+
+•	Accustomed to working as a key member of a management team.
+•	Dedicated leader with ability to create a positive work environment, implement change, and lead staff through technology transitions.
+•	Effective in establishing strong clientele relationships.
+•	Skilled in developing and applying successful business processes to reduce overall cost of operation.
+•	Focused on ITIL methodologies and ITSM practices for service delivery.
+
+Accountable for developing the corporate IT Strategy, providing technical direction to Enterprise Architects, managing a team of IT Engineers, and monitoring the quality of services we provide our clients. 
+
+Responsibilities include:
+
+•	Performing as a key member of the executive leadership team (CxO).
+•	Interfacing with key leaders in the organization to understand their critical business needs and developing IT Solutions that were capable of meeting those needs.
+•	Reducing the operating cost of IT without compromising the quality of service we provide our customers. 
+•	Directing the company’s strategic direction, development and future growth.
+•	Conducting research and case studies on leading edge technologies making the determination on the probability of implementation. See less
+
+Hired to manage 10 IT Professionals responsible for maintaining the school district’s infrastructure supporting over 30,000 students and 5000 teachers.
+
+Responsibilities include:
+
+•	Managed an IT budget of $4 million dollars.
+•	Reduced the cost of operations by over 30% by taking advantage of software programs engineered for School Districts (Microsoft Office 365, Enterprise Licensing Agreements, etc). 
+•	Stabilized the infrastructure and provided technical solution that would enhance classroom learning experiences for students. See less
+Accountable for developing and managing a team of up to 30 professionals who provide all aspects of technology to assigned clients (Network, Security, Operations, Operational Controls, Service Desk, Project Management, Field Service, etc).
+
+Responsibilities include:
+
+•	Developed innovative technical solutions to improve the stability of our client’s infrastructure.
+•	Balanced the demand levels of customers against the financial obligations of their contracts.
+•	Consistently managed profitability across given accounts without infringing on employees’ “Work/Life Balance.”
+•	Oversaw the Enterprise Integration and MPS/Adecco suites at the Advanced Information Technology Center (AITC Datacenter) consisting of over 450 Servers and Core Network Infrastructure.
+•	Integrated with multiple service delivery teams to provide ongoing support for technical issues.
+•	Prepared annual budgets and demand management forecasts.
+•	Created business processes and standard operating procedures.
+•	Handled client escalations in order to bring a swift resolution to potentially higher impacting issues. See less
+
+Selected to provide technical supervision of 5 engineers responsible for multiple accounts including but not limited to The St. Joe Company, Trailer Bridge, Seastar, and Jacksonville Housing Authority.	 
+
+Responsibilities include:
+
+•	Met with potential clients to demonstrate the capabilities of Enterprise Integration.
+•	Designed and implemented appropriate technical solutions to solve business challenges.
+•	Provided technical leadership to the tier 2 support and engineering staff.
+•	Prepared new accounts for integration into the managed services model.
+•	Developed processes to streamline daily operations for the tier 2 support staff.
+•	Managed the Enterprise Integration suite at the Advanced Information Technology Center 
+
+Appointed in March 2005 to enhance the telecommunications network for the City of Jacksonville. This position was created for the purpose of maintaining current infrastructure, developing a strong staff to support the network, and implementing future technologies in order to cut reoccurring costs. 
+
+	Support all city agencies consisting of over 12,000 telephone users across Duval County utilizing 3 Nortel Option 81 PBX’s and over 250 Norstar Key Systems.
+	Maintain 911 services for Emergency Operations Center.
+	Manage a team of 22 individuals responsible for supporting the telecommunications network 24 hours a day, 7 days a week.
+	Converge with the Mayor and his staff to establish department direction, discuss possible enhancements, and to resolve developing issues.
+	Create and administer an 8.9 million dollar budget. Reduced operating costs by 20% through the use of new technologies.
+	Meet with vendors to determine ways of cutting reoccurring costs, to resolve issues, and to gain exposure to new technologies. See less
+
+Selected to provide supervision, direction, and training for over 15 individuals in order to support over 200 applications for end users.
+
+Selected in July 2002 to build the Information Technologies department for a post accounts receivable auditing company. Being a start-up company, the goal was to develop and implement a network infrastructure with multiple locations in the United States and Mexico as well as to create a strong Internet presence within 6 months.
+
+
+While programming coursework on an IBM 360/75 as a computer science student, was fortunate to have also been hired as a systems programmer on the seminal University of Illinois PLATO project at the Computer-based Education Research Laboratory (CERL), thanks to Paul Tenczar and Don Bitzer. Implemented (CDC 6600 and Z80 assembly) an assembler, dynamic linker/loader and firmware for an early “intelligent terminal” for PLATO system, enabling decentralized computing for an otherwise centralized interpreted language execution environment. One of tens of thousands of people who became fully immersed in the world’s first “online community” and all that that implies. Was exposed to eMail and online discussions (a.k.a. “Notes”), instant messaging and chat rooms (a.k.a. "Talkomatic"), massive multiplayer gaming, online project collaboration. See less
+Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
+Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
+Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
+Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
+With three people from Digital Equipment Corporation, co-founded a startup, “Microcosm Corporation”, to create a workstation product based on National‘s VAX-like 16032 microprocessor. Failed to obtain funding.
+Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
+Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
+With three people from Digital Equipment Corporation, co-founded a startup, “Microcosm Corporation”, to create a workstation product based on National‘s VAX-like 16032 microprocessor. Failed to obtain funding.
+Hired by Dan Bricklin and Bob Frankston at Software Arts, creator of VisiCalc. Did a small amount of work on the Z80 port of VisiCalc (under development lead Seth Steinberg), and later led the team that built the VM (Z80, 6502, 8086, PDP-11, 68000 assembly) for a Lisp-like language (“IL”) being built to ensure the cross-machine portability of VisiCalc and TK!Solver.
+Somewhat obsessed with and haunted by collaboration and online community concepts experienced at PLATO, deeply inspired by reading Ted Nelson and Doug Englebart, and believing that the world would be fully embracing PC’s and networks by 1983 because of using a pre-release IBM PC and 3Com Ethernet card while at Software Arts, developed functional specifications and plans for the product that would later be known as Lotus Notes, with the intent of starting a software company to build it. Failed to obtain funding. See less
+Hired by Mitch Kapor and Jonathan Sachs at Lotus Development, just after Lotus 1-2-3 Release 1 had shipped. Did a small amount of work on 1-2-3 1A, and led a small team (Barry Spencer, Matt Stern) to create Lotus Symphony (8086 assembly) – one of the first “office productivity suite” products originally intended to be the second major release of Lotus 1-2-3.
+Founded and led Iris Associates, to create what has become Lotus Notes, the defining enterprise “groupware” and email product used by more than 120 million people at corporations worldwide for collaboration within large enterprises. Iris, a software design & development firm that is now part of the IBM/Lotus Software Group, was co-founded by Tim Halvorsen and Len Kawell, and was purchased by Lotus Development in 1994, and by IBM in 1995. See less
+After coming to the conclusion that Notes-like client/server architectures fundamentally would not adequately address the dynamic collaboration requirements of a decentralized business environment, founded Groove Networks to create personally-empowering, secure, mobile, ad hoc, decentralized collaboration software for both individuals and enterprises. Co-founders Ken Moore, Jack Ozzie, and Eric Patey led the development organization; my part was largely in conceptualization and design, and in leading and helping to build the rest of the business. Groove Networks was purchased by Microsoft in April of 2005. See less
+Assumed the CSA (chief software architect) role in June 2006, when chairman/CSA Bill Gates announced his intent to relinquish the role on the transition from Microsoft to working full-time at his foundation. In activities as CSA, was responsible for oversight of the company’s overall technical strategy and product architecture, and for driving its transition to services and the cloud. Also led "concept development labs" charged with creating and nurturing potentially-disruptive advanced development efforts, including one key project (“Red Dog”) led by Dave Cutler and Amitabh Srivastava that grew to become Microsoft’s Azure. See less
+Founded and led a company that delivered mobile apps & services for business team communications, primarily focused on those roles in which voice is essential. Co-founders were Eric Patey (dev) and Matt Pope (product). Talko was purchased by Microsoft in December of 2015 so as to fuel innovation in Skype for consumers and for business.
+
+
+
+
 
 
 
