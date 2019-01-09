@@ -1647,7 +1647,25 @@ After coming to the conclusion that Notes-like client/server architectures funda
 Assumed the CSA (chief software architect) role in June 2006, when chairman/CSA Bill Gates announced his intent to relinquish the role on the transition from Microsoft to working full-time at his foundation. In activities as CSA, was responsible for oversight of the company’s overall technical strategy and product architecture, and for driving its transition to services and the cloud. Also led "concept development labs" charged with creating and nurturing potentially-disruptive advanced development efforts, including one key project (“Red Dog”) led by Dave Cutler and Amitabh Srivastava that grew to become Microsoft’s Azure. See less
 Founded and led a company that delivered mobile apps & services for business team communications, primarily focused on those roles in which voice is essential. Co-founders were Eric Patey (dev) and Matt Pope (product). Talko was purchased by Microsoft in December of 2015 so as to fuel innovation in Skype for consumers and for business.
 
+Specialties: 
+- Unity 3D (C#)
+- Unity Engine Tool Design (C++)
+- Unity Editor Tool Design (C#)
+- Virtual Reality Applications (All Platforms)
+- Mixed Reality Applications (Hololens)
+- Augmented Reality Applications (Mobile, HMD)
+- Machine Learning (MLAgents + TensorFlow)
+- OSX Development with Objective C
+- OSX Development with Swift
+- iOS Development with Objective C
+- iOS Development with Swift
+- Android Development
+- Universal Windows Platform (C# / XAML)
+- User Interactivity for 3D Games
+- Intuitive UI Design
+- Mobile Application Development
 
+Portfolio: mattfedo.com
 
 
 
