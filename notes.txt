@@ -1,6 +1,7 @@
 project-notes
 ...
 . max width = 41 characters 
+. 011
 
 linkedin
 ...
@@ -35,6 +36,7 @@ links-cgs
 . eportal.ur.com
 . rm.ur.com/printers.html
 . https://pgp.ur.com:9000/omc/GetLoginScreen.uevent
+. http://usoxf-identp01:8080/identity/self-service/rev/ussp.jsf
 
 sites
 ...
@@ -48,6 +50,8 @@ sites
 . pogo - https://jiawp.neocities.org/pogo.html
 . keyboard macros -https://jiawp.neocities.org/keymacros.html
 . jia parallax - https://jiawp.neocities.org/pex333/index.html
+. airtable - https://airtable.com
+. trello - https://trello.com
 
 cloud9
 ...

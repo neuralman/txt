@@ -13,7 +13,7 @@ work
 . project ref site
 . linked in update
 . job site updates
-. print bus cards
+. bus cards
 
 cat
 ...

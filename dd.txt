@@ -37,6 +37,7 @@ alpha
 . HW - hillsb-water
 . PS - pluralsight
 . PX - publix
+. SB - subway
 . SP - spotify
 . SW - speedway
 . TB - taco bus
