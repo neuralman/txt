@@ -1671,6 +1671,11 @@ Specialties:
 
 Portfolio: mattfedo.com
 
+git
+...
+. git remote -v
+. git config --global user.email "email@example.com"
+
 
 
 
