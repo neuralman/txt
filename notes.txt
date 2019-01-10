@@ -1749,3 +1749,6 @@ git
 
 
 
+<div class="copyright">
+  &copy; 2018 Jia Huang. All rights reserved.
+</div>
