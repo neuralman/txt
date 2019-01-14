@@ -37,6 +37,7 @@ alpha
 . HW - hillsb-water
 . PS - pluralsight
 . PX - publix
+. RA - reis
 . SB - subway
 . SP - spotify
 . SW - speedway
