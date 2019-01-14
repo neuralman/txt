@@ -1520,227 +1520,74 @@ Tax Reporting & Strategy Manager	8/2013 to 3/2015
 - Designed the Tax Data Warehouse data model.
 
 Solution Manager & Scrum Master, Technology Solution Center	8/2012 to 8/2013
-- One of a few individuals selected to lead the creation of the Corporate Tax Reporting Portal, a multi-million dollar investment designed to revolutionize the way the firm’s tax practice interfaces with clients.
-- Led the Corporate Tax Reporting team’s adoption of the Agile methodology, acting as the Scrum Master, utilizing Microsoft’s Team Foundation Server.
-- Developed the Corporate Tax Reporting Portal dashboards and financial reports using SQL Server Management Studio and Microsoft SQL Reporting Services.
-- Managed the development activities of the external resources for the complex tax workpaper calculation engine of the Corporate Tax Reporting while becoming the in-house expert in that system. See less
-
-Process Automation Manager, Tax Technology	4/2011 to 8/2012
-- Enhanced the value of Tacoma, the tax practice’s BPM platform built on IBM’s Websphere Lombardi Edition, through discovery and implementation of technology integration. 
-- Specifically, led the development of the GoSystem integration for exporting and printing returns and checking e-file status via webservices and launching locators directly from the BPM system.
-- Envisioned and led the automation of the Tacoma Engagement Setup using the GoSystem data
-- Led the Corporate Compliance Information Architecture proof of concept project while providing subject matter expertise and managing project contractor resources. The outcome of this ground-breaking project was a foundation for integrating electronic, standard tax workpapers into the compliance process.
-- Using the Agile mythology, managed the development of the Tacoma Dashboard which exposed in a graphical format the rich engagement status data buried within the BPM system. I personally wrote all the underlying SQL queries for these dashboards.
+. One of a few individuals selected to lead the creation of the Corporate Tax Reporting Portal, 
+a multi-million dollar investment designed to revolutionize the way the firm’s tax practice interfaces with clients.
+. Led the Corporate Tax Reporting team’s adoption of the Agile methodology, 
+acting as the Scrum Master, utilizing Microsoft’s Team Foundation Server.
+. Developed the Corporate Tax Reporting Portal dashboards and financial reports using 
+SQL Server Management Studio and Microsoft SQL Reporting Services.
+. Managed the development activities of the external resources for the complex tax workpaper 
+calculation engine of the Corporate Tax Reporting while becoming the in-house expert in that system. 
+. Enhanced the value of Tacoma, the tax practice’s BPM platform built on IBM’s Websphere 
+Lombardi Edition, through discovery and implementation of technology integration. 
+. Specifically, led the development of the GoSystem integration for exporting and 
+printing returns and checking e-file status via webservices and launching 
+locators directly from the BPM system.
+. Envisioned and led the automation of the Tacoma Engagement Setup using the GoSystem data
+. Led the Corporate Compliance Information Architecture proof of concept project 
+while providing subject matter expertise and managing project contractor resources. 
+The outcome of this ground-breaking project was a foundation for integrating electronic, 
+standard tax workpapers into the compliance process.
+. Using the Agile mythology, managed the development of the Tacoma Dashboard which 
+exposed in a graphical format the rich engagement status data buried within the 
+BPM system. I personally wrote all the underlying SQL queries for these dashboards.
 
 Relationship Manager II, Tax Demand 4/2009 to 4/2011
-- Managed $7M re-platform and subsequent v2 of Connected Workpapers, (a collection of technologies that makes relevant, standard workpapers templates available to a tax engagement team).
-- Supported the Firm's top priorities by partnering with project sponsors, practice leaders, portfolio teams and external vendors to provide sound, cost efficient long-term tax technology solutions/applications
-- Defined solution roadmap in collaboration with the business and developed business cases for technology investments.
-- Developed testing plans and conducted acceptance testing sessions with product sponsors.
-- Trained onshore and offshore support staff and served as an escalation point for production support matters. See less
-Development Manager, Information Technology	1/2007 to 4/2009 
-- Designed and developed numerous web based workflow applications used to drive the tax research tools and internal processes within the firm using IBM Lotus Domino, LotusScript, Lotus Formula Language, Java, JavaScript, HTML, XML, ODBC, SQL, SMTP, Oracle.
-
-Fidelity National Information Services
-Dates EmployedJan 2000 – Jan 2007
-Employment Duration7 yrs 1 mo
-- Designed and created numerous web based workflow applications for internal and external clients.
-- Acted as Global Messaging Architect during two lengthy vacancies in that position. 
-- Managed the local Domino development team, mentored junior developers and provided guidance across the global environment.
-- Set standards for the development environment and processes; developed software lifecycle processes for design documentation, user acceptance, test plans, problem reporting and version control.
-- Technologies used: IBM Lotus Domino, LotusScript, Lotus Formula Language, Java, JavaScript, HTML, XML, ODBC, SQL, SMTP, Tumbleweed Email Firewall, Tumbleweed Secure Messenger. See less
-
-- Collaborated with internal customers across multiple departments to design, develop, test and implement the web based, workflow applications for the retail pharmacy stores.
-- Technologies used: IBM Lotus Domino, Perl, CGI, JavaScript, Apache, Oracle, LotusScript, Tuxedo, Gupta SQL Windows, C Language, SQL Plus, Pro*C, HTML, Java Servlets on IBM's Websphere, VisualAge for Java, Apache web server on a Unix SCO server. See less
-
-An accomplished Information Services professional with extensive experience in bringing cutting-edge technology to corporate clients. Proven ability to conduct accurate needs analysis, solve problems, assess technical capabilities, conduct strategic planning, build and motivate teams, manage projects & technical staff and communicate clearly to all resources involved in the organization and or project.
-
-Specialties: Languages: C#, VB.NET, VB, VB Script, JAVA, JavaScript, Lotus Script, Lotus @Command Language, SQL, XML, HTML, DHTML
-Internet: ASP.NET, Classic ASP, Lotus Domino, JSP
-Database:	MS SQL Server 6.x thru 2012, Oracle, MS Access, Lotus Notes v3.x thru 6.x
-Platforms:	Visual Studio, Visual Interdev, Enterprise Manager, Windows 3x/9x/NT/2000/XP/2000 Server, IIS, Lotus Domino, IBM Websphere, JVM
-
-In charge of developing and maintaining the secure websites used by Students, Faculty and prospective students. The web sites were built with asp.net mvc, using web services as the communication link between the client browser and the internal SQL servers.
-
-- System Architect and developer of the SmartSHARE system. A Web Service based search engine that pulls real-time Law Enforcement data from different types of Records Management Systems. Currently being used by the Northwest Florida region in 20 different Law Enforcement agencies. These 20 agencies can query data on people, places and crimes and pull that information in one User Interface.
-- Developer of the SmartPTW application. The PTW is a handheld E-Citation application used by Law Enforcement agencies like Florida Highway Patrol to issue Vehicle Citations and DUI Citations. The handheld system uses SQLCE and Windows Mobile technology to run vehicle Tags and Driver License information.
-- Developer of the SmartWEB application. The SmartWEB application is a Law Enforcement portal for public consumption. The application displays CAD (Computer Aided Dispatch) i.e., Traffic Accidents and Police/Deputy locations on a map using Google Maps. SmartWEB also displays Jail Inmates and Active Warrant information for that agency.
-- Developer of the SmartIR application. The SmartIR (Incident Reporting) is a public website dedicated to allowing citizens to report various types of Incidents that may have occurred. This allows the agency to offset the amount of phone calls taken by the agency from citizens involved in an incident.
-- Developer of the Florida Highway Patrol traffic crash website. This public website is used by the FHP website to report incidents on the Florida roads (traffic accidents, delays, etc.)
-- Manager of three developers. Hand out tasks for each of the products that my group supports. Manage resource allocations based on customer needs. See less
-
-Dynamic, goal-oriented business professional with excellent communication and leadership skills – proficient in reducing cost of operations through the development and implementation of standard processes, technology, and people. Also skilled in managing large budgets and improving team productivity - over seventeen years’ experience in Enterprise Architecture, Systems Management and Application Development, consulting in a variety of industries such as accounting, human resources, legal services, government, healthcare, production, construction, and transportation. 
-
-Areas of key strength...
-
-•	Accustomed to working as a key member of a management team.
-•	Dedicated leader with ability to create a positive work environment, implement change, and lead staff through technology transitions.
-•	Effective in establishing strong clientele relationships.
-•	Skilled in developing and applying successful business processes to reduce overall cost of operation.
-•	Focused on ITIL methodologies and ITSM practices for service delivery.
-
-Accountable for developing the corporate IT Strategy, providing technical direction to Enterprise Architects, managing a team of IT Engineers, and monitoring the quality of services we provide our clients. 
-
-Responsibilities include:
-
-•	Performing as a key member of the executive leadership team (CxO).
-•	Interfacing with key leaders in the organization to understand their critical business needs and developing IT Solutions that were capable of meeting those needs.
-•	Reducing the operating cost of IT without compromising the quality of service we provide our customers. 
-•	Directing the company’s strategic direction, development and future growth.
-•	Conducting research and case studies on leading edge technologies making the determination on the probability of implementation. See less
-
-Hired to manage 10 IT Professionals responsible for maintaining the school district’s infrastructure supporting over 30,000 students and 5000 teachers.
-
-Responsibilities include:
-
-•	Managed an IT budget of $4 million dollars.
-•	Reduced the cost of operations by over 30% by taking advantage of software programs engineered for School Districts (Microsoft Office 365, Enterprise Licensing Agreements, etc). 
-•	Stabilized the infrastructure and provided technical solution that would enhance classroom learning experiences for students. See less
-Accountable for developing and managing a team of up to 30 professionals who provide all aspects of technology to assigned clients (Network, Security, Operations, Operational Controls, Service Desk, Project Management, Field Service, etc).
-
-Responsibilities include:
-
-•	Developed innovative technical solutions to improve the stability of our client’s infrastructure.
-•	Balanced the demand levels of customers against the financial obligations of their contracts.
-•	Consistently managed profitability across given accounts without infringing on employees’ “Work/Life Balance.”
-•	Oversaw the Enterprise Integration and MPS/Adecco suites at the Advanced Information Technology Center (AITC Datacenter) consisting of over 450 Servers and Core Network Infrastructure.
-•	Integrated with multiple service delivery teams to provide ongoing support for technical issues.
-•	Prepared annual budgets and demand management forecasts.
-•	Created business processes and standard operating procedures.
-•	Handled client escalations in order to bring a swift resolution to potentially higher impacting issues. See less
-
-Selected to provide technical supervision of 5 engineers responsible for multiple accounts including but not limited to The St. Joe Company, Trailer Bridge, Seastar, and Jacksonville Housing Authority.	 
-
-Responsibilities include:
-
-•	Met with potential clients to demonstrate the capabilities of Enterprise Integration.
-•	Designed and implemented appropriate technical solutions to solve business challenges.
-•	Provided technical leadership to the tier 2 support and engineering staff.
-•	Prepared new accounts for integration into the managed services model.
-•	Developed processes to streamline daily operations for the tier 2 support staff.
-•	Managed the Enterprise Integration suite at the Advanced Information Technology Center 
-
-Appointed in March 2005 to enhance the telecommunications network for the City of Jacksonville. This position was created for the purpose of maintaining current infrastructure, developing a strong staff to support the network, and implementing future technologies in order to cut reoccurring costs. 
-
-	Support all city agencies consisting of over 12,000 telephone users across Duval County utilizing 3 Nortel Option 81 PBX’s and over 250 Norstar Key Systems.
-	Maintain 911 services for Emergency Operations Center.
-	Manage a team of 22 individuals responsible for supporting the telecommunications network 24 hours a day, 7 days a week.
-	Converge with the Mayor and his staff to establish department direction, discuss possible enhancements, and to resolve developing issues.
-	Create and administer an 8.9 million dollar budget. Reduced operating costs by 20% through the use of new technologies.
-	Meet with vendors to determine ways of cutting reoccurring costs, to resolve issues, and to gain exposure to new technologies. See less
-
-Selected to provide supervision, direction, and training for over 15 individuals in order to support over 200 applications for end users.
-
-Selected in July 2002 to build the Information Technologies department for a post accounts receivable auditing company. Being a start-up company, the goal was to develop and implement a network infrastructure with multiple locations in the United States and Mexico as well as to create a strong Internet presence within 6 months.
-
-
-While programming coursework on an IBM 360/75 as a computer science student, was fortunate to have also been hired as a systems programmer on the seminal University of Illinois PLATO project at the Computer-based Education Research Laboratory (CERL), thanks to Paul Tenczar and Don Bitzer. Implemented (CDC 6600 and Z80 assembly) an assembler, dynamic linker/loader and firmware for an early “intelligent terminal” for PLATO system, enabling decentralized computing for an otherwise centralized interpreted language execution environment. One of tens of thousands of people who became fully immersed in the world’s first “online community” and all that that implies. Was exposed to eMail and online discussions (a.k.a. “Notes”), instant messaging and chat rooms (a.k.a. "Talkomatic"), massive multiplayer gaming, online project collaboration. See less
-Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
-Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
-Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
-Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
-With three people from Digital Equipment Corporation, co-founded a startup, “Microcosm Corporation”, to create a workstation product based on National‘s VAX-like 16032 microprocessor. Failed to obtain funding.
-Co-founded Urbana Software Enterprises and co-implemented VM (Z80) for a standalone computer system intended to be a commercial micro-sized personal version of the PLATO teaching environment. Founder was Paul Tenczar; co-founder was Ron Klass. Company later became TenCORE, and was ultimately acquired by Computer Teaching Corporation.
-Hired by Jonathan Sachs to write the workstation OS for an early LAN-based operating environment a.k.a. “Not Much” (NOVA assembly), consisting of MicroNOVA intelligent workstations, Eclipse file and print servers, and a token-passing bus LAN. Project led by Jon; the other member of core development team was Scott Norin.
-With three people from Digital Equipment Corporation, co-founded a startup, “Microcosm Corporation”, to create a workstation product based on National‘s VAX-like 16032 microprocessor. Failed to obtain funding.
-Hired by Dan Bricklin and Bob Frankston at Software Arts, creator of VisiCalc. Did a small amount of work on the Z80 port of VisiCalc (under development lead Seth Steinberg), and later led the team that built the VM (Z80, 6502, 8086, PDP-11, 68000 assembly) for a Lisp-like language (“IL”) being built to ensure the cross-machine portability of VisiCalc and TK!Solver.
-Somewhat obsessed with and haunted by collaboration and online community concepts experienced at PLATO, deeply inspired by reading Ted Nelson and Doug Englebart, and believing that the world would be fully embracing PC’s and networks by 1983 because of using a pre-release IBM PC and 3Com Ethernet card while at Software Arts, developed functional specifications and plans for the product that would later be known as Lotus Notes, with the intent of starting a software company to build it. Failed to obtain funding. See less
-Hired by Mitch Kapor and Jonathan Sachs at Lotus Development, just after Lotus 1-2-3 Release 1 had shipped. Did a small amount of work on 1-2-3 1A, and led a small team (Barry Spencer, Matt Stern) to create Lotus Symphony (8086 assembly) – one of the first “office productivity suite” products originally intended to be the second major release of Lotus 1-2-3.
-Founded and led Iris Associates, to create what has become Lotus Notes, the defining enterprise “groupware” and email product used by more than 120 million people at corporations worldwide for collaboration within large enterprises. Iris, a software design & development firm that is now part of the IBM/Lotus Software Group, was co-founded by Tim Halvorsen and Len Kawell, and was purchased by Lotus Development in 1994, and by IBM in 1995. See less
-After coming to the conclusion that Notes-like client/server architectures fundamentally would not adequately address the dynamic collaboration requirements of a decentralized business environment, founded Groove Networks to create personally-empowering, secure, mobile, ad hoc, decentralized collaboration software for both individuals and enterprises. Co-founders Ken Moore, Jack Ozzie, and Eric Patey led the development organization; my part was largely in conceptualization and design, and in leading and helping to build the rest of the business. Groove Networks was purchased by Microsoft in April of 2005. See less
-Assumed the CSA (chief software architect) role in June 2006, when chairman/CSA Bill Gates announced his intent to relinquish the role on the transition from Microsoft to working full-time at his foundation. In activities as CSA, was responsible for oversight of the company’s overall technical strategy and product architecture, and for driving its transition to services and the cloud. Also led "concept development labs" charged with creating and nurturing potentially-disruptive advanced development efforts, including one key project (“Red Dog”) led by Dave Cutler and Amitabh Srivastava that grew to become Microsoft’s Azure. See less
-Founded and led a company that delivered mobile apps & services for business team communications, primarily focused on those roles in which voice is essential. Co-founders were Eric Patey (dev) and Matt Pope (product). Talko was purchased by Microsoft in December of 2015 so as to fuel innovation in Skype for consumers and for business.
-
-Specialties: 
-- Unity 3D (C#)
-- Unity Engine Tool Design (C++)
-- Unity Editor Tool Design (C#)
-- Virtual Reality Applications (All Platforms)
-- Mixed Reality Applications (Hololens)
-- Augmented Reality Applications (Mobile, HMD)
-- Machine Learning (MLAgents + TensorFlow)
-- OSX Development with Objective C
-- OSX Development with Swift
-- iOS Development with Objective C
-- iOS Development with Swift
-- Android Development
-- Universal Windows Platform (C# / XAML)
-- User Interactivity for 3D Games
-- Intuitive UI Design
-- Mobile Application Development
-
-Portfolio: mattfedo.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+. Managed $7M re-platform and subsequent v2 of Connected Workpapers, 
+(a collection of technologies that makes relevant, standard 
+workpapers templates available to a tax engagement team).
+. Supported the Firm's top priorities by partnering with project sponsors, practice leaders, 
+portfolio teams and external vendors to provide sound, 
+cost efficient long-term tax technology solutions/applications
+. Defined solution roadmap in collaboration with the business 
+and developed business cases for technology investments.
+. Developed testing plans and conducted acceptance testing sessions with product sponsors.
+. Trained onshore and offshore support staff and served as an escalation point for production support matters. 
+. Designed and developed numerous web based workflow applications used to drive the tax 
+research tools and internal processes within the firm using IBM Lotus Domino, 
+LotusScript, Lotus Formula Language, Java, JavaScript, HTML, XML, ODBC, SQL, SMTP, Oracle.
+
+fis/certegy/equifax
+...
+. Designed and created numerous web based workflow applications for internal and external clients.
+. Managed the local Domino development team, mentored junior developers and provided guidance across the global environment.
+. Set standards for the development environment and processes; developed software lifecycle processes for design documentation, 
+user acceptance, test plans, problem reporting and version control.
+. Collaborated with internal customers across multiple departments to design, develop, test and implement the web based, workflow applications for the retail pharmacy stores.
+. An accomplished Information Services professional with extensive experience in bringing cutting-edge technology to corporate clients. 
+. Proven ability to conduct accurate needs analysis, solve problems, assess technical capabilities, conduct strategic planning, build and motivate teams,
+manage projects & technical staff and communicate clearly to all resources involved in the organization and or project.
+
+Specialties: Languages: C#, VBA, JavaScript, LotusScript, Lotus @Command Language, SQL, XML, XSLT, HTML5, CSS3, DHTML
+MS SQL Server 6.x thru 2012, \MS Access, Lotus Notes v3.x thru 8.x
+Windows 3x/9x/NT/2000/XP/2000 Server, IIS, Lotus Domino, IBM Websphere
+
+MetLife
+...
+. Provided supervision, direction, and training for 5 individuals in order to support over 100 Lotus Notes applications for end users.
+. Developed processes to streamline daily operations for the tier 2 support staff.
+. Provided technical leadership to the App Dev Team.
+. Designed and implemented appropriate technical solutions to solve business problem.
+. Reduced the cost of development by over 30% by taking advantage of low code software IDE ideal for RAD/JAD App Dev.
+. Interfacing with key leaders in the organization to understand their critical business needs and developing IT Solutions that were capable of meeting those needs.
+. Dedicated Team Leader with ability to create a positive work environment, implement change, and lead staff through technology transitions.
+
+Cardinal
+...
+. Met with potential clients to demonstrate the capabilities of Adv SharePoint 365 OOTB Customization.
+. In charge of developing the Front-End portion of the secure app used by Management, Staff, and Vendors. The SPA was built with Angular 4, 
+using RESTful Web API as the communication link between the client browser and the cloud hosted SQL server.
+
+IKON
+...
+. Effective in establishing strong customer relationships.

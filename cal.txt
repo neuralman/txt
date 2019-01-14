@@ -6,8 +6,9 @@ x 03 r @ 9a - court
 x 06 su 
 x 08 t - wells-fargo-date, t
 > 09 w < today 
-. 11 f - cgs.$, t, auto-ins.$
-. 22 t - mom.c, t, cb 1014322, 
+> 11 f - cgs.$,  auto-ins.$
+> 14 m - paid.att.$380
+. 22 t - mom.c, t, cb 1014322, 1015004, 
 . 23 w - TE due
 . 25 f - cgs.$, t
 . 31 r - new-day-cal.d
