@@ -1736,7 +1736,7 @@ git
 . git remote -v
 . git config --global user.email "email@example.com"
 
-test 12
+test 
 
 
 
