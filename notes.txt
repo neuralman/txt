@@ -1104,6 +1104,4 @@ git
   &copy; 2018 Jia Huang. All rights reserved.
 </div>
 
-test 12
-
-test 34
+jia
