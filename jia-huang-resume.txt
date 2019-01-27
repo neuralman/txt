@@ -34,87 +34,27 @@ TECHNICAL SKILLS
 . IoT, IFTTT
 . Blockchain, Cryptocurrency
 
-WORK EXPERIENCE
------------------------------------------
-CGS, Tampa, FL
-Technical Analyst
-Developed unique user experiences that 
-drove interaction, using javascript.
-. Created and implemented a custom CSS 
-grid system, with CSS media queries for 
-mobile responsiveness.
-. Worked in both Agile and Waterfall 
-settings.
-. Maintained brand standards under 
-company guidelines.
-Consulted and documented UI best 
-practices and code standards.
-. Participated in projects in all stages 
-of the product life cycle.
-Leveraged responsive web frameworks to 
-consistently complete product 
-deliverables ahead of schedule.
-. Developed code for Shadowboxes, Slider 
-Carousals, Tickers, Rotating Headers, 
-Validation and JS animations.
-. Workflow tools included: HTML, CSS, 
-Bootstrap, jQuery, Yeoman, Grunt and Git
 
-Bankers Insurance, St. Pete, FL
-Software Engineer
 
-. Executed and contributed to full-stack
-web development projects, with an 
-emphasis on front end features, browser 
-manipulation, and cross-browser 
-compatibility.
 
-Cardinal Solutions, Tampa, FL
-Senior Application Consultant
 
-. Developed and designed UI for a 
-database of vendor kudos and created 
-secure login for Administrators.
 
-MetLife, Tampa FL
-Technology Liaison II, Metrics Consultant 
 
-. Researched industry trends and websites 
-to provide top quality design
+
 
 RELATED EXPERIENCE
 -----------------------------------------
 CGS, Detroit, MI
 Lotus Notes Consultant
 
-. Designed complex interfaces to support 
-third party systems.
-. Web page development from design to 
-test and up to production deployment.
 
-CGS, Tampa, FL
-Lotus Notes Consultant
 
-. Developed web-site mock-ups for clients 
-to ensure quality control and client 
-satisfaction before project development
-phase.
-. Executed and monitored standards for
-user interfaces, page design and graphics 
-development.
 
 Equifax, Certegy, FIS, St. Pete, FL
 Webmaster, Lotus Notes/Domino Developer
 
-. Maintained, Developed and Designed the 
-Certegy public site for all locations on 
-a regular basis with Eprise.
-. Developed and designed Special HR
-Termination Forms for HR team and 
-managers for compliance.
-. Created HTML email templates and 
-newsletters for e-mail marketing 
-campaigns.
+
+emai
 . Integrated social media applications 
 on web sites and blogs.
 

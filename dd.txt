@@ -29,6 +29,7 @@ alpha
 . AT - att
 . BE - bamboo
 . C$ - cash
+. C1 - china1
 . CG - cgs
 . FI - FIOS
 . G$ - grow
