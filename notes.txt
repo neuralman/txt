@@ -600,5 +600,11 @@ FedEx Kinkos
 Tampa, FL 
 Open 24 hours
 
+sp2013 rest
+...
+. https://sptechbytes.blogspot.com/2017/01/sharepoint-2013-rest-api.html
+
+
+
 
 
