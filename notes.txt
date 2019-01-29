@@ -602,7 +602,26 @@ Open 24 hours
 
 sp2013 rest
 ...
-. https://sptechbytes.blogspot.com/2017/01/sharepoint-2013-rest-api.html
+https://sptechbytes.blogspot.com/2017/01/sharepoint-2013-rest-api.html
+http://neuralman.cloudappsportal.com
+https://sharepoint.rackspace.com/resource-center
+https://billing.cloudappsportal.com/clientarea.php
+sharepoint.neuralman.cloudappsportal.com
+https://cp.cloudappsportal.com
+http://jia.neuralman.cloudappsportal.com
+http://jia.neuralman.cloudappsportal.com/Lists/JiaList/AllItems.aspx
+http://jia.neuralman.cloudappsportal.com/_api/lists/getbytitle('JiaList')
+
+
+https://github.com/OfficeDev/SharePoint-Add-in-REST-OData-BasicDataOperations
+http://www.andrewconnell.com/blog/simplifying-sharepoint-2013-rest-api
+
+
+
+
+
+
+
 
 
 
