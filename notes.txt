@@ -622,6 +622,90 @@ https://www.c-sharpcorner.com/article/crud-operation-on-list-items-using-rest-ap
 
 1/30/19
 
+from the revlon terminal - \\cgsdcm001\groups\Helpdesk\Revlon info 
+\\cgsdcm001\groups\Helpdesk\Revlon info 
+\\cgsdcm001\groups\Helpdesk\Revlon info\revlon 
+\\usoxf-na06\software\Cisco Jabber for Windows\11.9.0 
+\\usoxf-na06\software   for oxford software installs when software isnt in the doit scripts 
+
+ng serve --host $IP --port $PORT --public-host $C9_HOSTNAME
+nvm i v8
+npm i -g npm@latest
+npm i -g @angular/cli
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <style>
+        #image { 
+            background-image: url(largeimage.jpg); 
+        }
+        @media only screen and (max-width: 320px) {
+            #image { 
+                background-image: url(smallimage.jpg); 
+            }
+        }
+        </style>
+    </head>
+    <body>
+        <div id="image"></div>
+    </body>
+</html>
+
+290 x 183
+
+zen-sm.png
+zen-lg.jpg
+
+
+290 x 183
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <img src="test.jpg" width="100%">
+        <p>Window size: <span id="size"></span> pixels</p>
+        <script>
+        window.onresize = function() {
+            document.getElementById("size").innerHTML = window.innerWidth;
+        };
+        </script>
+    </body>
+</html>
+
+
+#image {
+    display: inline-block;
+    width: 100%;
+    font-size: 0;
+    line-height: 0;
+    vertical-align: middle;
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url(image.jpg); 
+}
+
+https://www.smashingmagazine.com/2013/07/simple-responsive-images-with-css-background-images/
+
+
+https://graf1x.com/shades-of-blue-color-palette/
+
+Azure
+
+#0080ff
+rgb: 0 128 255
+
+
+
+
+
 
 
 
