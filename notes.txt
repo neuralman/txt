@@ -610,11 +610,21 @@ sharepoint.neuralman.cloudappsportal.com
 https://cp.cloudappsportal.com
 http://jia.neuralman.cloudappsportal.com
 http://jia.neuralman.cloudappsportal.com/Lists/JiaList/AllItems.aspx
-http://jia.neuralman.cloudappsportal.com/_api/lists/getbytitle('JiaList')
+http://jia.neuralman.cloudappsportal.com/_api/lists/getbytitle('JiaList')/items?$select=Title
 
 
 https://github.com/OfficeDev/SharePoint-Add-in-REST-OData-BasicDataOperations
 http://www.andrewconnell.com/blog/simplifying-sharepoint-2013-rest-api
+
+https://www.codeproject.com/Articles/990131/CRUD-Operation-to-List-Using-SharePoint-Rest-API
+https://www.c-sharpcorner.com/article/calling-sharepoint-search-using-rest-from-javascript/
+https://www.c-sharpcorner.com/article/crud-operation-on-list-items-using-rest-api-services-in-shar/
+
+1/30/19
+
+
+
+
 
 
 
