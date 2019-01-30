@@ -702,6 +702,23 @@ Azure
 #0080ff
 rgb: 0 128 255
 
+sharepoint blue
+...
+. rgb: 0 114 198 
+. hex: 0072c6
+
+photopea
+...
+. font face: Spin Cycle OT
+. banner size: 36 px
+. size: 600 x 60
+
+http://server/site/_api/web/lists('guid')/items?$select=Title,Products/Name&$expand=Products/Name
+
+http://jia.neuralman.cloudappsportal.com/_api/web/lists('0FE33524-1772-4331-A102-1811F3FFAEB6')
+
+https://msdn.microsoft.com/en-us/magazine/dn198245.aspx
+
 
 
 
