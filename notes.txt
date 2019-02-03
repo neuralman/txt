@@ -726,6 +726,16 @@ sharepoint
 . developing sharepoint 2013 solutions with javascript
 . sharepoint 2013 developer ramp-up - part 1
 
+http://jia.neuralman.cloudappsportal.com/_api/web/lists/getbytitle('CGS-KB')/items?$select=Title
+
+do 
+...
+. https://www.codeproject.com/Articles/620110/SharePoint-Client-Side-Rendering-List-Views
+. https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
+. http://www.ludovicperrichon.com/custom-sharepoint-form-with-jslink/
+
+
+
 
 
 
