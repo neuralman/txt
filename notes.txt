@@ -719,6 +719,14 @@ http://jia.neuralman.cloudappsportal.com/_api/web/lists('0FE33524-1772-4331-A102
 
 https://msdn.microsoft.com/en-us/magazine/dn198245.aspx
 
+sharepoint
+...
+. sharepoint 2013 fundamentals
+. sharepoint 2013 workflow - fundamentals
+. developing sharepoint 2013 solutions with javascript
+. sharepoint 2013 developer ramp-up - part 1
+
+
 
 
 
