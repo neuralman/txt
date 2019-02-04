@@ -734,7 +734,43 @@ do
 . https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
 . http://www.ludovicperrichon.com/custom-sharepoint-form-with-jslink/
 
-. jia
+ng serve --host $IP --port $PORT --public-host $C9_HOSTNAME
+
+anguar 7 events
+...
+(focus)="myMethod()"
+(blur)="myMethod()" 
+(submit)="myMethod()"  
+(scroll)="myMethod()"
+
+(cut)="myMethod()"
+(copy)="myMethod()"
+(paste)="myMethod()"
+
+(keydown)="myMethod()"
+(keypress)="myMethod()"
+(keyup)="myMethod()"
+
+(mouseenter)="myMethod()"
+(mousedown)="myMethod()"
+(mouseup)="myMethod()"
+
+(click)="myMethod()"
+(dblclick)="myMethod()"
+
+(drag)="myMethod()"
+(dragover)="myMethod()"
+(drop)="myMethod()"
+
+https://offering.solutions/blog/articles/2016/02/01/consuming-a-rest-api-with-angular-http-service-in-typescript/
+https://github.com/OfficeDev/TrainingContent/tree/master/SharePoint/APIs
+https://www.webcomponents.org/introduction
+https://www.codeproject.com/Articles/990131/CRUD-Operation-to-List-Using-SharePoint-Rest-API
+https://askmanisha.wordpress.com/2016/08/10/create-basic-sharepoint-add-in-using-angular-2/
+
+
+
+
 
 
 
