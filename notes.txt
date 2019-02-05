@@ -873,9 +873,17 @@ $
 
 http://www.nothingbutsharepoint.com/category/developer/xslt/
 
+https://www.codeproject.com/Articles/610259/SharePoint-Client-Side-Rendering-List-Forms
 
-jia
+Leverged - c..1...5
 
+ps
+...
+. sp2010 for web designer part 1 fundamentals
+. sp2010 for web designer part 2 site design
+. sp2010 for web designers part 3 master pages
+. sp2010 for web designers part 4
+. sp2010 for web designers part 5 advanced branding
 
 
 
