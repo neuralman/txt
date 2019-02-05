@@ -767,12 +767,114 @@ https://github.com/OfficeDev/TrainingContent/tree/master/SharePoint/APIs
 https://www.webcomponents.org/introduction
 https://www.codeproject.com/Articles/990131/CRUD-Operation-to-List-Using-SharePoint-Rest-API
 https://askmanisha.wordpress.com/2016/08/10/create-basic-sharepoint-add-in-using-angular-2/
+https://askmanisha.wordpress.com/2016/08/03/create-an-angular-2-app-from-scratch/
+https://shahttps://github.com/SharePoint/sp-dev-docs
+https://www.codeproject.com/Articles/1115141/REST-API-and-AngularJs-for-SharePoint-and-Online
+
+http://www.sharecareinspire.com/sharepoint-online-webpart-angular2-typescript-part-1/
+http://www.sharecareinspire.com/sharepoint-online-sp-2016-development-framework-spfx-using-open-source-web-stack/
+http://trycatchlearn.com/index.php/2017/05/08/develop-sharepoint-2013-addin-with-angular4-and-webpack-2/
+https://www.mstsolutions.com/technical/angular-service-for-accessing-sharepoint-lists-%E2%80%8Busing-rest-api/
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests
+
+http://server/site/_api/web/lists/getByTitle('Announcements')/fields/getByTitle('Description')
+http://jia.neuralman.cloudappsportal.com/_api/web/lists/getbytitle('CGS-KB')/items?$select=Title
+http://jia.neuralman.cloudappsportal.com/_api/web/lists/getbytitle('CGS-KB')/fields/getByTitle('Title')
+
+<xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" xmlns:d="http://schemas.microsoft.com/sharepoint/dsp" xmlns:cmswrt="http://schemas.microsoft.com/WebParts/v3/Publishing/runtime" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" version="1.0" exclude-result-prefixes="x d xsl msxsl cmswrt">
+<xsl:output method="html" indent="no"/>
+<xsl:template match="/">
+<xsl:variable name="Rows" select="/dsQueryResponse/Rows/Row"/>
+<xsl:variable name="dvt_RowCount" select="count($Rows)"/>
+<xsl:variable name="dvt_IsEmpty" select="$dvt_RowCount = 0"/>
+<xsl:choose>
+<xsl:when test="$dvt_IsEmpty">
+<xsl:call-template name="dvt_1.empty"/>
+</xsl:when>
+<xsl:otherwise>
+<style>
+#xltTable{ width:100%; border:0; font-family:"Segoe UI,Helvetica,Verdana" } #xltTable, #xltTable th, #xltTable td { border: 2px solid gray; border-collapse: collapse; } table#xltTable th { background-color: lightgray; color: black; text-align: center; } #xltTable tr:nth-child(odd) { background:rgba(255, 255, 255, 1); font-size:14px; } #xltTable tr:nth-child(even) { background:rgba(242, 242, 242, 1); font-size:14px; } #xltTable tr.colorGreen { background-color:rgba(169, 208, 142, 1)!important; font-weight:bold; font-size:15px!important; } #xltTable th, #xltTable td { padding: 8px 2px; text-align: center; } #xltTable td.nature > img { width:100px; height:100px; }
+</style>
+<table id="xltTable" border="0" width="100%" cellpadding="2" cellspacing="0">
+<tr>
+<th>Id</th>
+<th>Title</th>
+<th>Name</th>
+<th>Address</th>
+<th>City</th>
+<th>Manager</th>
+<th>Gender</th>
+<th>Nature</th>
+<th>Salary</th>
+<th>10% Tax</th>
+<th>Active</th>
+<th>DOB</th>
+</tr>
+<xsl:for-each select="$Rows">
+<xsl:sort select="@ID" order="descending" data-type="number"/>
+<xsl:if test="@ID > 0">
+<tr>
+<td>
+<xsl:value-of select="@ID"/>
+</td>
+<td>
+<xsl:value-of select="@Title"/>
+</td>
+<td>
+<xsl:value-of select="@Name"/>
+</td>
+<td>
+<xsl:value-of select="@Address" disable-output-escaping="yes"/>
+</td>
+<td>
+<xsl:value-of select="@City"/>
+</td>
+<td>
+<xsl:value-of select="@AssignedTo" disable-output-escaping="yes"/>
+</td>
+<td>
+<xsl:value-of select="@Gender"/>
+</td>
+<td class="nature">
+<img src="{@ProfileUrl}" alt="{@ProfileUrl.desc}" title="{@ProfileUrl.desc}"/>
+</td>
+<td>
+<xsl:value-of select="@Salary"/>
+</td>
+<td>
+$
+<xsl:value-of select="@SalaryTax"/>
+</td>
+<td>
+<xsl:value-of select="@AccountisActive"/>
+</td>
+<td>
+<xsl:value-of select="@DOB"/>
+</td>
+</tr>
+</xsl:if>
+</xsl:for-each>
+</table>
+</xsl:otherwise>
+</xsl:choose>
+</xsl:template>
+<xsl:template name="dvt_1.empty">
+<xsl:variable name="dvt_ViewEmptyText">There are no items to show in this view.</xsl:variable>
+<table border="0" width="100%">
+<tr>
+<td class="ms-vb">
+<xsl:value-of select="$dvt_ViewEmptyText"/>
+</td>
+</tr>
+</table>
+</xsl:template>
+</xsl:stylesheet>
+
+http://www.nothingbutsharepoint.com/category/developer/xslt/
 
 
-
-
-
-
+jia
 
 
 
