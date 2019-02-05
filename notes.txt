@@ -972,6 +972,10 @@ rows[i].className = "odd";
 </style>
 
 https://angular-templates.io/tutorials/about/angular-crud-with-firebase
+https://github.com/SharePoint/PnP
+https://github.com/AngularTemplates/angular-firebase-crud
+
+
 
 
 
