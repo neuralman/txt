@@ -1081,6 +1081,47 @@ markdown
 
 . [//]: # (text that does not show)
 
+. **BOLD TEXT** 
+. > BLOCKQUOTE
+
+. 1. first
+  2. second
+  <ol>
+  
+. - first
+  - second
+  <ul>
+  
+. `code`
+. --- <hr>
+. ![alt text](image.png)
+
+. ```
+  {
+    "firstName": "John",
+    "lastName": "Jones"
+  }
+  ```
+  fenced code block
+  
+. here's a sentence with a footnote. [^1]
+  [^1]: This is a Foot
+  
+    pre {
+    
+        display: block;
+        font-family: monospace;
+        background-color: black;
+        padding: 1em;
+        line-height: 1.1em;
+        color: white;
+        white-space: pre;
+        margin: 1em 0;
+        
+    }
+
+  
+
 
 
 
