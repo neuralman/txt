@@ -996,6 +996,75 @@ ps
 . leverged
 . c......5
 
+https://jekyllrb.com/docs/step-by-step/01-setup/
+Jekyll on Ubuntu
+
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+gem install jekyll bundler
+
+$ gem install jekyll bundler
+$ jekyll new my-awesome-site
+$ cd my-awesome-site
+$ jekyll serve --host $IP --port $PORT --baseurl ''
+
+
+https://jekyllrb.com/docs/step-by-step/02-liquid/
+
+jekyll serve jekyll serve --host $IP --port $PORT --baseurl ''
+
+`YYYY-MM-DD-name-of-post.ext`
+
+https://jekyllrb.com/docs/
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+<!-- For styles with static names... -->
+<link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
+<!-- For documents/pages whose URLs can change... -->
+[{{ page.title }}]("{{ page.url | relative_url }}")
+
+https://feedreader.com/online/#/welcome/?action=register
+
+https://yaml.org/
+
+new
+...
+. Liquid
+. Jekyll
+. Ruby
+. YAML
+
+https://www.taniarascia.com/make-a-static-website-with-jekyll/
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+
+
 
 
 
