@@ -1120,6 +1120,166 @@ markdown
         
     }
 
+Q: Why did the developer ground their kid?
+A: They weren't telling the truthy
+
+A programmer's wife tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
+The programmer comes home with 12 loaves of bread.
+
+Q: What did the spider do on the computer?
+A: Made a website!
+
+Q: Why was the computer cold?
+A: It left its Windows open!
+
+Q: How do programming shepherds count their flock?
+A: With lambda functions
+
+Q: Why don't bachelors like Git?
+A: Because they are afraid to commit.
+
+Q: What did JavaScript call his son?
+A: JSON!
+
+Q: A SQL developer walked into a NoSQL bar.
+A: They left because they couldn't find a table.
+
+Q: Where did the API go to eat?
+A: To the RESTaurant
+
+Q: What did the psychic say to the developers?
+A: I see dev people.
+
+#5 Knock, knock.
+Who’s there?
+Ash.
+Ash who?
+Bless you!
+
+#2 I used to play sports. Then I realized you can buy trophies. Now I am good at everything.
+https://github.com/mislavcimpersak/awesome-dev-fun#html
+https://github.com/sindresorhus/awesome
+
+2019-02-17-0906-day001-sun
+
+comedy
+...
+
+. It’s a musical flow; 
+a comedic symphony of relatable experiences and observations 
+bonded together through transitional phrases.
+
+. To start, come up with a funny concept based around 
+your own personal experiences or observations.
+
+001. oooh betty - you so fat ! (prego)
+
+002. american dream - (american)
+
+003. chicken feet (food)
+
+004. small thing (sex)
+
+
+JOKE 1:
+...
+ESTABLISHING THE CONCEPT:
+. I grew up with a really beautiful sister.
+
+EMPHASIZING CONCEPT + CREATING A BUILD UP:
+. And I’m not just talking conventional beauty; I’m talking like if I were to 
+bring her into this room right now, you would all just miraculously become single…
+
+PUNCH:
+. Including the ladies.
+
+This intro works well for making an audience connection—when I say 
+“including the ladies”, I generally try to make eye contact with 
+one specific female who looks to be on a date or married, as it creates 
+an air of light tension and mild discomfort, leading to lots of laughs.
+
+
+JOKE 2:
+...
+BUILD UP:
+. When we were kids, people used to say that she looked like 
+a young Jessica Simpson.
+
+PUNCH:
+. I, on the other hand, kinda looked more like a Jewish Honey Boo Boo.
+
+EMPHASIS:
+. I’m just sorta sweating in all of my childhood photos.
+
+This is probably the only joke of mine that gets a roar every single time 
+I’ve told it. The “Jewish Honey Boo Boo” creates a funny visual and is also 
+a funny-sounding word, so even if audiences aren’t familiar with Honey Boo Boo 
+(the reality TV star), they still feel inclined to laugh.
+
+JOKE 3:
+...
+BUILD UP: 
+. I was talking to my mom about it recently—this contrast between my sister 
+and me. And she actually wound up telling me that she used to get nervous 
+about bringing my sister and me out in public together
+
+PUNCH:
+. ...because she didn’t want people to think we had different fathers. (Pause.)
+
+EMPHASIS: 
+. Thanks, Mom! Did you really need to tell me that?
+
+This is actually not true at all, but is believable enough to work, 
+and it gets laughs due to the shock factor. It’s almost always followed by 
+an “ooooohhhhhh” from the audience.
+
+Bonus tip: Create opportunities to pivot
+
+All right, so I’ve established the premise, sprinkled in a few sillys, and 
+then added the shock factor—so now I have to decide; do I switch to 
+a new concept or keep going with it? It’s 100% dependent on the audience 
+response. If they seem bored or antsy, I shift to a new concept. 
+If they really seem to be digging the “ugly duckling, underdog” thing, 
+I add this bit to round it out and ensure that it ends on a positive note:
+
+Fortunately, I did develop some good coping mechanisms as I got older, 
+such as celebrating my sister’s misfortunes. It’s like when a coworker gets a 
+promotion you want, and then the next day they get in a car accident, 
+and on the outside you’re like ‘Ohh nooo…’ but on the inside you’re like 
+‘Ohhh yeahhhh’… same thing.
+
+My sister got pregnant at the age of 16. Which, we’re from Texas and teen 
+pregnancy is actually pretty normal down there—in fact, it’s kind of a 
+rite of passage. But my family wasn’t having it. They were so upset and 
+thought she was ruining her life…, even wanted her to get an abortion. 
+I, on the other hand was like brinnnng onnnn the stretch marks… 
+the babyyyy weight.. in fact, let’s just throw this sh*t up on 
+“16 and Pregnant.” I’ll even fill out the submission packet. (pause) 
+Which I did. I submitted my sister to “16 and Pregnant.” 
+But apparently there’s a certain level of trashy you have to be to 
+get on the show, and my sister fell just below the cusp.
+
+JOKE 1:
+ESTABLISHING THE CONCEPT:
+EMPHASIZING CONCEPT + CREATING A BUILD UP:
+PUNCH:
+
+JOKE 2:
+BUILD UP:
+PUNCH:
+
+JOKE 3:
+BUILD UP:
+PUNCH:
+
+PIVOT:
+SAME
+NEW
+
+
+
+
+
   
 
 
