@@ -1536,3 +1536,62 @@ n.wj.b8..0
 
 https://github.com/learn-anything/books
 
+https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/
+
+Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo – he’s just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn’t actually need.
+
+he owned “a total of about 150 items, which includes everything from clothes, futon, and toothbrush, to bottles of condiments in his kitchen.”
+
+12 Ways I’ve Changed Since I Said Goodbye to My Things
+
+I have more time.
+I enjoy life more.
+I have more freedom.
+I no longer compare myself with others.
+I stopped worrying about how others see me.
+I’m more engaged with the world around me.
+I can focus better and concentrate on being me.
+I save money and care more about the environment.
+I’m healthier and safer.
+My interpersonal relationships are deeper.
+I can savor the present moment.
+I feel true gratitude.
+
+Sasaki defines “minimal” as retaining just what is necessary for an individual. 
+
+https://janisholtireg.files.wordpress.com/2017/04/goodbye-things-the-new-japanese-minimalism-by-fumio-sasaki.pdf
+
+“You can avoid buying more things simply by first asking yourself if it’s something that you actually need.” 
+
+“Ask yourself which of your items would truly be necessary if you were to start with zero belongings. What if everything you owned was stolen? What if you had to move next week? Which items would you take with you? There are probably a lot of things we have sitting around in our homes for no particular reason. Think about starting from scratch, and it will become clear which items are essential.” 
+
+― Fumio Sasaki, Goodbye, Things: The New Japanese Minimalism
+
+51 franks rd.
+batesville, ar 72501-8777
+(870) 307-0474 0475
+
+“one thing that I can honestly say now is that there isn’t really a need to accomplish something or build an ambitious future. We can begin to be content with ourselves and feel plenty of happiness by simply going about our daily lives, appreciating the present moment. When” 
+― Fumio Sasaki, Goodbye, Things: The New Japanese Minimalism
+
+“one thing that I can honestly say now is that there isn’t really a need to accomplish something or build an ambitious future. We can begin to be content with ourselves and feel plenty of happiness by simply going about our daily lives, appreciating the present moment. When” 
+― Fumio Sasaki, Goodbye, Things: The New Japanese Minimalism
+
+“Minimalism is a lifestyle in which you reduce your possessions to the absolute minimum you need.” 
+― Fumio Sasaki, Goodbye, Things: The New Japanese Minimalism
+
+
+min-cal
+...
+
+cat: grow-online-setup
+home: pool-drain
+tax: card?, bi?
+
+02.20.wed: cgs-7a, bex-6p
+02.21.thr: att-$330.68, cgs-pay, bex-11a
+02.22.fri: bex-11a
+02.23.sat: bex-2p
+02.24.sun: cgs-7a, bex-6p
+
+https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/
