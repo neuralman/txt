@@ -1592,6 +1592,23 @@ tax: card?, bi?
 02.21.thr: att-$330.68, cgs-pay, bex-11a
 02.22.fri: bex-11a
 02.23.sat: bex-2p
-02.24.sun: cgs-7a, bex-6p
+02.24.sun: cgs-7a, bex-6p, timesheets
+
+week
+...
+today: bex.6-9p
+thr: bex.11-10p
+fri: bex.11-11p
+sat: bex.2-11p
+sun: cgs.7-5:30p, bex.6-9p
+mon: cgs.7-5:30p
+tue: cgs.7-5:30p
+
+
 
 https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/
+
+https://github.com/api-evangelist-tools/d3-js-using-yaml-jekyll
+
+https://www.edx.org/course/how-code-simple-data-ubcx-htc1x
+
