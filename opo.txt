@@ -1,11 +1,20 @@
 opo
 ...
-. one page organizer
+. 1 page organizer
+. dd to abbrev
 
 dd
 ..
-c: call
-d: do
+$ : pay
+b1: bbx-6p
+b2: bbx-11a
+b3: bbx-2p
+c : call
+c1: cgs-7a
+c$: $.cgs
+d : do
+mj: doc-mj
+wi: win-ins
 
 day
 ...
@@ -14,20 +23,20 @@ day
 
 week
 ...
-mon:
-tue:
-wed:
-thr:
-fri:
-sat:
-sun:
+mon: c1
+tue: c1
+wed: c1,b1
+thr: b2
+fri: b2
+sat: b3
+sun: c1,b1
 
 month
 ...
 25:
 26:
 27:
-28:
+28: $.mj
 01:
 02:
 03:
@@ -35,9 +44,9 @@ month
 05:
 06:
 07:
-08:
+08: c$
 09:
-10:
+10: $.wi
 11:
 12:
 13:
@@ -49,14 +58,14 @@ month
 19:
 20:
 21:
-22:
+22: c$
 23:
-24:
+24: 
 
 year
 ...
-feb:
-mar:
+feb: $.mj
+mar: $.ins
 apr:
 may:
 jun:
