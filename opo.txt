@@ -3,6 +3,11 @@ opo
 . 1 page organizer
 . dd to abbrev
 
+notes
+...
+cat: 2107093
+jia: 2180810
+
 dd
 ..
 $ : pay
@@ -13,6 +18,7 @@ c : call
 c1: cgs-7a
 c$: $.cgs
 d : do
+gw: grow
 mj: doc-mj
 wi: win-ins
 
@@ -36,7 +42,7 @@ month
 25:
 26:
 27:
-28: $.mj
+28: $.mj,d.gw-acct-cat
 01:
 02:
 03:
