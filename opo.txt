@@ -30,7 +30,7 @@ day
 week
 ...
 mon: c1
->>>tue: c1<<<
+tue: c1
 wed: c1,b1
 thr: b2
 fri: b2
@@ -40,7 +40,7 @@ sun: c1,b1
 month
 ...
 25:
->>>26:<<<
+26:
 27:
 28: $.mj,d.gw-acct-cat
 01:
@@ -56,7 +56,7 @@ month
 11:
 12:
 13:
-14:
+14: dr.singh@9a
 15:
 16:
 17:
