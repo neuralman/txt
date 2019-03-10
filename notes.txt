@@ -1694,3 +1694,6 @@ jan:
 
 https://htmlcodeeditor.com/
 
+ps
+...
+. creating a site with css grid and bootstrap 4
