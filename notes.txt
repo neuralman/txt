@@ -1,3 +1,10 @@
+---
+layout: jia
+title:  "notes"
+kbid: "001"
+categories: jia
+---
+
 project-notes
 ...
 . max width = 41 characters 
