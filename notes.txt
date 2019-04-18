@@ -1863,6 +1863,7 @@ c9 - vigrant ink
 
 page setup
 ...
+. red label - AC5678 pager
 . excel spreadsheet - enter new page info with JH code
 . put battery into pager
 . print red label from brother printer
@@ -1871,15 +1872,9 @@ page setup
 . open IE - nav to 192.168.1.85 - select survey "Maint" no pw - check first checkbox - enter number of seconds to test pager - after test uncheck box and save
 . put page back into box and give it to jim in shipping
 
-[Power Supply setup]
-1.	Get file for template
-2.	mark hole using top hole from template
-3.	Take apart transmitter and user back cover to mark 2nd hole on bottom
-4.  install lock
-5.  install power cord and wire + and - wires 
-
 power supply setup
 ...
+. for W536 power supply with 1212 transmitter
 . get file for template
 . mark hole using top hole from template
 . take about receiver and user back mount to mark 2nd hole on bottom
@@ -1903,9 +1898,56 @@ HM-537-24v
 . set red switch to off (bottom)
 . tie cord
 . test for 16v adjust if necessary
-. print brother sticker
+. print brother sticker - black box - white
 . hm sticker
 . deliver to shipping
+
+phone
+...
+. park (hold)
+. 0000 voice mail
+
+
+Poe 
+...
+. power over ethernet
+
+6040 
+...
+. rs232
+
+6080
+...
+. ip based
+
+wireless pendant 
+...
+. reset with magnet 
+. 3 pushes for blinking blue light 
+. on 2nd blue blink push 3 more to clear
+
+awr4000 pager
+...
+. \\HERITAGE-SBS\My Documents\Products\Facilities
+. log new devices
+. run awr4000 app
+. write to device
+. clone device - hold down both buttons on both devices
+. start cloning by pressing top button on configured device
+. send to shipping
+
+phone sys
+...
+. transfer: park / transfer / ext / transfer
+
+salesforce
+...
+. capture
+. first and last name
+. site
+. email 
+. phone 
+. issue 
 
 
 
