@@ -30,7 +30,7 @@ apr
 . 15 - [hm 1st day]
 . 17 - bamboo 6-8p - 20, wells-fargo filing 1st day
 . 18 
-. 19 - pay-day
+. 19 - dd in?
 . 20 - bamboo 5-11p
 . 21
 . 22 - m 
@@ -56,4 +56,24 @@ may
 
 jun
 ...
+. 23 - bday
 . 30 - last day for hyatt legal
+
+jul
+...
+. 17 - cat bday 
+
+aug
+...
+
+sep
+...
+
+oct
+...
+
+nov
+...
+
+dec
+...
