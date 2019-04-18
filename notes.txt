@@ -1863,6 +1863,7 @@ c9 - vigrant ink
 
 page setup
 ...
+. apollo gold
 . red label - AC5678 pager
 . excel spreadsheet - enter new page info with JH code
 . put battery into pager
@@ -2007,6 +2008,72 @@ wireless pullcords
 . motion sensor instead of check in button
 . for bathrooms 
 . rfl - retrofit / log check ins
+
+wsps - wireless single patient station 
+...
+. call cord 
+. 1/4" jack for bed cord
+. 2nd input bed call / bath call
+
+repeaters
+...
+. led 
+. 24 hour battery back up 
+. enroll with reset button 
+. power device before enrollment 
+. batterh not good for setup 
+. nid - network id
+. back tamper - in case ripped off 
+. 5040 2 tampers - front + back
+
+universal transmitters
+...
+. hm-1210
+. hm-1210w - window with read
+. reset button 
+. north america - no jumpers
+. input 1 - low battery 
+. input 2 - no ac condition 
+. hm-1210w - door contact gap to maintain 
+
+smoke
+...
+. hm-1243
+. tandem operation - apt 1 setup off entire apt
+
+security device - motion 
+...
+. hm-1241 or 1242
+. activity sensor
+. default 4 hours sleep time 
+. max 4-8-12
+. security - 5 min
+
+sentry
+...
+. output svc - devices hooked up to system
+. output group - mult outputs in groups 
+
+paging transmitter
+...
+. protocols - tap / tap2
+. tappip
+
+ 7950 pager
+ ...
+ . cap code - 770100 
+ . freq - 457.5250
+ . load app
+ . desktop
+ . 7950 config - most recent file by date
+ . pw "service123"
+ . check RF - make sure freq is correct 
+ . put battery in
+ . take rubber plugs off
+ . put into holder with latch
+ . write to pager 
+ . send to rma 
+ 
 
 
 
