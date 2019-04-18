@@ -29,8 +29,12 @@ apr
 . 10 - [cgs last day]
 . 15 - [hm 1st day]
 . 17 - bamboo 6-8p - 20, wells-fargo filing 1st day
+. 18 
 . 19 - pay-day
 . 20 - bamboo 5-11p
+. 21
+. 22 - m 
+. 23 - t 
 . 24 - 5pm - call - charles law, bamboo - 6-8p, 
 . 27 - bamboo 5-11p
 
