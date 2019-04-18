@@ -23,3 +23,33 @@ mar
 . 08 f - cgs pay
 . 14 r @ 9a - dr singh 
 . 22 f - cgs pay
+
+apr
+...
+. 10 - [cgs last day]
+. 15 - [hm 1st day]
+. 17 - bamboo 6-8p - 20, wells-fargo filing 1st day
+. 19 - pay-day
+. 20 - bamboo 5-11p
+. 24 - 5pm - call - charles law, bamboo - 6-8p, 
+. 27 - bamboo 5-11p
+
+may
+...
+. 01 - bamboo 6-8p
+. 03 - pay-day
+. 04 - bamboo 5-10p
+. 05 - tax in?
+. 08 - bamboo 6-8p
+. 11 - bamboo 5-10p
+. 12 - mom-visit in wh
+. 15 - bamboo 6-8p
+. 17 - pay-day
+. 18 - bamboo 5-10p
+. 22 - bamboo 6-8p
+. 25 - bamboo 5-10p
+. 31 - pay-day
+
+jun
+...
+. 30 - last day for hyatt legal

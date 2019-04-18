@@ -1861,4 +1861,39 @@ Event ID: HIL-6593-BCZR
 
 c9 - vigrant ink
 
+page setup
+...
+. excel spreadsheet - enter new page info with JH code
+. put battery into pager
+. print red label from brother printer
+. open pager program - log in with "ac5678" pw 
+. F4 to write pager while holding down firmly
+. open IE - nav to 192.168.1.85 - select survey "Maint" no pw - check first checkbox - enter number of seconds to test pager - after test uncheck box and save
+. put page back into box and give it to jim in shipping
+
+[Power Supply setup]
+1.	Get file for template
+2.	mark hole using top hole from template
+3.	Take apart transmitter and user back cover to mark 2nd hole on bottom
+4.  install lock
+5.  install power cord and wire + and - wires 
+
+power supply setup
+...
+. get file for template
+. mark hole using top hole from template
+. take about receiver and user back mount to mark 2nd hole on bottom
+. drill holes using top - large, bottom - small, clean - largest bit
+. install lock
+. install power cord and wire black and red from main board to relay
+. tie up power cord in 2 spots 
+. test power supply
+. plug in battery red first then black
+. plug in use fluke test DC for 13 on + and - and fuses
+. enroll receiver
+. unplug power to trigger error
+. unplug battery to trigger error
+. box to shipping
+
+
 

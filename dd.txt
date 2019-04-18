@@ -34,6 +34,7 @@ alpha
 . FI - FIOS
 . G$ - grow
 . GM - gm-fin
+. HM - heritage-medicall
 . HU - hulu
 . HW - hillsb-water
 . PS - pluralsight
