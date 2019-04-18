@@ -1895,5 +1895,17 @@ power supply setup
 . unplug battery to trigger error
 . box to shipping
 
+HM-537-24v
+...
+. install lock
+. install power
+. wire red and black
+. set red switch to off (bottom)
+. tie cord
+. test for 16v adjust if necessary
+. print brother sticker
+. hm sticker
+. deliver to shipping
+
 
 
