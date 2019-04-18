@@ -1949,5 +1949,70 @@ salesforce
 . phone 
 . issue 
 
+900 mhz ism 
+...
+. industrial scientific medical 
+
+repeater
+...
+. model 5040
+. 300'
+
+receiver for repeater
+...
+. battery backup
+. db9 connector
+. mount receiver high min 6' from other electronics
+. 6080 receiver - ip connecion / poe - power over ethernet
+
+pc 
+...
+. head end
+
+wiereless pendants
+...
+. water resistant not water proof 
+. 1-2 year battery life lithium battery
+
+devices
+...
+. receiver 
+. repeater 
+. pullcord 
+. one button pendant 
+. pendant - enroll: trigger alarm no reset / reset magnet / blue 2nd flash 3 pushes 
+
+1063HMCSentry
+...
+. user 
+. 0000
+
+2560 ul
+...
+. listing for wireless sys for assisted living
+
+1069 ul
+...
+. wired sys in skilled nursing system
+. notifications less than 90 seconds
+
+wireless pullcords
+...
+. w541
+. bos - battery open short check in
+. bol - battery open long check in
+. rcl - remote normally closed long check in 
+. rcs - remote closed short check in
+. bosa - with assuarnce feature / resident self action during periord 5a - 10a (60 min) then 2nd check in
+. motion sensor instead of check in button
+. for bathrooms 
+. rfl - retrofit / log check ins
+
+
+
+
+
+
+
 
 
