@@ -2073,13 +2073,25 @@ paging transmitter
  . put into holder with latch
  . write to pager 
  . send to rma 
- 
 
+auto clear
+...
+. repeat until reset (used most)
+. min - 3 min 
+. busy - 5 min 
 
+Accts 
+...
+user 
+admin1 - enroll devices / add room / users 
+admin2 - output / output groups 
+factory  
 
+tamper mode - to change nid on repeaters 
+change nid - cover off each repeater and reset them first before you can change nid in sentry
 
-
-
-
-
-
+mobile app 
+...
+. ack Alarms 
+. reason for resident call - can input 
+. replace pager 
