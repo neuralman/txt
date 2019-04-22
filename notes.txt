@@ -1873,9 +1873,9 @@ page setup
 . open IE - nav to 192.168.1.85 - select survey "Maint" no pw - check first checkbox - enter number of seconds to test pager - after test uncheck box and save
 . put page back into box and give it to jim in shipping
 
-power supply setup
+w536 - power supply setup
 ...
-. for W536 power supply with 1212 transmitter
+. for W536 power supply with 1212-3600 transmitter (EN1212-60 60min checkin)
 . get file for template
 . mark hole using top hole from template
 . take about receiver and user back mount to mark 2nd hole on bottom
@@ -1883,15 +1883,22 @@ power supply setup
 . install lock
 . install power cord and wire black and red from main board to relay
 . tie up power cord in 2 spots 
+. get grey cord for transmitter
+. screw in bottom plate of transmitter with bolt, lock washer, and net
+. wire transmitter
 . test power supply
 . plug in battery red first then black
 . plug in use fluke test DC for 13 on + and - and fuses
 . enroll receiver
 . unplug power to trigger error
 . unplug battery to trigger error
+. print 536 nursecall black and white sticker
+. print 6040 6080 red sticker for inside of power supply
+. HM sticker on top
+. label box on front and side
 . box to shipping
 
-HM-537-24v
+HM-537-24v power supply
 ...
 . install lock
 . install power
@@ -1900,7 +1907,8 @@ HM-537-24v
 . tie cord
 . test for 16v adjust if necessary
 . print brother sticker - black box - white
-. hm sticker
+. HM sticker
+. label box in front and side
 . deliver to shipping
 
 phone
