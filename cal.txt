@@ -50,6 +50,7 @@ may
 . 15 - bamboo 6-8p
 . 17 - pay-day
 . 18 - bamboo 2:30-10p
+. 19 - att - 325.82 ap
 . 22 - bamboo 6-8p
 . 25 - bamboo 5-10p
 . 31 - pay-day
