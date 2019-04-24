@@ -2118,4 +2118,8 @@ config old pagers
 . hold down red + green buttons
 . "0200"
 
+ps
+...
+. ./jia.ps1
+
 
