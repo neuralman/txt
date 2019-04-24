@@ -1945,6 +1945,15 @@ awr4000 pager
 . start cloning by pressing top button on configured device
 . send to shipping
 
+spok pager
+...
+ . use 7950 + 8000 app -  pager icon on desktop
+. 457.525
+. rma work - no need to record in excel
+. cap code - 077000
+. "service123"
+. 
+
 phone sys
 ...
 . transfer: park / transfer / ext / transfer
@@ -2103,3 +2112,10 @@ mobile app
 . ack Alarms 
 . reason for resident call - can input 
 . replace pager 
+
+config old pagers
+...
+. hold down red + green buttons
+. "0200"
+
+
