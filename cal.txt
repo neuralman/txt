@@ -35,7 +35,9 @@ apr
 . 21 - wf005
 . 22 - wf006 
 . 23 - wf007
-. 24 - wf008 - 5pm - call - charles law, bamboo - 6-8p, 
+. 24 - wf008 - 5pm - call - charles law, bamboo - 6-8p,
+. 25 - wf009
+. 26 - wf010 - 2pm charles law 
 . 27 - bamboo 2:30-11p
 
 may
