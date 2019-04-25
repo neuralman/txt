@@ -2122,4 +2122,19 @@ ps
 ...
 . ./jia.ps1
 
+sentry freedom wireless
+...
+. inovonics 900 mhz spread spectrum tech as backbone of wireless solutions
+. hm-sps: single patient station, 1/4" phone jack, led light
+. hm-1223s - pendant water resistant hold to activate
+
+
+repeater
+...
+. get facility receveiver serial
+. edit waybpoints
+. add new 
+... reception
+... receiver serial 
+... signal = 68
 
