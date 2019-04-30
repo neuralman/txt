@@ -2128,7 +2128,6 @@ sentry freedom wireless
 . hm-sps: single patient station, 1/4" phone jack, led light
 . hm-1223s - pendant water resistant hold to activate
 
-
 repeater
 ...
 . get facility receveiver serial
@@ -2142,3 +2141,4 @@ grow
 ...
 . 315 S. Boulevard
 . 404 N. Tampa Street
+. 4502 w gandy Boulevard
