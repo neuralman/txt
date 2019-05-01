@@ -2143,12 +2143,6 @@ grow
 . 404 N. Tampa Street
 . 4502 w gandy Boulevard
 
-links
-...
-. https://contacts.google.com/
-. https://todoist.com/
-. https://contacts.google.com/
-
 michelle ayala
 
 app 
@@ -2206,3 +2200,22 @@ testing
 10. clean up 
 11. box up
 12. to jim or warehouse
+
+phone #
+...
+. amazon - (888) 280-4331
+
+links
+...
+. https://contacts.google.com/
+. https://todoist.com/
+. https://contacts.google.com/
+. https://heritagemedcall.slack.com
+. https://heritagemed12.my.salesforce.com/
+. https://todoist.com/
+. https://docs.google.com/spreadsheets/u/0/
+. http://ipadstopwatch.com/clock-fullscreen.html 
+. https://gmail.google.com 
+
+
+
