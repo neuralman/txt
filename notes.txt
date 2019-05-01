@@ -2148,3 +2148,14 @@ links
 . https://contacts.google.com/
 . https://todoist.com/
 . https://contacts.google.com/
+
+michelle ayala
+
+app 
+...
+. figma
+
+ sites 
+ ...
+ . https://templated.code
+ 
