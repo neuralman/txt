@@ -2158,4 +2158,51 @@ app
  sites 
  ...
  . https://templated.code
- 
+
+power supply build - w536
+...
+
+build
+...
+01. install lock
+02. drill holes
+... 01. large - top
+... 02. smaller - bottom
+... 03. largest - clean
+03. wire red/black 
+04. wire power cord with hardware
+... 01. hardware
+... 02. brown
+... 03. blue
+... 04. green neutral (twister)
+... 05. tie down
+05. install transmitter
+... 01. get grey wire
+... 02. wire transmitter
+... 03. screw in plate with bolt/washer
+... 04. make green jumpers
+... 05. wire
+....... 01. black
+....... 02. green + jumper
+....... 03. skip 
+....... 04. white 
+....... 05. green jumper 
+....... skip
+
+testing
+...
+06. enroll transmitter 
+07. power test 
+... 01. plug in (first)
+... 02. wire up batter (red first then reverse) 
+... 03. test connections and fuses 
+08. print labels
+... 01. red en6040 + en6080 
+... 02. white hm536 and hm537 
+09. install stickers 
+... 01. red inside 
+... 02. white nursecall bottom front 
+... 03. heritage medcall top 
+10. clean up 
+11. box up
+12. to jim or warehouse
