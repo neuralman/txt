@@ -2208,8 +2208,6 @@ phone #
 links
 ...
 . https://contacts.google.com/
-. https://todoist.com/
-. https://contacts.google.com/
 . https://heritagemedcall.slack.com
 . https://heritagemed12.my.salesforce.com/
 . https://todoist.com/
