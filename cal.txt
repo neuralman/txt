@@ -47,16 +47,16 @@ may
 ...
 . 01 - (09) bamboo 6-8p
 . 02 - (10)
-. 03 - (11) pay-day
-. 04 - (12) bamboo 2:30-10p
-. 05 - (13) tax in?
-. 06 - (14)
-. 07 - (15)
-. 08 - (16) bamboo 6-8p
-. 09 - (17)
-. 10 - (18) last day to file?
-. 11 - (19) bamboo 2:30-10p
-. 12 - (20) mom-visit in wh
+. >>> 03 <<< - (11) pay-day
+. 04 - (12) sat - bamboo 2:30-10p
+. 05 - (13) sun - tax in?
+. 06 - (14) mon - 
+. 07 - (15) tue - 
+. 08 - (16) wed - bamboo 6-8p
+. 09 - (17) thr - 
+. 10 - (18) fri - last day to file?
+. 11 - (19) sat - bamboo 2:30-10p
+. 12 - (20) sun - mom-visit in wh
 . 15 - bamboo 6-8p
 . 17 - pay-day
 . 18 - bamboo 2:30-10p

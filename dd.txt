@@ -26,11 +26,14 @@ calendar
 
 alpha
 ...
+. $T - dollar tree
 . AT - att
+. AZ - amazon
 . BE - bamboo
 . C$ - cash
 . C1 - china1
 . CG - cgs
+. DI - dicks sporting goods
 . FI - FIOS
 . G$ - grow
 . GM - gm-fin
@@ -40,9 +43,11 @@ alpha
 . PS - pluralsight
 . PX - publix
 . RA - reis
+. SA - sports authority
 . SB - subway
 . SP - spotify
 . SW - speedway
+. TA - target
 . TB - taco bus
 . TE - teco
 . TL - trulieve
@@ -50,6 +55,7 @@ alpha
 . WG - walgreens
 . WI - winhaven-ins
 . WM - walmart
+. YM - ymca
 
 weekday
 ...
