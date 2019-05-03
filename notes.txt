@@ -2205,6 +2205,20 @@ phone #
 ...
 . amazon - (888) 280-4331
 
+backup
+...
+. setup
+. system
+. backup
+. backup now
+
+sql
+...
+. all programs
+. sql 2012
+. sql managment studio (as admin)
+. database
+
 links
 ...
 . https://contacts.google.com/
@@ -2214,6 +2228,4 @@ links
 . https://docs.google.com/spreadsheets/u/0/
 . http://ipadstopwatch.com/clock-fullscreen.html 
 . https://gmail.google.com 
-
-
-
+. https://calendar.google.com/calendar/r?pli=1
