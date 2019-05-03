@@ -2219,6 +2219,26 @@ sql
 . sql managment studio (as admin)
 . database
 
+VNS (Virtual Nurse Station)
+...
+. HMF3 Flasher
+. 4 transistors
+... 01. duty - sound 
+... 02. steady - light on / beep for 10 sec 
+... 03. slow - light blink / beep every 1 sec 
+... 04. fast - light blink / beep every 1/2 sec (2x each sec)
+
+electronics 
+...
+. resistors - color and code 
+. capacitor - filter / store limited power
+. diode - prevents power flow backwards
+. transistors - switch 
+. timer chips 
+. pot - potential / ometer / trim 
+. relay - controls priority
+
+
 links
 ...
 . https://contacts.google.com/
