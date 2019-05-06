@@ -2238,8 +2238,6 @@ electronics
 . pot - potential / ometer / trim 
 . relay - controls priority
 
-
-
 links
 ...
 . https://contacts.google.com/
