@@ -2252,3 +2252,17 @@ links
 boating 
 ...
 . https://bixpy.com/bixpy-outboard-kit-for-kayaks/?afmc=1i
+
+AURELIA
+...
+. https://aurelia.io/
+. http-server -o -c-1
+
+ps-daily 
+...
+01. Electronics fundamentals
+... Aurelia fundamentals
+
+sql web api 
+...
+. https://medium.com/@maheshi.gunarathne1994/building-a-restful-api-with-asp-net-web-api-and-sql-server-ce7873d5b331
