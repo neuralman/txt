@@ -2262,7 +2262,29 @@ ps-daily
 ...
 01. Electronics fundamentals
 ... Aurelia fundamentals
+... sql server 2012
 
 sql web api 
 ...
-. https://medium.com/@maheshi.gunarathne1994/building-a-restful-api-with-asp-net-web-api-and-sql-server-ce7873d5b331
+
+new 
+...
+. https://code-maze.com/net-core-series/
+. https://www.quackit.com/sql_server/sql_server_2016/tutorial/create_a_table_in_sql_server_2016.cfm
+.  https://www.visualstudio.com/dev-essentials/
+
+software sentry update 
+...
+01. setup / system / backup
+02. backup now to e:\Local BU 
+03. windows key + E 
+04. rename backup folder by adding b41035 to end of filename 
+05. shut down sentry 
+06. delete shortcut from desktop and start folder 
+07. windows key + all programs 
+08. find startup folder 
+09. unzip 1035 from c:\heritagemedcall folder 
+10. copy exe to hmc root folder 
+11. copy exe and create a shortcut in desktop folder and startup folder 
+12. restart pc 
+13. remote in to verify 
