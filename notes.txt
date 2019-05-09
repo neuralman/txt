@@ -2263,6 +2263,7 @@ ps-daily
 01. Electronics fundamentals
 ... Aurelia fundamentals
 ... sql server 2012
+... building an api with asp.net web api
 
 sql web api 
 ...
@@ -2287,4 +2288,78 @@ software sentry update
 10. copy exe to hmc root folder 
 11. copy exe and create a shortcut in desktop folder and startup folder 
 12. restart pc 
-13. remote in to verify 
+13. remote in to verify
+
+web api 
+...
+. overview
+. rest 
+. intro 
+. how http works 
+. what are resources? 
+. where we're headed 
+. designing the api
+. starting the project 
+. using postman 
+
+vns 
+...
+
+. sps patient station HMSPS
+... red +24
+... black - common 
+... white - dome lamp 
+... only on or steady 
+
+. HMF3 - Flasher 
+
+. pull stations
+... TES - SF155B 
+... SHOW - SF337 
+... 1BK2 - latching switch 
+... can program fast or slow or steady 
+
+duty circuit - sounder circuit 
+. follows alarm 
+. priority - emergency
+1. fast 
+2. slow 
+3. steady 10 sec 
+. CTUTCU - tone + light - duty -24 black - red +24 
+. HM Duty - tone only 
+. TCU - tone control unit 
+
+zone control 
+...
+. ZC3M - modular zone control 
+
+waypoint design
+...
+. divid into segments - 1 west, 1 center, 1 east 
+. in building 300' long, divide into 30' increments to establish waypoints 
+. 30' = 10 paces 
+. naming <description><building><floor><wing> 
+. example 
+... 1 east 1 
+... 1 east 2 
+... 1 east 3 
+... 1 east 4 
+... 1 center 5
+... 1 center 6
+and etc.
+. during install - waypoints will be entered in the system and installer will follow them to generate the waypoint "map" of signal levels
+. 2nd floor in reverse order - take stairs to continue at 2 west 1
+. when creating waypoints on buildings with outdoor repeaters it is important to add waypoints in each unit in front of all windows that face the repeaters.
+. for best performance, waypoints should be set on the periphery of the building on all outside facing windows.
+. import waypoints - choose a properly formatted text file for the import of waypoints (tab delimited)
+. file format: description / building / floor / wing 
+
+wip 
+...
+. restify 
+. ifttt 
+
+
+
+
+
