@@ -1875,6 +1875,7 @@ page setup
 
 w536 - power supply setup
 ...
+. use 600 power supply
 . for W536 power supply with 1212-3600 transmitter (EN1212-60 60min checkin)
 . get file for template
 . mark hole using top hole from template
@@ -1900,6 +1901,7 @@ w536 - power supply setup
 
 HM-537-24v power supply
 ...
+. use 400 power supply
 . install lock
 . install power
 . wire red and black
@@ -2352,14 +2354,70 @@ and etc.
 . when creating waypoints on buildings with outdoor repeaters it is important to add waypoints in each unit in front of all windows that face the repeaters.
 . for best performance, waypoints should be set on the periphery of the building on all outside facing windows.
 . import waypoints - choose a properly formatted text file for the import of waypoints (tab delimited)
-. file format: description / building / floor / wing 
+. file format: description / building / floor / wing
+. import - setup / facility / import
+. HM-SS1 site survey kit
+. partition - are we define as the loacation of a protable device to be found near 
+. setting soft points 
+
+restify 
+...
+. http://restify.com/docs/home/
+
+
 
 wip 
 ...
 . restify 
 . ifttt 
 
+node 
+...
+. https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2 
 
+particle 
+...
+. https://docs.particle.io/argon/
 
+https://codeforgeek.com/express-nodejs-tutorial/
 
+for charles
+...
+. https://www.floridabar.org/the-florida-bar-journal/proving-standing-to-foreclose-a-florida-mortgage/
+
+https://casetext.com/case/powell-v-wells-fargo-home-mortg-2
+
+http://fortune.com/2018/04/13/wells-fargo-car-loans-mortgage/
+
+mongo db 
+...
+. C:\Program Files\MongoDB\Server\4.0\data\
+
+setup 
+...
+https://www.robinwieruch.de/developer-setup/
+https://www.robinwieruch.de/react-js-windows-setup/
+
+CQRS 
+...
+.  Cross-origin resource sharing (CORS) was invented to secure web applications on a domain level. The idea: It shouldn’t be possible to access data from other domains.
+
+rest api 
+...
+. 2000 by Roy Fielding 
+
+cURL 
+...
+. providing a library and command-line tool for transferring data using various protocols
+
+java t point 
+... 
+. https://www.javatpoint.com/flask-tutorial 
+
+https://jasonwatmore.com/post/2018/10/29/angular-7-user-registration-and-login-example-tutorial
+
+powershell commands 
+...
+. get-process
+. stop-process -name Spotify -force
 
