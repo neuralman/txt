@@ -2421,4 +2421,57 @@ powershell commands
 . get-process
 . stop-process -name Spotify -force
 
+waypoint notes 
+...
+. black device to set waypoints - 1236D
+. pca - no longer supported
+. EN1221S - can use if that is the pendant
+. all others must use 1236D
+
+rethinkdb + express rest api 
+... 
+. https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs
+. npm install bcrypt bluebird body-parser cors dotenv express helmet jwt-simple moment morgan rethinkdb --save
+. bcrypt
+. bluebird 
+. body-parser 
+. cors 
+. dotnev 
+. express 
+. morgan - logger
+. github example - https://github.com/cmwalsh/express_rethink/blob/master/lib/rethink.js
+. cookbook - https://rethinkdb.com/docs/cookbook/javascript/
+. htmf5 rocks - https://developers.google.com/web/fundamentals/primers/promises 
+
+jwt article - using json web tokens with node.js
+...
+. https://www.sitepoint.com/using-json-web-tokens-node-js/
+
+node 
+...
+. https://www.nodebeginner.org/#a-word-of-warning
+. http://fabien.benetou.fr/pub/Prototypes/node/nodebeginner.pdf
+. https://martinfowler.com/articles/injection.html
+. http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+. http://msdn.microsoft.com/en-us/magazine/cc163419.aspx
+. https://flaviocopes.com/page/ebooks-links/
+
+node for beginner book
+...
+. 43
+. 54
+
+understanding node.js 
+...
+. node-formidable by Felix Geisendoerfer
+
+react 
+...
+. facebook - 2013 
+
+react book 
+...
+. 17 
+. 207 
+
 test
