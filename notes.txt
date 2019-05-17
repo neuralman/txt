@@ -2468,10 +2468,79 @@ understanding node.js
 react 
 ...
 . facebook - 2013 
+. https://codesandbox.io/s 
+. codepen - https://codepen.io/flaviocopes/pen/VqeaxB
 
 react book 
 ...
-. 17 
+. 24
 . 207 
 
-test2
+javascript 
+...
+. if you don't init var when you declare it will have undefined value until you assign a value to it
+. scope is where var is visable
+. var does not have block scope but function scope
+. hoisting - moving all var to top in function before execution 
+. let - block scope - using let outside of function does not create global var
+. const has block scope just like let
+. arrow function - one parameter you can omit parentheses
+. => () not suitable for object methods
+. spread operator - [...a] { ...oldObj }
+. string spread creates each char of string
+
+. const f = (foo, bar) => {}
+. const a = [1,2]
+. f(...a)
+
+. interpolation - `${...}`
+. const var = 'test'
+. const string = `something ${var}`
+
+
+
+smf - 5/25/19 
+...
+12th planet
+4b
+alison wonderland
+blunts & blondes 
+bonnie x clyde 
+chris lake 
+decadon 
+destructo 
+dion timmer 
+dnmo 
+dog blood 
+dombresky 
+droeloe 
+fisher 
+flux pavillion 
+gabriel & dresden 
+gammer 
+ganja white night 
+getter 
+gg magree 
+holly 
+ilan bluestone 
+illenium 
+kaskade 
+lick 
+liquid stranger 
+mat zo 
+matt medved 
+oliver smith 
+omnom 
+peekaboo 
+phantoms 
+rusko 
+said the sky 
+steve darko 
+subtronics 
+tchami 
+walker & royce 
+weiss 
+will clarke 
+yael 
+zedd 
+zeds dead 

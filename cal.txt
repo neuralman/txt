@@ -50,19 +50,28 @@ may
 . 03 - (11) pay-day
 . 04 - (12) sat - bamboo 2:30-10p
 . 05 - (13) sun - tax in?
-. >>> 06 <<< - (14) mon - 
+. 06 - (14) mon - 
 . 07 - (15) tue - 
 . 08 - (16) wed - bamboo 6-8p
 . 09 - (17) thr - 
 . 10 - (18) fri - last day to file?
 . 11 - (19) sat - bamboo 2:30-10p
 . 12 - (20) sun - mom-visit in wh
+. 13
+. 14
 . 15 - bamboo 6-8p
-. 17 - pay-day
+. 16
+. >>> 17 <<< - pay-day
 . 18 - bamboo 2:30-10p
-. 19 - att - 325.82 ap
+. 19 - att - 325.82 ap - clean house + yard + window
+. 20
+. 21
 . 22 - bamboo 6-8p
-. 25 - bamboo 5-10p
+. 23
+. 24
+. 25 - bamboo 2:30-11p
+. 26
+. 27
 . 31 - pay-day
 
 jun
