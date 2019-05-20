@@ -2497,7 +2497,9 @@ javascript
 . const var = 'test'
 . const string = `something ${var}`
 
-
+methods 
+...
+. static - executed on the class instead of instance
 
 smf - 5/25/19 
 ...
@@ -2544,3 +2546,31 @@ will clarke
 yael 
 zedd 
 zeds dead 
+
+rethinkdb 
+...
+. cli 
+... import 
+... export
+... dump 
+... restore 
+
+sentry software update procedures 
+...
+. extract latest sentry .exe file 
+. save .exe to HMC folder 
+
+. from main pc (win+e) 
+. copy .exe to HMC folder 
+. backup data to remote drive local backup folder 
+. verify that 4 files backed up 
+. rename folder by adding (before1067) to end of file name 
+. copy shortcut to desktop 
+. (win+r) keys to launch startup folder 
+. copy shortcut from desktop to startup folder 
+. launch sentry verify connection
+. (admin login popup - check private and public and log in with HMC admin pw)
+
+. from remote terminal 
+. don't backup but perform the same steps to copy shortcut to desktop and starup folders
+
