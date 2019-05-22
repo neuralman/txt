@@ -2567,10 +2567,60 @@ sentry software update procedures
 . rename folder by adding (before1067) to end of file name 
 . copy shortcut to desktop 
 . (win+r) keys to launch startup folder 
-. copy shortcut from desktop to startup folder 
+. copy shortcut from desktop to startup folder (shell:startup)
 . launch sentry verify connection
 . (admin login popup - check private and public and log in with HMC admin pw)
 
 . from remote terminal 
 . don't backup but perform the same steps to copy shortcut to desktop and starup folders
+
+js book 
+...
+. 006
+. 171
+
+svelte 
+...
+. npx degit sveltejs/template my-svelte-project 
+. cd my-svelte-project 
+. npm install 
+. npm run dev 
+
+paging transmitter 
+...
+. TAP - fusion intel IP5 
+. TAP2 - new - scope 
+. 6040 0 COM2 - most common 
+. 6080 - COM1 
+. pager password "0200" manually config.
+
+
+vns 
+...
+
+parts 
+...
+. patient stations 
+. flasher 
+. 24v dc power supply 
+. annunciator 
+. tone unit 
+
+intro 
+...
+. basic nurse and patient comm sys 
+. annunciator panel located conveniently to staff members (10,20,30,40,50,60)
+. 60 buttons largest 
+. code blue - code blue emergency stations 
+. toilet emergency stations 
+. normal calls from patients 
+. each annunciator panel requires a seperate tone unit for audio signalling 
+. dome lamps can be used in conjunction with the station uniuts for added signalling 
+. call prioritizing - fast (2/sec), slow (1/sec), steady (every 10 sec)
+
+stations 
+...
+01. sps - single patient station 
+02. dps - dual patient station  
+03. dps-2GA - dual patient station two gang 
 
