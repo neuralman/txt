@@ -2574,11 +2574,6 @@ sentry software update procedures
 . from remote terminal 
 . don't backup but perform the same steps to copy shortcut to desktop and starup folders
 
-js book 
-...
-. 006
-. 171
-
 svelte 
 ...
 . npx degit sveltejs/template my-svelte-project 
@@ -2593,7 +2588,6 @@ paging transmitter
 . 6040 0 COM2 - most common 
 . 6080 - COM1 
 . pager password "0200" manually config.
-
 
 vns 
 ...
@@ -2618,9 +2612,53 @@ intro
 . dome lamps can be used in conjunction with the station uniuts for added signalling 
 . call prioritizing - fast (2/sec), slow (1/sec), steady (every 10 sec)
 
+priority 
+...
+. high - code blue
+. medium - toilet or shower emergency call 
+. low - patient normal call
+
 stations 
 ...
 01. sps - single patient station 
 02. dps - dual patient station  
 03. dps-2GA - dual patient station two gang 
+
+vns - equipment 
+...
+. HM-F3 - 3 level flasher unit 
+. HM-ZCM - Zone Control Module 
+. HM-24v-3.6A power supply 
+. HM-A10 - 10 button 
+. HM-A20 - 20
+. HM-A30 - 30 
+. HM-A40 - 40 
+. HM-A50 - 50 
+. HM-A60 - 60 
+. HM-CTU/TCU - tone control unit 
+. HM-SPS - single patient station
+. HM-DPS - dual patient station 
+. HM-DPS/2GA - dual patient station 
+
+
+js book 
+...
+. 035
+. 171
+
+js 
+. TC39 - committee that evolves JavaScript
+. ES.Next - next version of js 
+. prettier tool that enforces code formatting 
+. indent with 2 spaces 
+. don't use semicolons
+. keep line length at 80 chars if possible 
+. always declare variables - never use var default to const only use let if you reassign the variable 
+. comment /* */ or //
+
+waypoint notes 
+...
+. 1221s - 2 button can use as survey tool 
+. 1223s - 1 button only cannot use as survey tool 
+. 1236D - black garage door opening looking device uses duracell camera battery CR2 
 
