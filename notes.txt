@@ -2428,6 +2428,12 @@ waypoint notes
 . EN1221S - can use if that is the pendant
 . all others must use 1236D
 
+hmc - voice mail xfer 
+...
+. pick up extension 
+.. 7 -ext #
+.. andrew - (7-117)
+
 rethinkdb + express rest api 
 ... 
 . https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs
@@ -2662,3 +2668,25 @@ waypoint notes
 . 1223s - 1 button only cannot use as survey tool 
 . 1236D - black garage door opening looking device uses duracell camera battery CR2 
 
+interpolation - 
+
+rethinkdb links 
+...
+. https://www.rethinkdb.com/docs/cookbook/javascript/ 
+. https://www.rethinkdb.com/docs/guide/javascript/
+
+angular 7/8 
+...
+. https://www.techiediaries.com/angular-tutorial/
+. https://www.techiediaries.com/django-tutorial/
+
+ng7 notes 
+...
+. npm install -g @angular/cli --no-optional
+
+windows 10 pro
+
+ng-training-links 
+...
+. 05/28/19 - https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
+. 
