@@ -2689,4 +2689,96 @@ windows 10 pro
 ng-training-links 
 ...
 . 05/28/19 - https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
-. 
+. 05/29/19 - angular.io tour of hero tutorial
+. 05/30/19 - Angular Forms - 2 Apr 2019 - https://app.pluralsight.com/library/courses/angular-forms/table-of-contents
+
+. Angular Architecture and Best Practices - 15 Jan 2019 - https://app.pluralsight.com/library/courses/angular-architecture-best-practices/table-of-contents
+. Angular Best Practices - 23 Oct 2017 - https://app.pluralsight.com/library/courses/best-practices-angular/table-of-contents
+. Angular CLI - 31 Aug 2018 - https://app.pluralsight.com/library/courses/angular-cli/table-of-contents
+. Angular: First Look - 9 Nov 2016 - https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents
+. Angular Fundamentals - 1 Feb 2019 - https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
+. Angular: Getting Started - 8 Nov 2018 - https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents
+. Angular HTTP Communication - 5 Feb 2019 - https://app.pluralsight.com/library/courses/angular-http-communication/table-of-contents
+. Angular NgRx: Getting Started - 25 Jun 2018 - https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents
+. Angular Reactive Forms - 6 Nov 2018 - https://app.pluralsight.com/library/courses/angular-2-reactive-forms/table-of-contents
+. Angular Routing - 20 Dec 2018 - https://app.pluralsight.com/library/courses/angular-routing/table-of-contents
+. Angular Services - 19 Nov 2018 - https://app.pluralsight.com/library/courses/angular-services/table-of-contents
+. Angular: The Big Picture - 13 Dec 2017 - https://app.pluralsight.com/library/courses/ng-big-picture/table-of-contents
+. Building Data Centric Apps with Angular and BreezeJS - 20 Jun 2017 - https://app.pluralsight.com/library/courses/building-data-centric-apps-angular-breezejs/table-of-contents
+. Code with Us: Angular Quick Start - 10 Feb 2017 - https://app.pluralsight.com/library/courses/code-with-us-angular-quick-start/table-of-contents
+. Structuring Angular Applications with Angular Libraries - 11 Apr 2019 - https://app.pluralsight.com/library/courses/structuring-angular-applications-angular-libraries/table-of-contents
+. Styling Angular Applications - 8 Feb 2017 - https://app.pluralsight.com/library/courses/styling-angular-applications/table-of-contents
+. The Journey from MVC to Angular - 21 Jul 2016 - https://app.pluralsight.com/library/courses/mvc-angular-journey/table-of-contents
+. Unit Testing in Angular - 6 Sep 2018 - https://app.pluralsight.com/library/courses/unit-testing-angular/table-of-contents
+
+alt+z - toggle word wrap
+
+spok pager hmc 
+...
+. pw 'service123'
+. RF tab check freq setting 
+. find latest config file on desktop
+
+ng7 notes 
+...
+. pipes - good way to format strings, currency, dates and other display data - can create  your own
+. interpolation binding - {{ text }}
+. [(ngModel)] 2-way data binding syntax
+. import { FormsModule } from '@angular/forms';
+. every component must be declared in exactly one NgModule
+. <li *ngFor="let hero of heroes"> - repeater directive
+. master/detail pattern
+. event binding - (click) onSelect()
+. *ngIf - hide when
+. The Angular class binding makes it easy to add and remove a CSS class conditionally. Just add [class.some-css-class]="some-condition" to the element you want to style.
+. [class.selected]="hero === selectedHero"
+.  @Input() hero: Hero;
+. <app-hero-detail [hero]="selectedHero"></app-hero-detail>
+. [hero]="selectedHero" is an Angular property binding.
+. services - Angular dependency injection to inject it into the HeroesComponent constructor.
+. Services are a great way to share information among classes that don't know each other.
+. import { Injectable } from '@angular/core';
+. @Injectable({ providedIn: 'root',})
+. This marks the class as one that participates in the dependency injection system. 
+. Observable is one of the key classes in the RxJS library.
+. import { Observable, of } from 'rxjs';
+. Angular only binds to public component properties.
+. The method is called forRoot() because you configure the router at the application's root level. The forRoot() method supplies the service providers and directives needed for routing, and performs the initial navigation based on the current browser URL.
+. Note the backticks ( ` ) that define a JavaScript template literal for embedding the id.
+. import { HttpClientModule } from '@angular/common/http';
+. bootstrap - npm install --save bootstrap
+. add min.js file to angular.json under style section
+. NgForm <form #form="ngForm">...</form> {{ form | json }}
+. NgModel
+. <form #form="ngForm" ngNativeValidate> required, pattern="B.*" (start with B any length), minlength="3", maxlength="3", type="number" min="3" max="300"
+. css classes for validation
+. ng-untouched / ng-touched 
+. ng-pristine / ng-dirty - unmodified 
+. ng-valid / ng-invalid 
+.   <h3>dirty: {{ propertyTest.dirty }}</h3>
+    <h3>pristine: {{ propertyTest.pristine }}</h3>
+    <h3>touched: {{ propertyTest.touched }}</h3>
+    <h3>untouched: {{ propertyTest.untouched }}</h3>
+    <h3>valid: {{ propertyTest.valid }}</h3>
+    <h3>invalid: {{ propertyTest.invalid }}</h3>
+. styling forms with validation errors
+. .ng-invalid:not(form) {
+    border: 1px solid red;
+}
+.  <div [hidden]="c.valid || c.untouched"
+        class="alert alert-danger">
+        Enter a Name
+      </div>
+. <form #form="ngForm" (ngSubmit)="onSubmit(form)">
+. angular.io controls
+. ng add ngx-bootstrap --component buttons 
+
+https://jsbooks.revolunet.com/
+
+putsreq.com
+
+https://www.positronx.io/free-angular-tutorials/
+
+
+
+
