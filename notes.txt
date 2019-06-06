@@ -2691,6 +2691,9 @@ ng-training-links
 . 05/28/19 - https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
 . 05/29/19 - angular.io tour of hero tutorial
 . 05/30/19 - Angular Forms - 2 Apr 2019 - https://app.pluralsight.com/library/courses/angular-forms/table-of-contents
+. 05/31/19 - >>> THIS IS THE TUTORIAL I WAS LOOKING FOR FOR ANGULAR FIREBASE <<< - Angular/Angularfire2/Firebase - https://www.youtube.com/watch?v=cwqeyOFcaoA
+. 06/04/19 - Serveless Programming with Fn project
+. 06/04/19 - Angular Reactive Form
 
 . Angular Architecture and Best Practices - 15 Jan 2019 - https://app.pluralsight.com/library/courses/angular-architecture-best-practices/table-of-contents
 . Angular Best Practices - 23 Oct 2017 - https://app.pluralsight.com/library/courses/best-practices-angular/table-of-contents
@@ -2772,6 +2775,10 @@ ng7 notes
 . <form #form="ngForm" (ngSubmit)="onSubmit(form)">
 . angular.io controls
 . ng add ngx-bootstrap --component buttons 
+. npm install --save materialize-css jquery font-awesome
+. ng update @angluar/cli @angular/core
+. ng g s services/item
+. 'asc' ascending - 'desc' descending
 
 https://jsbooks.revolunet.com/
 
@@ -2779,6 +2786,72 @@ putsreq.com
 
 https://www.positronx.io/free-angular-tutorials/
 
+apps 
+...
+. app001 - 05/31/19 @ 09:23 - firebase travesy tutorial
+
+https://fontawesome.com/v4.7.0/cheatsheet/
+
+apollo jumbo led pager display 
+...
+. 512bps
+. freq: 457.525
+. cap: 0770050
+. cap: 0770150
+. marqis code = apollo
+
+ng reactive forms 
+...
+. FromGroup
+. FormControl
+. setValue
+. patchValue
+
+. formGroup 
+. formControl 
+. formControlName 
+. formGroupName 
+. formArrayName 
 
 
+
+
+https://www.online-stopwatch.com/cash-clock/
+
+
+mobile install steps 
+...
+. install WAMP 64 bit and run as admin 
+. https://sourceforge.net/projects/wampserver/
+. if dll error run vc redistributable updates all
+. right click wamp settings check menu item: offline / online 
+. left click on Apache icon in taskbar and choose http://vhosts.conf and edit file 
+... Allow Override All
+... Require all granted 
+. created folder c:\wamp64\www\a 
+. place in folder the file index.php 
+. place mobilealarms.exe in c:\\heritagemedcall
+. run once as admin or from elevated command prompt 
+... cd c:\heritagemedcall 
+... mobilealarms.exe /regserver 
+. start WAMP 
+. left click icon in taskbar, should be Online 
+. to have WAMP start with windows 
+... log in as admin
+... start / run "services.msc" 
+... right click on wampache - properties and setup type "automatic" 
+. freedom software changes 
+... under setup / external sources / web security 
+... choose windows folder of the area of web site to protection
+... c:\wamp64\www\a 
+... apache executable password 
+... c:\wamp\bin\apache\apache2.4.23\bin\htpasswd.exe 
+... choose folder to store password - c:\heritagemedcall 
+... click [ ] enable to save 
+. a file called '.htaccess2' will be created 
+. open file with notepad and save as ".htaccess" with quotes 
+. open control panel 
+. open window firewall 
+. add apache http server 
+... c:\wamp64\bin\apache\apace2.##\bin\httpd.exe
 
