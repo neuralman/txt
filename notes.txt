@@ -1,3 +1,5 @@
+cat - 2107093
+
 ---
 layout: jia
 title:  "notes"
@@ -2855,3 +2857,41 @@ mobile install steps
 . add apache http server 
 ... c:\wamp64\bin\apache\apace2.##\bin\httpd.exe
 
+fullpage.js - https://www.youtube.com/watch?v=IeZSN6lWsWM
+designcourse home page - https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+
+comppage tech support - http://comppage.com/contact_us.htm
+...
+. techsupport@comppage.com
+. live customer care center - 1-877-969-6976 - Monday thru Friday   8:00am to 5:00pm (EST)
+. tech support - 1-561-969-7124 - Monday thru Friday.   7:00am to 5:00pm (EST)
+. 06/07/19 @ 9:05am - spoke to bill will call UK to see if there's anything we can try to make it runn better
+
+mmerritt@astongardens.com
+
+tom thomas.hiznay@parkcenterhcrc.com
+
+update sentry 
+...
+. backup data 
+. rename with + 'b41072'
+. copy .exe to hmc folder
+. 
+
+HMCSentryremote.exe 
+...
+. ini file
+. change HostIP=
+. on main pc change network settings / change adaptor settings / static ip / not ACG or 6080
+
+var d = new Date();
+var weekday = new Array(7);
+weekday[0] =  "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
+var n = weekday[d.getDay()];
