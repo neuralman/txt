@@ -2895,3 +2895,149 @@ weekday[5] = "Friday";
 weekday[6] = "Saturday";
 
 var n = weekday[d.getDay()];
+
+stackblitz notes 
+...
+. Click on that button with the arrow pointing down
+. cd into you project cd "your app name"
+. npm install
+. ng serve
+
+angular 6+
+...
+. npm install 
+. ng update 
+. npm update 
+. npm i --only=dev
+
+
+npm uninstall -g @angular/cli@6.0.8
+npm cache clean --force
+npm install -g @angular/cli@latest
+npm install node-sass -g
+ng new MY_PROJECT_NAME
+cp -r from_my_old_project to_new_MY_PROJECT_NAME
+
+ng update ng8
+...
+. ng update @angular/cli @angular/core
+
+ng8 uninstall
+...
+. npm uninstall -g angular-clinpm cache verify
+. npm cache verify
+. npm cache clean 
+. npm install -g @angular/cli@latest 
+
+https://appdividend.com/2019/06/07/angular-8-forms-tutorial-angular-reactive-and-template-forms-example/
+
+https://appdividend.com/2019/06/07/angular-8-file-upload-tutorial-with-example-angular-image-upload/
+
+html5 web storage indexddb file system
+
+ps-course
+...
+. HTML5 Web Storage, IndexedDB and File System
+. dan wahlin - structuring javascript code
+. knockout fundamentals
+
+https://developers.google.com/web/fundamentals/design-and-ux/ux-basics/
+
+To look up Humana providers in the Premier network:
+
+Go to Humana.com
+Scroll down to Manage Your Account and select “Find a doctor” on the right hand side of the page.
+Select your “Search Type” from the drop down box (it defaults to medical)
+Under “Coverage Type” select “Insurance through your employer”
+Insert your zip code
+From the Network drop down select “HMO Premier”
+Form the Search drop down select name, specialty, or type of doctor you are looking for.
+You can further refine your search by distance, specialty, etc.
+
+You can always give us any doctor/facility you would like to check and we will confirm whether they are in the Premier network for you.
+
+Let us know if you have any questions or issues in looking up providers and/or if you need anything else.
+
+
+https://alistapart.com/article/making-your-javascript-pure/
+
+https://www.youtube.com/embed/Zftx68K-1D4
+
+https://www.edx.org/course/developing-dynamic-web-applications-microsoft-dev216x-0?source=aw&awc=6798_1561668213_15cd76834e21eb6cbc4bcc770537d19d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=427859_Digital+Defynd
+
+70-480
+...
+. getElementById - gets individual element on the page by it's unique id attribute value
+. getElementByClassName - get element by class
+. getElementByTagName - use tag name
+. querySelector - get first child element found that matches the css selector criteria
+. querySelectorAll - get all child element that match the css selector criteria
+
+https://medium.com/moleculer/5-easy-steps-to-create-your-rest-microservice-in-nodejs-94aede3249fc
+
+hmc import process
+...
+The Import window allows you to choose a properly formatted text file for the import of resident names, phone num-bers, room numbers, waypoints and devices. This is usually accomplished during installation from census data pro-vided by the facility. By properly formatting existing data and importing it into the system the time and amount of data entry can be greatly reduced.
+The most common way to format the data is to work the list into the proper columns in Excel™ and save the file as tab delimited text. This choice can be found in the drop down box labeled “Save as Type”.
+To import names the columns must have the following headings:
+last name first name phone
+Any other fields will be ignored.
+To import rooms the columns must have the following heading:
+room
+Once the import is complete the Residents and Rooms will be viewable in the Lists window.
+To import waypoints the columns must have the following headings:
+description building floor wing
+The “description” column is the area annunciated for location.
+The “building” column is the description of the waypoint.
+The “wing” and “floor” are for designating the wing and floor of the location.
+To import transmitters select the file that was created using the “Device Enrollment Application”. This application may be used to enroll transmitters, repeaters and locators on another PC and then import them into this system.
+After each import is complete the window will display “Done” next the file window. If an error was encountered during import the error message ”Error, file not processed” will be displayed.
+
+https://t.co/rD5TsUSVa3
+
+gold pager manual setup
+...
+. new pagers
+... hold down middle button while battery is removed and insterted until password screen is up
+... new pager "0000"
+... configured pager "0200"
+
+https://cdn.glitch.com/
+21
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj021.png?1562945958912
+
+https://cdn.glitch.com/
+22
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj022.png?1562945958618
+
+https://cdn.glitch.com/
+23
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj023.png?1562945959469
+
+24https://cdn.glitch.com/
+24
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj024.png?1562945958850
+
+https://cdn.glitch.com/
+25
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj025.png?1562945959647
+
+https://cdn.glitch.com/
+26
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj026.png?1562945958428
+
+https://cdn.glitch.com/
+27
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj027.png?1562945958464
+
+https://cdn.glitch.com/
+28
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj028.png?1562945958547
+
+https://cdn.glitch.com/
+29
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj029.png?1562945958390
+
+https://cdn.glitch.com/
+30
+80dc2e8c-9a84-48e6-97b4-05af586cc36f%2Fj030.png?1562945958810
